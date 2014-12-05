@@ -1,0 +1,23 @@
+#  s.visit "http://genius.com/2pac-got-my-mind-made-up-lyrics"
+#  search_results = s.all(:css, ".featured_artists a")
+# search_results.map{|e| e.text}
+
+class PageParser
+	attr_accessor :session
+
+	def initialize(session)
+		@session = session
+	end
+
+	def urlSearch(url)
+		session.visit url
+		feat = s.all(:css, ".featured_artists a")
+		feat.map{|r| r.text}
+	end
+end
+
+session = Capybara::Session.new :selenium
+parser = PageParser.new(session)
+
+
+parser.urlSearch("http://genius.com/2pac-got-my-mind-made-up-lyrics")
