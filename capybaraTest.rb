@@ -12,6 +12,18 @@ class SearchResultParser
 		@session = session
 	end
 
+	def scrollEntirePage(url)
+		session.visit url
+
+		while session.first(:css, ".pagination") != nil
+			session.execute_script("scrollTo(0,document.body.scrollHeight);")
+			sleep 1
+		end
+		return self
+	end
+
+
+
 	def urlArray
 
 		urls = session.all(:css, ".search_result a")
@@ -81,8 +93,8 @@ $parser = PageParser.new(session)
 
 arrayParser = SearchResultParser.new(session)
 
-# arrayParser.parseArray("http://genius.com/search?q=odd")
-arrayParser.parseArray("http://genius.com/search?q=outkast")
+# arrayParser.parseArray("http://genius.com/search?q=outkast")
+arrayParser.scrollEntirePage("http://genius.com/search?q=outkast")
 
 # puts parser.urlSearch("http://genius.com/2pac-got-my-mind-made-up-lyrics")
 
