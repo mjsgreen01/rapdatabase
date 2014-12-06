@@ -11,10 +11,19 @@ class SearchResultParser
 	def initialize(session)
 		@session = session
 	end
-	
-	def getUrls
-		urls = session.all(:css, ".sear_result a")
-		urls.map {|u| u[:href]}
+
+	def urlArray
+
+		urls = session.all(:css, ".search_result a")
+		return urlsArray = urls.map {|u| u[:href]}
+	end
+
+	def parseArray(url)
+		session.visit url
+
+		theUrls = urlArray
+		theUrls.map{|u| puts $parser.urlSearch(u)}
+
 	end
 end
 
@@ -60,8 +69,12 @@ end
 #to convert to JSON format===>  JSON.pretty_generate()
 
 session = Capybara::Session.new :selenium
-parser = PageParser.new(session)
+$parser = PageParser.new(session)
 
+arrayParser = SearchResultParser.new(session)
 
-puts parser.urlSearch("http://genius.com/2pac-got-my-mind-made-up-lyrics")
+# arrayParser.parseArray("http://genius.com/search?q=odd")
+arrayParser.parseArray("http://genius.com/search?q=pete+rock")
+
+# puts parser.urlSearch("http://genius.com/2pac-got-my-mind-made-up-lyrics")
 
