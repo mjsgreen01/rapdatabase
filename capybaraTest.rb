@@ -50,8 +50,15 @@ class PageParser
 	end
 
 	def findProducer
-		producer = session.find(:css, ".producer_artists a").text
-		return producer
+		if session.first(:css, ".producer_artists a") != nil
+			producer = session.find(:css, ".producer_artists a").text
+			return producer
+		end
+	end
+
+	def findAudioLink
+			link = session.find(:css, ".audio_link a")
+			return link[:href]
 	end
 
 	def urlSearch(url)
@@ -62,6 +69,7 @@ class PageParser
 			"title" =>  findTitle,
 			"featured" => findFeatured,
 			"producer" => findProducer,
+			"audioLink" => findAudioLink
 			}
 	end
 end
@@ -74,7 +82,7 @@ $parser = PageParser.new(session)
 arrayParser = SearchResultParser.new(session)
 
 # arrayParser.parseArray("http://genius.com/search?q=odd")
-arrayParser.parseArray("http://genius.com/search?q=pete+rock")
+arrayParser.parseArray("http://genius.com/search?q=outkast")
 
 # puts parser.urlSearch("http://genius.com/2pac-got-my-mind-made-up-lyrics")
 
