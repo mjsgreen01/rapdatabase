@@ -1,0 +1,1 @@
+s = Capybara::Session.new :selenium

@@ -14,15 +14,22 @@ class SearchResultParser
 
 	def scrollEntirePage(url)
 		session.visit url
-
-		# while session.first(:css, ".pagination") != nil
-		# 	session.execute_script("scrollTo(0,document.body.scrollHeight);")
-		# 	sleep 1
-		# end
+		begin	
+			while session.first(:css, ".pagination") != nil
+				5.times{
+					session.execute_script("scrollTo(0,document.body.scrollHeight);")
+					sleep 3
+				}
+				sleep 1
+			end
+		rescue
+			puts "Something went wrong, moving on"
+		end
 		return self
 	end
 
 	def artistAlbumUrlArray(u)
+		begin
 			session.visit u
 
 			if session.first(:css, ".album_link") != nil
@@ -31,27 +38,41 @@ class SearchResultParser
 			else
 				return nil
 			end
+		rescue
+			puts "Something went wrong, moving on"
+		end
 	end
 
 	def albumSongUrlArray(u)
-		session.visit u
+		begin
+			session.visit u
 
-		urls = session.all(:css, ".song_name")
-		return urls.map {|u| u[:href]}
+			urls = session.all(:css, ".song_name")
+			return urls.map {|u| u[:href]}
+		rescue
+			puts "Something went wrong, moving on"
+		end
 	end
 
 	def artistUrlArray
-
-		urls = session.all(:css, ".artist_link")
-		return urls.map {|u| u[:href]}
+		begin
+			urls = session.all(:css, ".artist_link")
+			return urls.map {|u| u[:href]}
+		rescue
+			puts "Something went wrong, moving on"
+		end
 	end
 
-	def parseArray(url)
-		session.visit url
+	def parseArray(u)
+		begin
 
-		theUrls = artistUrlArray
-		theUrls.map{|u| puts $parser.urlSearch(u)}
+			return $parser.urlSearch(u)
 
+			# theUrls = artistUrlArray
+			# theUrls.map{|s| puts $parser.urlSearch(s)}
+		rescue
+			puts "Something went wrong, moving on"
+		end
 	end
 end
 
@@ -63,42 +84,70 @@ class PageParser
 	end
 
 	def findArtist
-		artist = session.find(:css, ".text_artist a").text
-		return artist
+		begin
+			artist = session.find(:css, ".text_artist a").text
+			return artist
+		rescue
+			puts "Something went wrong, moving on"
+		end
 	end
 
 	def findTitle
-		title = session.find(:css, ".text_title").text
-		return title
+		begin
+			title = session.find(:css, ".text_title").text
+			return title
+		rescue
+			puts "Something went wrong, moving on"
+		end
 	end
 
 	def findFeatured
-		feat = session.all(:css, ".featured_artists a")
-		return feat.map{|r| r.text}
+		begin
+			if session.first(:css, ".featured_artists a") != nil
+				feat = session.all(:css, ".featured_artists a")
+				return feat.map{|r| r.text}
+			end
+		rescue
+			puts "Something went wrong, moving on"
+		end
 	end
 
 	def findProducer
-		if session.first(:css, ".producer_artists a") != nil
-			producer = session.find(:css, ".producer_artists a").text
-			return producer
+		begin
+			if session.first(:css, ".producer_artists a") != nil
+				producer = session.all(:css, ".producer_artists a")
+				return producer.map{|r| r.text}
+			end
+		rescue
+			puts "Something went wrong, moving on"
 		end
 	end
 
 	def findAudioLink
-			link = session.find(:css, ".audio_link a")
-			return link[:href]
+		begin
+			if session.first(:css, ".audio_link a") != nil
+				link = session.find(:css, ".audio_link a")
+				return link[:href]
+			end
+		rescue
+			puts "Something went wrong, moving on"
+		end
 	end
 
 	def urlSearch(url)
-		session.visit url
-		
-		return {
-			"artist" => findArtist,
-			"title" =>  findTitle,
-			"featured" => findFeatured,
-			"producer" => findProducer,
-			"audioLink" => findAudioLink
-			}
+		begin
+			session.visit url
+			
+			return {
+				"artist" => findArtist,
+				"title" =>  findTitle,
+				"featured" => findFeatured,
+				"producer" => findProducer,
+				"audioLink" => findAudioLink
+				}
+		rescue
+			puts "Something went wrong, moving on"
+		end
 	end
 end
 
@@ -124,6 +173,11 @@ songUrls = albumUrls.map{|u| u.map{|i| arrayParser.albumSongUrlArray(i)}}
 puts songUrls
 songUrls_json = JSON.pretty_generate(songUrls)
 File.write("songUrls.json", songUrls_json)
+
+songData = songUrls.map{|u| u.map{|i| i.map{|r| arrayParser.parseArray(r)}}}
+puts songData
+songData_json = JSON.pretty_generate(songData)
+File.write("songData.json", songData_json)
 
 # puts parser.urlSearch("http://genius.com/2pac-got-my-mind-made-up-lyrics")
 

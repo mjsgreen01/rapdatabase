@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  primary_rapper: MyString
+  featured_rapper: MyString
+  producer: MyString
+  title: MyString
+  song_link: MyString
+
+two:
+  primary_rapper: MyString
+  featured_rapper: MyString
+  producer: MyString
+  title: MyString
+  song_link: MyString

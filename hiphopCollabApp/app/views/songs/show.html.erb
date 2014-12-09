@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Primary rapper:</strong>
+  <%= @song.primary_rapper %>
+</p>
+
+<p>
+  <strong>Featured rapper:</strong>
+  <%= @song.featured_rapper %>
+</p>
+
+<p>
+  <strong>Producer:</strong>
+  <%= @song.producer %>
+</p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @song.title %>
+</p>
+
+<p>
+  <strong>Song link:</strong>
+  <%= @song.song_link %>
+</p>
+
+<%= link_to 'Edit', edit_song_path(@song) %> |
+<%= link_to 'Back', songs_path %>
