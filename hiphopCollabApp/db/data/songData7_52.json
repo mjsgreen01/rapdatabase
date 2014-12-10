@@ -1,0 +1,35 @@
+[
+  [
+    {
+      "artist": "Acaz",
+      "title": "Träume vom Tod",
+      "featured": [
+        "Nex"
+      ],
+      "producer": [
+        "Krypta Beatz"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=EOy6qQ0sYMc"
+    }
+  ],
+  [
+    {
+      "artist": "Acaz",
+      "title": "Schwarzer Horizont",
+      "featured": [
+        "Krijo Stalka"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=heA_3DxKsi8"
+    },
+    {
+      "artist": "Acaz",
+      "title": "Ich schließ' meine Augen",
+      "featured": [
+        "Krijo Stalka"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=PjSv5Wpp8Ws"
+    }
+  ]
+]

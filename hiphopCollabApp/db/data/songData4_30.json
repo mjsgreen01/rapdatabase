@@ -1,0 +1,76 @@
+[
+  [
+    {
+      "artist": "4th Pyramid",
+      "title": "Fantazmic",
+      "featured": [
+        "Akrobatik",
+        "C-Rayz Walz"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=P9nmaNNg9b8"
+    }
+  ],
+  [
+    {
+      "artist": "4th Pyramid",
+      "title": "LookOut",
+      "featured": null,
+      "producer": [
+        "4th Pyramid"
+      ],
+      "audioLink": "https://soundcloud.com/4thpyramid/4th-pyramid-lookout"
+    },
+    {
+      "artist": "4th Pyramid",
+      "title": "Creep Quick",
+      "featured": [
+        "Rich Kidd"
+      ],
+      "producer": [
+        "Rich Kidd"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=3REr37IzU40"
+    },
+    {
+      "artist": "4th Pyramid",
+      "title": "Webslinger",
+      "featured": null,
+      "producer": [
+        "Simalhlak"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=rd1OzIqbD0g"
+    },
+    {
+      "artist": "4th Pyramid",
+      "title": "Feel It In My Bones",
+      "featured": null,
+      "producer": [
+        "Marco Polo"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=eD-xY7lLGN0"
+    }
+  ],
+  [
+    {
+      "artist": "4th Pyramid",
+      "title": "Friday Nights",
+      "featured": null,
+      "producer": [
+        "Grandtheft"
+      ],
+      "audioLink": "https://soundcloud.com/grandtheft/friday-nights"
+    },
+    {
+      "artist": "4th Pyramid",
+      "title": "A Little Out Of Line",
+      "featured": [
+        "Ben Stevenson"
+      ],
+      "producer": [
+        "4th Pyramid"
+      ],
+      "audioLink": "https://soundcloud.com/4thpyramid/4th-pyramid-a-little-out-of"
+    }
+  ]
+]

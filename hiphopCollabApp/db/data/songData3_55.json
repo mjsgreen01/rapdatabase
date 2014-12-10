@@ -1,0 +1,27 @@
+[
+  [
+    {
+      "artist": "3tre",
+      "title": "Big Dreams",
+      "featured": [
+        "Amanda Ermon",
+        "Asia Monique",
+        "Jelisa Nicole",
+        "Wade Soul"
+      ],
+      "producer": [
+        "Coop"
+      ],
+      "audioLink": "https://soundcloud.com/blackrebelmusicclub/big-dreams-ft-wade-soul-asia-1"
+    },
+    {
+      "artist": "3tre",
+      "title": "Like It",
+      "featured": null,
+      "producer": [
+        "Beau Brenton"
+      ],
+      "audioLink": "https://soundcloud.com/blackrebelmusicclub/like-it-prod-beau-brenton-1"
+    }
+  ]
+]

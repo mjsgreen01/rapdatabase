@@ -1,0 +1,40 @@
+[
+  [
+    {
+      "artist": "Adonis (On Arrival)",
+      "title": "Composition",
+      "featured": null,
+      "producer": [
+        "J. Cole"
+      ],
+      "audioLink": null
+    }
+  ],
+  [
+    {
+      "artist": "Adonis (On Arrival)",
+      "title": "Febuary 14th",
+      "featured": null,
+      "producer": [
+        "FigLeaf"
+      ],
+      "audioLink": "http://soundcloud.com/adonis-on-arrival/febuary-14"
+    },
+    {
+      "artist": "Adonis (On Arrival)",
+      "title": "Out Of Order",
+      "featured": null,
+      "producer": [
+        "CM ULTRA"
+      ],
+      "audioLink": "http://soundcloud.com/adonis-on-arrival/out-of-order-adonis"
+    },
+    {
+      "artist": "Adonis (On Arrival)",
+      "title": "3005REMIX",
+      "featured": null,
+      "producer": null,
+      "audioLink": "https://soundcloud.com/adonis-on-arrival/3005remix-ft-childish-gambino"
+    }
+  ]
+]

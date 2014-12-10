@@ -1,0 +1,41 @@
+[
+  [
+    {
+      "artist": "509-E",
+      "title": "Oitavo Anjo",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=GkWOrznOTN8"
+    },
+    {
+      "artist": "509-E",
+      "title": "Triagem",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=9I8kCmv1Uhg"
+    },
+    {
+      "artist": "509-E",
+      "title": "Só os Fortes",
+      "featured": [
+        "Edi Rock"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=8xt8B_haPdA"
+    },
+    {
+      "artist": "509-E",
+      "title": "Hora H",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=5dGG20Zttmk"
+    },
+    {
+      "artist": "509-E",
+      "title": "Saudades Mil",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=P128gkql_Xo"
+    }
+  ]
+]

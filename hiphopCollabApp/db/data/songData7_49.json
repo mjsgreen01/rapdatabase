@@ -1,0 +1,31 @@
+[
+  [
+    {
+      "artist": "The Academy",
+      "title": "Are You The One For Me",
+      "featured": [
+        "Arin",
+        "Fallen Angel",
+        "Lance"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=HP2Ik8MbZg4"
+    }
+  ],
+  [
+    {
+      "artist": "The Academy",
+      "title": "Backyard Haze",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "The Academy",
+      "title": "Up",
+      "featured": null,
+      "producer": null,
+      "audioLink": "https://soundcloud.com/academy401/up-1"
+    }
+  ]
+]

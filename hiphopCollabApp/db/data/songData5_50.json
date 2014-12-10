@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "artist": "A286",
+      "title": "Prepara as Algemas",
+      "featured": [
+        "Facção Central"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=diPODv_07F8"
+    }
+  ],
+  [
+    {
+      "artist": "A286",
+      "title": "Morrendo Sozinho",
+      "featured": [
+        "A286",
+        "Morrendo sozinho letra"
+      ],
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "A286",
+      "title": "Terra dos Deuses",
+      "featured": [
+        "A286",
+        "A286 letras",
+        "Terra dos deuses letra"
+      ],
+      "producer": null,
+      "audioLink": null
+    }
+  ]
+]

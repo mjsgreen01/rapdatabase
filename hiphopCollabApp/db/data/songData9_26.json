@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "artist": "Adrug",
+      "title": "Fists of Fury",
+      "featured": [
+        "3 Credits"
+      ],
+      "producer": [
+        "Dj Halo"
+      ],
+      "audioLink": "https://soundcloud.com/adrug/05-fists-of-fury-f-3-credits"
+    },
+    {
+      "artist": "Adrug",
+      "title": "Mitochondria",
+      "featured": null,
+      "producer": [
+        "Frontier"
+      ],
+      "audioLink": "https://soundcloud.com/adrug/01-mitochondria-prod-by"
+    }
+  ]
+]

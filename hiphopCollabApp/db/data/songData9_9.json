@@ -1,0 +1,40 @@
+[
+  [
+    {
+      "artist": "A.D.O.R.",
+      "title": "Superfly",
+      "featured": null,
+      "producer": [
+        "Purple Penguin"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "A.D.O.R.",
+      "title": "Let it All Hang Out",
+      "featured": null,
+      "producer": [
+        "Pete Rock"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "A.D.O.R.",
+      "title": "Renegade Master",
+      "featured": null,
+      "producer": [
+        "Fatboy Slim"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "A.D.O.R.",
+      "title": "Enter the Center",
+      "featured": null,
+      "producer": [
+        "Pete Rock"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=4YgrQu7wYeQ"
+    }
+  ]
+]

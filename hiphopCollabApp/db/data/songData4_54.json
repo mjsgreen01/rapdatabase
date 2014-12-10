@@ -1,0 +1,66 @@
+[
+  [
+    {
+      "artist": "5th Ward Weebie",
+      "title": "Let Me Find Out Pt. 1",
+      "featured": null,
+      "producer": [
+        "BlaqNmilD"
+      ],
+      "audioLink": "https://soundcloud.com/neworleans-bounce/5th-ward-weebie-let-me-find"
+    }
+  ],
+  [
+    {
+      "artist": "5th Ward Weebie",
+      "title": "Show U",
+      "featured": [
+        "Ms. Tee"
+      ],
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "5th Ward Weebie",
+      "title": "Show Dat Work",
+      "featured": [
+        "Abel",
+        "Kane",
+        "Mystikal"
+      ],
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "5th Ward Weebie",
+      "title": "Where Ya Baby Mama?",
+      "featured": [
+        "Phoolish"
+      ],
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "5th Ward Weebie",
+      "title": "Whatever",
+      "featured": [
+        "Fiend",
+        "Mr. Serv-On",
+        "Triple 6 Mafia"
+      ],
+      "producer": null,
+      "audioLink": null
+    }
+  ],
+  [
+    {
+      "artist": "5th Ward Weebie",
+      "title": "Take it to the Hole",
+      "featured": [
+        "Kangol Slim"
+      ],
+      "producer": null,
+      "audioLink": null
+    }
+  ]
+]

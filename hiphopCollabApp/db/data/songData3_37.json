@@ -1,0 +1,56 @@
+[
+  [
+    {
+      "artist": "3 Melancholy Gypsies",
+      "title": "Young Man",
+      "featured": [
+        "Eligh",
+        "Murs",
+        "Scarub"
+      ],
+      "producer": [
+        "Eligh"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "3 Melancholy Gypsies",
+      "title": "The Plannit",
+      "featured": [
+        "Eligh",
+        "Murs",
+        "Scarub"
+      ],
+      "producer": [
+        "Eligh"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "3 Melancholy Gypsies",
+      "title": "And If",
+      "featured": [
+        "Eligh",
+        "Murs",
+        "Scarub"
+      ],
+      "producer": [
+        "Scarub"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "3 Melancholy Gypsies",
+      "title": "Beautiful Mind",
+      "featured": [
+        "Eligh",
+        "Murs",
+        "Scarub"
+      ],
+      "producer": [
+        "Eligh"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=pcfcua3BLxA"
+    }
+  ]
+]

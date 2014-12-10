@@ -1,0 +1,33 @@
+[
+  [
+    {
+      "artist": "AFA",
+      "title": "CODE 1",
+      "featured": null,
+      "producer": [
+        "AFA"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=J6Yv-USRQ3U"
+    },
+    {
+      "artist": "AFA",
+      "title": "HAPPY BIRTHDAY",
+      "featured": [
+        "Yasmine Karrouk"
+      ],
+      "producer": [
+        "Hani Records"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=Ual8nTLTtYI"
+    },
+    {
+      "artist": "AFA",
+      "title": "Da9i9a Mina L7a9i9a",
+      "featured": null,
+      "producer": [
+        "Monadil"
+      ],
+      "audioLink": "https://soundcloud.com/afa-a-k-a-mon9arid/afa-official"
+    }
+  ]
+]

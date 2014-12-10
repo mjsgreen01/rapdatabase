@@ -1,0 +1,89 @@
+[
+  [
+    {
+      "artist": "360",
+      "title": "When I'm Gone",
+      "featured": null,
+      "producer": [
+        "Kuddie Fresh"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=F5Rfz9lw4Xk"
+    },
+    {
+      "artist": "360",
+      "title": "Vanity",
+      "featured": [
+        "Waka Flocka Flame"
+      ],
+      "producer": [
+        "Rick Hertz"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=MO3FmAdIFL4"
+    }
+  ],
+  [
+    {
+      "artist": "360",
+      "title": "Own Thing",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=JrgeF-v_lyQ"
+    }
+  ],
+  [
+    {
+      "artist": "360",
+      "title": "Lookin' Like I'm Signed",
+      "featured": [
+        "Smoke DZA"
+      ],
+      "producer": null,
+      "audioLink": "https://soundcloud.com/360ismusic/360-ft-smoke-dza-lookin-like-im-signed"
+    },
+    {
+      "artist": "360",
+      "title": "When I'm Gone (Remix)",
+      "featured": [
+        "Trae tha Truth"
+      ],
+      "producer": [
+        "Kuddie Fresh"
+      ],
+      "audioLink": null
+    }
+  ],
+  [
+    {
+      "artist": "360(Au)",
+      "title": "Closer",
+      "featured": [
+        "Seth Sentry"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=PG-JSnMDh6Y"
+    }
+  ],
+  [
+    {
+      "artist": "360(Au)",
+      "title": "It's All About to End",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Speed Limit",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Man On The Moon",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    }
+  ]
+]

@@ -1,0 +1,42 @@
+[
+  [
+    {
+      "artist": "Jay Glyphics",
+      "title": "Flow$",
+      "featured": [
+        "Absense"
+      ],
+      "producer": [
+        "Freddie Joachim"
+      ],
+      "audioLink": "https://soundcloud.com/the-classical-age/flow-jay-glyphic-feat-absense?in=the-classical-age/sets/betrayed-ep"
+    },
+    {
+      "artist": "Absense",
+      "title": "Fly Me Away",
+      "featured": null,
+      "producer": [
+        "LA Chase"
+      ],
+      "audioLink": "https://soundcloud.com/the-classical-age/fly-me-away-absense-prod-by-la"
+    },
+    {
+      "artist": "Absense",
+      "title": "Stolen Remedy",
+      "featured": null,
+      "producer": [
+        "LA Chase"
+      ],
+      "audioLink": "https://soundcloud.com/the-classical-age/stolen-remedy-absense-prod-by"
+    }
+  ],
+  [
+    {
+      "artist": "Absense",
+      "title": "Rampage",
+      "featured": null,
+      "producer": null,
+      "audioLink": "https://soundcloud.com/the-classical-age/rampage"
+    }
+  ]
+]

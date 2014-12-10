@@ -1,0 +1,39 @@
+[
+  [
+    {
+      "artist": "Donetasy & 3Plusss",
+      "title": "Schlechte Welt",
+      "featured": [
+        "3Plusss",
+        "Donetasy"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=tqiI8zgQmnw"
+    },
+    {
+      "artist": "3Plusss",
+      "title": "5=8",
+      "featured": null,
+      "producer": [
+        "Johnny Illstrument"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "Donetasy",
+      "title": "Auf dem Mond",
+      "featured": null,
+      "producer": [
+        "Defcon"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "3Plusss & donetasy",
+      "title": "Pass auf!",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    }
+  ]
+]
