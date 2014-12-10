@@ -17,6 +17,7 @@ class Artist < ActiveRecord::Base
 		}
 
 		nodes = artists_array.map{|name|  {"name" => name, "group" => 1 }  }
+
 		links = []
 		artists_array.each{|i|
 			collabs = i.collaborators
@@ -25,6 +26,8 @@ class Artist < ActiveRecord::Base
 				links.push({"source"=>artists_array.index(i), "target"=>artists_array.index(n), "value"=>2})
 			}
 		}
+
+		jsonData = {"nodes"=>nodes, "links"=>links}
 	end
 
 
