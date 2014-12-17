@@ -1,0 +1,146 @@
+[
+  [
+    {
+      "artist": "A-1",
+      "title": "Doug (Funnie Bitch)",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=63-cqCwxCOw"
+    },
+    {
+      "artist": "A-1",
+      "title": "Price is Right",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=YKpwI4aRAzM"
+    },
+    {
+      "artist": "A-1",
+      "title": "Black Ranger",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=krFVwSzM1S0"
+    },
+    {
+      "artist": "A-1",
+      "title": "Charizard",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=a07dDvHqsNw"
+    }
+  ],
+  [
+    {
+      "artist": "A-1",
+      "title": "On My Way (Exposition)",
+      "featured": [
+        "Chantelle Tibbs"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=asa0-rmK4qQ"
+    },
+    {
+      "artist": "A-1",
+      "title": "My Name is Adam",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=Zk-mCdqeKPY"
+    },
+    {
+      "artist": "A-1",
+      "title": "You Say (Pimps)",
+      "featured": [
+        "Big Sir"
+      ],
+      "producer": [
+        "A-1"
+      ],
+      "audioLink": "https://soundcloud.com/adamraps"
+    },
+    {
+      "artist": "A-1",
+      "title": "The Book of Adam (Thesis)",
+      "featured": [
+        "Chantelle Tibbs"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=bHeFKy6KfP4"
+    },
+    {
+      "artist": "A-1",
+      "title": "Winning",
+      "featured": null,
+      "producer": [
+        "Davin Gruesome"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=zRvwbZtMWkA"
+    },
+    {
+      "artist": "A-1",
+      "title": "Damnit This is Clean",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=6RL8hbcUIOs"
+    }
+  ],
+  [
+    {
+      "artist": "A1 (band)",
+      "title": "Caught in the Middle",
+      "featured": null,
+      "producer": [
+        "Ash Howes",
+        "Chris Blair",
+        "Mike Hedges"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=qz57Ucb02yo"
+    }
+  ],
+  [
+    {
+      "artist": "A-1",
+      "title": "Double Dose",
+      "featured": null,
+      "producer": [
+        "Sick James"
+      ],
+      "audioLink": "https://soundcloud.com/adamraps/double-dose-prod-sick-james"
+    },
+    {
+      "artist": "A-1",
+      "title": "Get Up",
+      "featured": null,
+      "producer": [
+        "A-1"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "A-1",
+      "title": "Now You Do",
+      "featured": null,
+      "producer": [
+        "Flosstradamus"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=akcF-Nx6IKQ"
+    },
+    {
+      "artist": "A-1",
+      "title": "Speaker",
+      "featured": [
+        "Roach Gigz"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=NjrLzoEk4FU"
+    },
+    {
+      "artist": "A-1",
+      "title": "Invisible Man",
+      "featured": null,
+      "producer": [
+        "XXYYXX"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=pg6V7UGBqmQ"
+    }
+  ]
+]

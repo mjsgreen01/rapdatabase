@@ -1,0 +1,56 @@
+[
+  [
+    {
+      "artist": "AB Studios",
+      "title": "The Debut",
+      "featured": [
+        "Kimchino",
+        "Lil' Vayne",
+        "Muggy G",
+        "Natty Ice"
+      ],
+      "producer": [
+        "Wet Moisty"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=-smdsiS3aZw"
+    }
+  ],
+  [
+    {
+      "artist": "AB Studios",
+      "title": "The Return - Part 1",
+      "featured": [
+        "Kimchino",
+        "Lil' Vayne",
+        "Muggy G",
+        "Natty Ice"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=xuSZoIuLue4"
+    },
+    {
+      "artist": "AB Studios",
+      "title": "The Return - Part 2",
+      "featured": [
+        "Kimchino",
+        "Lil' Vayne",
+        "Muggy G",
+        "Natty Ice"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=llV5SNkP24w"
+    },
+    {
+      "artist": "AB Studios",
+      "title": "The Return - Part 3",
+      "featured": [
+        "Kimchino",
+        "Lil' Vayne",
+        "Muggy G",
+        "Natty Ice"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=XUXrBirL1J0"
+    }
+  ]
+]

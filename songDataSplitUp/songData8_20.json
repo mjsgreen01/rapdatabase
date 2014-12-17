@@ -1,0 +1,57 @@
+[
+  [
+    {
+      "artist": "Ace Spade & JWTM",
+      "title": "HYFR (Heck Yeah Flippin' Right)",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "Ace Spade & JWTM",
+      "title": "Detoxification",
+      "featured": null,
+      "producer": [
+        "JoeySideFire"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "Ace Spade & JWTM",
+      "title": "Doubled Giant Kings (DGK)",
+      "featured": null,
+      "producer": [
+        "JoeySideFire"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "Ace Spade & JWTM",
+      "title": "Prepared",
+      "featured": [
+        "Ace Spade",
+        "JWTM"
+      ],
+      "producer": [
+        "DopantBeats"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "Ace Spade & JWTM",
+      "title": "Medicine",
+      "featured": null,
+      "producer": [
+        "JoeySideFire"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "Ace Spade & JWTM",
+      "title": "Awkward Generation (Werelions)",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    }
+  ]
+]

@@ -20,7 +20,7 @@ class SearchResultParser
 					session.execute_script("scrollTo(0,document.body.scrollHeight);")
 					sleep 3
 				}
-				sleep 1
+				sleep 2
 			end
 		rescue
 			puts "Something went wrong, moving on"
@@ -33,8 +33,12 @@ class SearchResultParser
 			session.visit u
 
 			if session.first(:css, ".album_link") != nil
-				urls = session.all(:css, ".album_link")
-				return urls.map {|u| u[:href]}
+				if (session.all(:css, ".album_link").count>=3)
+					urls = session.all(:css, ".album_link")
+					return urls.map {|u| u[:href]}
+				else
+					return nil
+				end
 			else
 				return nil
 			end

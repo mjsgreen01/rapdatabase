@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "artist": "The Adventures of Duane & BrandO",
+      "title": "Air [Remix]",
+      "featured": [
+        "Brandon Lackey",
+        "Duane Zuwala"
+      ],
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "The Adventures of Duane & BrandO",
+      "title": "Battletoads",
+      "featured": [
+        "Brandon Lackey",
+        "Duane Zuwala"
+      ],
+      "producer": [
+        "Brandon Lackey"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=HwWh0M3b-20"
+    },
+    {
+      "artist": "The Adventures of Duane & BrandO",
+      "title": "Final Fantasy",
+      "featured": [
+        "Brando",
+        "Duane"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=yc32Znoj8dk"
+    }
+  ]
+]

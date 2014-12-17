@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "artist": "1200 Techniques",
+      "title": "Eye of the Storm",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "1200 Techniques",
+      "title": "Where Ur At?",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "1200 Techniques",
+      "title": "Fork in the Road",
+      "featured": [
+        "Rashad Houghton"
+      ],
+      "producer": null,
+      "audioLink": null
+    }
+  ],
+  [
+    {
+      "artist": "1200 Techniques",
+      "title": "Karma",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    }
+  ]
+]

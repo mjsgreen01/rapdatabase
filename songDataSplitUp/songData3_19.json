@@ -1,0 +1,222 @@
+[
+  [
+    {
+      "artist": "360(Au)",
+      "title": "The Take Off (Sky Is Falling)",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=ocBM3wxNZ1I"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "I'm OK",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=Yl_0Z3WOyq4"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Just Got Started",
+      "featured": [
+        "Pez"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=B5MB8ctd8ak"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Throw It Away",
+      "featured": [
+        "Josh Pyke"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=1_TY1yccMoA"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Child",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=Zl-2nCxDfj0"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Boys Like You",
+      "featured": [
+        "Gossling"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=HDGSlfXsRiw"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Killer",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=-dyMdTd6dNA"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Falling and Flying",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=VbS4DhZkbOg"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Run Alone",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=PcWuE5uBGHI"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Hammer head",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=LRNBkFsJ9mg"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Meant To Do",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=J5Vl5a8-g1o"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Miracle In A Costume",
+      "featured": [
+        "Gossling"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=XkHVc-6NNW4"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Hope You Don't Mind",
+      "featured": [
+        "N'fa"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=7S8ceVZDngk"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Broken Wings",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=UfjHDwEg30Q"
+    }
+  ],
+  [
+    {
+      "artist": "360(Au)",
+      "title": "Hearts A Mess",
+      "featured": [
+        "Vegas Aces"
+      ],
+      "producer": null,
+      "audioLink": "https://soundcloud.com/vegas-aces/360-x-vegas-aces-x-gotye"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Falling",
+      "featured": [
+        "James Blake"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=Q8d6WOlM0J8"
+    }
+  ],
+  [
+    {
+      "artist": "360(Au)",
+      "title": "Live It Up",
+      "featured": [
+        "Pez"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=O9ZmEA7UJX8"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Sixavelli",
+      "featured": [
+        "Lunar C"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=IN3DtQ_aCFI"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Purple Waterfalls",
+      "featured": [
+        "Daniel Johns"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=6VA4txBJusQ"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Early Warning",
+      "featured": [
+        "Chris Cheney"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=8uLCxr6IB3c"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Must Come Down",
+      "featured": [
+        "Pez"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=MdBj_574pGw"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Still Rap",
+      "featured": null,
+      "producer": [
+        "LIFTED X RYAN",
+        "Nic Martain"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=bG7wVZuhq5I"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Eddie Jones",
+      "featured": [
+        "Miracle"
+      ],
+      "producer": [
+        "Styalz Fuego"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=vnVuPoPdaGs"
+    },
+    {
+      "artist": "360(Au)",
+      "title": "Price Of Fame",
+      "featured": [
+        "Gossling"
+      ],
+      "producer": [
+        "Styalz Fuego"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=6law9jM11sA"
+    }
+  ],
+  [
+    {
+      "artist": "360(Au)",
+      "title": "Don't Worry About How It Looks",
+      "featured": [
+        "Joelistics"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=gEzcR20VwGQ"
+    }
+  ]
+]

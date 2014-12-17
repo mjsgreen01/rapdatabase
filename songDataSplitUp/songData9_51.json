@@ -1,0 +1,58 @@
+[
+  [
+    {
+      "artist": "Aesthetic",
+      "title": "Univers",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "Aesthetic",
+      "title": "Jorden Rundt",
+      "featured": [
+        "PS"
+      ],
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "Aesthetic",
+      "title": "Mangel På Anerkendesle",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=MfsyOV9SEFo"
+    }
+  ],
+  [
+    {
+      "artist": "Aesthetic",
+      "title": "Euforiserende",
+      "featured": null,
+      "producer": [
+        "Aesthetic"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=ASSSonO9M1c"
+    },
+    {
+      "artist": "Aesthetic",
+      "title": "Summen Af Det Hele",
+      "featured": null,
+      "producer": [
+        "Telepa-T"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=adqJBC6hCsI"
+    }
+  ],
+  [
+    {
+      "artist": "Aesthetic",
+      "title": "Alfabetet",
+      "featured": null,
+      "producer": [
+        "Aesthetic"
+      ],
+      "audioLink": null
+    }
+  ]
+]

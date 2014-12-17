@@ -1,0 +1,35 @@
+[
+  [
+    {
+      "artist": "3 MOZquiteiros",
+      "title": "Fre-Li-Mu(Tsuketany)",
+      "featured": [
+        "Kapa Dech(K-10)"
+      ],
+      "producer": [
+        "Neovaldo Paulo"
+      ],
+      "audioLink": "https://soundcloud.com/neovaldopaulo/fre-li-mu-tsuketany-k10"
+    },
+    {
+      "artist": "3 MOZquiteiros",
+      "title": "Sapateiro",
+      "featured": [
+        "Wazimbo"
+      ],
+      "producer": [
+        "Neovaldo Paulo"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "3 MOZquiteiros",
+      "title": "Boa Ideia",
+      "featured": null,
+      "producer": [
+        "Neovaldo Paulo"
+      ],
+      "audioLink": "https://soundcloud.com/neovaldopaulo/boa-ideia"
+    }
+  ]
+]

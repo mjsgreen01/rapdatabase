@@ -1,0 +1,29 @@
+[
+  [
+    {
+      "artist": "40Thousand",
+      "title": "SKRIPPERELLA",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "40Thousand",
+      "title": "TLC",
+      "featured": null,
+      "producer": [
+        "Luxury"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=0U0xL8dwnJo"
+    },
+    {
+      "artist": "40Thousand",
+      "title": "SUPAPIMP",
+      "featured": null,
+      "producer": [
+        "CLEEXSHAY"
+      ],
+      "audioLink": null
+    }
+  ]
+]

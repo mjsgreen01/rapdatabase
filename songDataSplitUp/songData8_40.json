@@ -1,0 +1,31 @@
+[
+  [
+    {
+      "artist": "Acquitted",
+      "title": "Shes mine",
+      "featured": null,
+      "producer": [
+        "Zachary Cassinelli"
+      ],
+      "audioLink": "https://soundcloud.com/zachary-cassinelli/shes-mine"
+    },
+    {
+      "artist": "Acquitted",
+      "title": "Your Eulogy",
+      "featured": null,
+      "producer": [
+        "Zachary Cassinelli"
+      ],
+      "audioLink": "https://soundcloud.com/zachary-cassinelli/your-eulogy"
+    }
+  ],
+  [
+    {
+      "artist": "Acquitted",
+      "title": "Intergalactic Weedound",
+      "featured": null,
+      "producer": null,
+      "audioLink": "https://soundcloud.com/zachary-cassinelli/intergalactic-weedhound"
+    }
+  ]
+]

@@ -1,0 +1,22 @@
+[
+  [
+    {
+      "artist": "4Trackboy und Echomann",
+      "title": "Der kirgisische Reiter",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=kF3QhY5KQpw"
+    }
+  ],
+  [
+    {
+      "artist": "4Trackboy und Echomann",
+      "title": "Trüffel und Säue",
+      "featured": null,
+      "producer": [
+        "Twit One"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=_9t3dj_d5Fo"
+    }
+  ]
+]

@@ -1,0 +1,139 @@
+[
+  [
+    {
+      "artist": "3X Krazy",
+      "title": "The Sickness",
+      "featured": null,
+      "producer": [
+        "Lev Berlak"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "3X Krazy",
+      "title": "Kaviealstars",
+      "featured": [
+        "C-Bo",
+        "Otis",
+        "Shug"
+      ],
+      "producer": [
+        "Big Deion"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "3X Krazy",
+      "title": "Reactions",
+      "featured": [
+        "2 Scoops"
+      ],
+      "producer": [
+        "Ali Malek"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "3X Krazy",
+      "title": "Immortalized",
+      "featured": [
+        "Mob Figaz"
+      ],
+      "producer": [
+        "Ali Malek"
+      ],
+      "audioLink": null
+    }
+  ],
+  [
+    {
+      "artist": "3X Krazy",
+      "title": "Thug Money",
+      "featured": [
+        "Richie Rich"
+      ],
+      "producer": [
+        "B.A.R.T"
+      ],
+      "audioLink": null
+    }
+  ],
+  [
+    {
+      "artist": "3X Krazy",
+      "title": "Sunshine in the O",
+      "featured": [
+        "Mike Marshall"
+      ],
+      "producer": [
+        "Tone Capone"
+      ],
+      "audioLink": null
+    }
+  ],
+  [
+    {
+      "artist": "3X Krazy",
+      "title": "Sickkaluffa",
+      "featured": null,
+      "producer": [
+        "One Drop Scott",
+        "Spenc"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "3X Krazy",
+      "title": "Keep It On the Real",
+      "featured": null,
+      "producer": [
+        "One Drop Scott",
+        "Tone Capone"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "3X Krazy",
+      "title": "Stackin' Chips",
+      "featured": null,
+      "producer": [
+        "Tone Capone"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=C93zx5n0UCo"
+    },
+    {
+      "artist": "3X Krazy",
+      "title": "West Coast",
+      "featured": null,
+      "producer": [
+        "Tone Capone"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=plDAiZpy9_g"
+    },
+    {
+      "artist": "3X Krazy",
+      "title": "Pistols Blazin",
+      "featured": [
+        "Cydal",
+        "Dru Down",
+        "Swoop G",
+        "Yukmouth"
+      ],
+      "producer": [
+        "Lev Berlak"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "3X Krazy",
+      "title": "In The Name Of Rame",
+      "featured": [
+        "Mike Marshall"
+      ],
+      "producer": [
+        "Ant Banks"
+      ],
+      "audioLink": null
+    }
+  ]
+]

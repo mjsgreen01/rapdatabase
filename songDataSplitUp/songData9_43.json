@@ -1,0 +1,160 @@
+[
+  [
+    {
+      "artist": "Adian Coker",
+      "title": "The Feeling",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=cdu9H5vdMEM"
+    },
+    {
+      "artist": "Adian Coker",
+      "title": "Angels & Demons",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=L9L6JQHmBfQ"
+    },
+    {
+      "artist": "Adian Coker",
+      "title": "Set Precedent",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=Mv_sMHl4pbE"
+    },
+    {
+      "artist": "Adian Coker",
+      "title": "Gaza",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=bSSwSXj_l3E"
+    },
+    {
+      "artist": "Adian Coker",
+      "title": "Lightyears",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=0V_WX9fP_co"
+    },
+    {
+      "artist": "Adian Coker",
+      "title": "Alive",
+      "featured": null,
+      "producer": [
+        "Adian Coker"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=FEs-XplbXiA"
+    },
+    {
+      "artist": "Adian Coker",
+      "title": "Something Like A Dream",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=tnPGpJhItW4"
+    },
+    {
+      "artist": "Adian Coker",
+      "title": "Airs & Graces",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    }
+  ],
+  [
+    {
+      "artist": "Adian Coker",
+      "title": "Dream",
+      "featured": [
+        "Josh Osho"
+      ],
+      "producer": [
+        "Adian Coker"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "Adian Coker",
+      "title": "Real To Me",
+      "featured": [
+        "Medi"
+      ],
+      "producer": [
+        "Adian Coker"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "Adian Coker",
+      "title": "Human Nature",
+      "featured": null,
+      "producer": [
+        "Adian Coker"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "Adian Coker",
+      "title": "Victory",
+      "featured": null,
+      "producer": [
+        "Adian Coker"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "Adian Coker",
+      "title": "Like Winter",
+      "featured": [
+        "ShezAr"
+      ],
+      "producer": [
+        "Adian Coker"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "Adian Coker",
+      "title": "Eyes Closed",
+      "featured": null,
+      "producer": [
+        "Adian Coker"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "Adian Coker",
+      "title": "Priceless",
+      "featured": null,
+      "producer": [
+        "Adian Coker"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "Adian Coker",
+      "title": "Vitriol",
+      "featured": null,
+      "producer": [
+        "Adian Coker"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "Adian Coker",
+      "title": "Suicide Drive",
+      "featured": null,
+      "producer": [
+        "Adian Coker"
+      ],
+      "audioLink": "https://soundcloud.com/adiancoker/suicidedrive"
+    },
+    {
+      "artist": "Adian Coker",
+      "title": "Cream",
+      "featured": null,
+      "producer": [
+        "Adian Coker"
+      ],
+      "audioLink": "https://soundcloud.com/adiancoker/cream"
+    }
+  ]
+]

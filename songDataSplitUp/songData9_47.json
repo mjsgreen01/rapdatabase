@@ -1,0 +1,101 @@
+[
+  [
+    {
+      "artist": "Aeschylus",
+      "title": "Agamemnon (Dramatis Personae)",
+      "featured": [
+        "E. D. A. Morshead"
+      ],
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "Aeschylus",
+      "title": "Agamemnon (Full Text)",
+      "featured": [
+        "E. D. A. Morshead"
+      ],
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "Aeschylus",
+      "title": "The Choephori (Dramatis Personae)",
+      "featured": [
+        "E. D. A. Morshead"
+      ],
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "Aeschylus",
+      "title": "The Choephori (Full Text)",
+      "featured": [
+        "E. D. A. Morshead"
+      ],
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "Aeschylus",
+      "title": "Eumendides (Dramatis Personae)",
+      "featured": [
+        "E. D. A. Morshead"
+      ],
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "Aeschylus",
+      "title": "Eumendides (Full Text)",
+      "featured": [
+        "E. D. A. Morshead"
+      ],
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "Aeschylus",
+      "title": "The Eumenides (lines 805 - 866)",
+      "featured": [
+        "Athena",
+        "The Furies"
+      ],
+      "producer": [
+        "Robert Fagles"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=t6i28GkX2v4"
+    },
+    {
+      "artist": "Aeschylus",
+      "title": "Agamemnon (Lines 1605-1643)",
+      "featured": [
+        "Aegisthus"
+      ],
+      "producer": [
+        "Robert Fagles"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "Aeschylus",
+      "title": "Agamemnon (lines 1088 - 1141)",
+      "featured": null,
+      "producer": [
+        "Robert Fagles"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "Aeschylus",
+      "title": "The Libation Bearers (lines 922 - 963)",
+      "featured": [
+        "Chorus"
+      ],
+      "producer": [
+        "Robert Fagles"
+      ],
+      "audioLink": null
+    }
+  ]
+]

@@ -1,0 +1,74 @@
+[
+  [
+    {
+      "artist": "995",
+      "title": "Caramelo",
+      "featured": null,
+      "producer": [
+        "Jefe de la M"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=1UPSlT_uBIo"
+    },
+    {
+      "artist": "995",
+      "title": "Q Si Rock & Roll, Q Si Elvis",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "995",
+      "title": "Todo Va Bien",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "995",
+      "title": "Subiendo Abajo",
+      "featured": null,
+      "producer": [
+        "Jefe de la M"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=9DYns7zPEbU"
+    },
+    {
+      "artist": "995",
+      "title": "Contra Todos",
+      "featured": null,
+      "producer": [
+        "Jefe de la M"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=cBfK1GErEoc"
+    },
+    {
+      "artist": "995",
+      "title": "Asúcar",
+      "featured": null,
+      "producer": [
+        "Jefe de la M"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=o7PoS1Z_JT4"
+    },
+    {
+      "artist": "995",
+      "title": "Batalla De Egos",
+      "featured": null,
+      "producer": [
+        "Jefe de la M"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=2PjnnIZgKXo"
+    },
+    {
+      "artist": "995",
+      "title": "Nunca (Bonus Track)",
+      "featured": [
+        "Artes"
+      ],
+      "producer": [
+        "Nintendo Producciones"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=kArsfE3jzNg"
+    }
+  ]
+]
