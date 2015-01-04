@@ -88,27 +88,27 @@ class PageParser
 				link = session.find(:css, ".audio_link a")
 				return link[:href]
 			end
-			rescue
-				puts "Something went wrong, moving on"
-			end
-		end
-
-		def urlSearch(url)
-			begin
-				session.visit url
-				
-				return {
-					"artist" => findArtist,
-					"title" =>  findTitle,
-					"featured" => findFeatured,
-					"producer" => findProducer,
-					"audioLink" => findAudioLink
-					}
-			rescue
-				puts "Something went wrong, moving on"
-			end
+		rescue
+			puts "Something went wrong, moving on"
 		end
 	end
+
+	def urlSearch(url)
+		begin
+			session.visit url
+			
+			return {
+				"artist" => findArtist,
+				"title" =>  findTitle,
+				"featured" => findFeatured,
+				"producer" => findProducer,
+				"audioLink" => findAudioLink
+				}
+		rescue
+			puts "Something went wrong, moving on"
+		end
+	end
+end
 
 
 

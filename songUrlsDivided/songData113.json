@@ -1,0 +1,4946 @@
+[
+  {
+    "artist": "La Cliqua",
+    "title": "Intro",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=IrHZxppXbeQ"
+  },
+  {
+    "artist": "La Cliqua",
+    "title": "Tué dans la rue",
+    "featured": null,
+    "producer": [
+      "Chimiste"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=FAhzoj-dLdc"
+  },
+  {
+    "artist": "La Cliqua",
+    "title": "Comme une sarbacane",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=yFIDHCtc8EI"
+  },
+  {
+    "artist": "La Cliqua",
+    "title": "Dans ma tête",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=t6vp4jiQMMI"
+  },
+  {
+    "artist": "La Cliqua",
+    "title": "Freestyle",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Ozd1pltRiVU"
+  },
+  {
+    "artist": "La Cliqua",
+    "title": "Toujours plus haut",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=GHZ8WoHfzEU"
+  },
+  {
+    "artist": "La Cliqua",
+    "title": "Conçu pour durer",
+    "featured": null,
+    "producer": [
+      "Lumumba"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=WRMpJ55OiYk"
+  },
+  {
+    "artist": "La Cliqua",
+    "title": "Un dernier jour sur terre",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=lQF2px-2Cy4"
+  },
+  {
+    "artist": "La Cliqua",
+    "title": "Rap contact",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=VmvEi3m5IRI"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "I'm an American",
+    "featured": [
+      "B-Real"
+    ],
+    "producer": [
+      "DJ Lethal",
+      "Sicknature"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=53GrVNFArHQ"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "That's Coke",
+    "featured": [
+      "Danny Boy",
+      "Everlast",
+      "Ill Bill",
+      "Slaine"
+    ],
+    "producer": [
+      "DJ Lethal"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=0ECq3ec1vhw"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "It's A Beautiful Thing",
+    "featured": null,
+    "producer": [
+      "DJ Lethal"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Kap2BaSNoF0"
+  },
+  {
+    "artist": "Ill Bill",
+    "title": "Soldiers of Fortune",
+    "featured": [
+      "Everlast",
+      "La Coka Nostra"
+    ],
+    "producer": [
+      "Sicknature"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Ill Bill",
+    "title": "Where Hope Goes To Die",
+    "featured": [
+      "Everlast",
+      "Slaine"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=WbzsSYMvWiY"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Bloody Sunday",
+    "featured": [
+      "Big Left",
+      "Everlast",
+      "Sen Dog"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=x_plvjGxSHY"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Get You By",
+    "featured": null,
+    "producer": [
+      "DJ Lethal"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=tP5isZUulM8"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Bang Bang",
+    "featured": [
+      "Snoop Dogg"
+    ],
+    "producer": [
+      "DJ Lethal"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=yU3FVgvpdfA"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "The Stain",
+    "featured": null,
+    "producer": [
+      "Everlast"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=6DKJCGm1kYw"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "I'm an American",
+    "featured": [
+      "B-Real"
+    ],
+    "producer": [
+      "DJ Lethal",
+      "Sicknature"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=53GrVNFArHQ"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Brujeria",
+    "featured": [
+      "Sick Jacken"
+    ],
+    "producer": [
+      "DJ Lethal"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Once Upon A Time",
+    "featured": null,
+    "producer": [
+      "DJ Lethal"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Cousin of Death",
+    "featured": null,
+    "producer": [
+      "DJ Lethal",
+      "Ill Bill"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Dicn1qsVKwU"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Choose Your Side",
+    "featured": [
+      "Bun B"
+    ],
+    "producer": [
+      "The Alchemist"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Gun in Your Mouth",
+    "featured": null,
+    "producer": [
+      "Cynic"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=GOSKF4AEhUM"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Nuclear Medicinemen",
+    "featured": [
+      "Immortal Technique",
+      "Q-Unique"
+    ],
+    "producer": [
+      "Q-Unique"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=UZoFIqvLhZQ"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "That's Coke",
+    "featured": [
+      "Danny Boy",
+      "Everlast",
+      "Ill Bill",
+      "Slaine"
+    ],
+    "producer": [
+      "DJ Lethal"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=0ECq3ec1vhw"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Fuck Tony Montana",
+    "featured": [
+      "B-Real",
+      "Sick Jacken"
+    ],
+    "producer": [
+      "DJ Lethal"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=0q7Evq9lCTs"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "My Universe",
+    "featured": [
+      "Vinnie Paz"
+    ],
+    "producer": [
+      "Statik Selektah"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=8jySBLKW1I8"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Creed Of The Greedier",
+    "featured": null,
+    "producer": [
+      "Sicknature"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=l7nRyHDsn7I"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Mossad",
+    "featured": null,
+    "producer": [
+      "DJ Lethal",
+      "Scott Stallone"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ByqhkAUyZ4s"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Mind Your Business",
+    "featured": null,
+    "producer": [
+      "DJ Premier"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=URbrlnWhCLc"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Electronic Funeral",
+    "featured": [
+      "Sean Price"
+    ],
+    "producer": [
+      "Beat Butcha"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "The Story Goes On",
+    "featured": null,
+    "producer": [
+      "DJ Lethal"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Letter To Ouisch",
+    "featured": null,
+    "producer": [
+      "DJ Lethal",
+      "Ill Bill"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=taB58ZU6Xao"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "The Eyes Of Santa Muerte",
+    "featured": [
+      "Sick Jacken"
+    ],
+    "producer": [
+      "Ill Bill"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=9uWfSpTFsqY"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Murder World",
+    "featured": null,
+    "producer": [
+      "C - Lance"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=dKVv5mn3tJY"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Coka Kings",
+    "featured": [
+      "Vinnie Paz"
+    ],
+    "producer": [
+      "C - Lance"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=pEh0PnYcwU4"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": ".38 Revolver",
+    "featured": [
+      "Big Left"
+    ],
+    "producer": [
+      "Sicknature"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Malverde Market",
+    "featured": null,
+    "producer": [
+      "Ill Bill"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=I7q7_VNBam4"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "Masters Of The Dark Arts",
+    "featured": null,
+    "producer": [
+      "DJ Lethal"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=7knkFT5tZXg"
+  },
+  {
+    "artist": "La Coka Nostra",
+    "title": "No Hay Tiempo Para Mañana",
+    "featured": [
+      "Outerspace"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=NDdGqrHsACw"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Corleone",
+    "featured": null,
+    "producer": [
+      "Kore"
+    ],
+    "audioLink": "https://soundcloud.com/cr-s-nk-t/lacrim-corleone-son-officiel"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Mon Glock te mettra à genoux",
+    "featured": null,
+    "producer": [
+      "Kore"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=lpWMCulJrOc"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Oz",
+    "featured": null,
+    "producer": [
+      "Kore"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Tout le monde veut des Lovés",
+    "featured": null,
+    "producer": [
+      "Kore"
+    ],
+    "audioLink": "https://soundcloud.com/mufuh-tuuh/rpgeniusbadisdz"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Pronto (exclu)",
+    "featured": null,
+    "producer": [
+      "DJ Bellek"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Opr1MGUJiTE"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Barbade",
+    "featured": null,
+    "producer": [
+      "Kore"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=KlH1saUFHSA"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "On fait pas ça",
+    "featured": [
+      "Lil Durk"
+    ],
+    "producer": [
+      "DJ Bellek"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=KKKbKzP4Oi4"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "La Rue",
+    "featured": null,
+    "producer": [
+      "Kore"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=0t4e9YfbdFs"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Pour de vrai",
+    "featured": null,
+    "producer": [
+      "DJ Bellek"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Pke_UeNTHMc"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Bracelet",
+    "featured": null,
+    "producer": [
+      "Kore"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=3d6PFPe7toc"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Le loup d’la street",
+    "featured": [
+      "Amel Bent"
+    ],
+    "producer": [
+      "Kore"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lacrim",
+    "title": "A.W.A",
+    "featured": [
+      "French Montana"
+    ],
+    "producer": [
+      "Kore"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=-4Fj_NCcI48"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Pocket Coffee",
+    "featured": null,
+    "producer": [
+      "Kore"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=rWy30tJdyAM"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "J’suis Qu’un Thug",
+    "featured": null,
+    "producer": [
+      "Kore"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=6A6iGko3KZY"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Mon frère",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=v-F6xYQUAn8"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "A.W.A (English Translation)",
+    "featured": [
+      "French Montana"
+    ],
+    "producer": [
+      "Kore"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=-4Fj_NCcI48"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Chaos",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Génération Tarée",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Jack's Music",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Vis Tes Rêves",
+    "featured": [
+      "Le Rat Luciano"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=2VWZTnm_WSc"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Viens je t'emmene",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Gj9HjdIJI6M"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Espagna",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=n4-GXPcXJ_g"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "J'ai faim",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=5TvlAPaFFDk"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Faites entrer",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=NWhJhJ5Y0Qo"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Yes We Can",
+    "featured": [
+      "Mister You",
+      "Rim'k"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=LR9OsMwqbTk"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "On s'nique",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=fWOtK9QD9BQ"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "My Life",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Imbattable",
+    "featured": [
+      "Keny Arkana"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Prêt",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=6-cScceGNGM"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "S'il vous plait",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=2GqLkQrXOaI"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Je suis ton père",
+    "featured": null,
+    "producer": [
+      "Ripro Music"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=iGKb2GlXSFE"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Outro",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=TPz85rAveJ4"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Sale époque",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=_zNL7UkRFXE"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Intro (Liberté Provisoire)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=qOtob4V4Bes"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "La Rue a ses dits-ban",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lacrim",
+    "title": "100 Barres Ou 10 Piges",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=NV6DEKwiHBk"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Les Temps Changent",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=6UYRWyHCtt4"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "T'es pas prêt",
+    "featured": [
+      "Still Fresh"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lacrim",
+    "title": "À Bout De Souffle",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=gEkkFW2er1g"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Partir À Belize",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Freestyle (Liberté Provisoire)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Liberté Provisoire",
+    "featured": [
+      "Mister You"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=kK01ctC9TQo"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Ça Rigole Pas",
+    "featured": [
+      "Brulé"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=tOdbTsHpPpg"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Pourquoi j'aime pas la France",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Intro : Né Pour Mourir",
+    "featured": null,
+    "producer": [
+      "Therapy"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=kvYs4YJH0sU"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "On va tout perdre",
+    "featured": [
+      "Mister You"
+    ],
+    "producer": [
+      "Naeed Futur"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=DqJktZdm_kA"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Luca Brazi",
+    "featured": null,
+    "producer": [
+      "Therapy"
+    ],
+    "audioLink": "https://soundcloud.com/street-v-rit/lacrim-x-luca-brazi"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Bonnie & Clyde",
+    "featured": [
+      "Kayna Samet"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=87wVvr4ungc"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "D'où je viens tu connais",
+    "featured": null,
+    "producer": [
+      "Therapy"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=GHpfCmoLC24"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Un indien dans la ville",
+    "featured": [
+      "Alonzo"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Oh Mother",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=pKIbveHqNig"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Je Danse",
+    "featured": [
+      "Brasco"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=LmtlbN7Nb5o"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Beauté Fatale",
+    "featured": [
+      "Najim"
+    ],
+    "producer": [
+      "Dj E-Rise"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=FpZXfHu1qHM"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Outro : J'me travestis pas",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=LmGm_Rllm3g"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Intro",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=VrBMbJK6eCk"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "C'est Nous",
+    "featured": [
+      "Niro"
+    ],
+    "producer": null,
+    "audioLink": "https://soundcloud.com/detrak/lacrim-c-nous-ft-niro-toujours"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Q'un Homme Et Fier De L'être",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=GuUGbG4N47w"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Sors Ton Portable",
+    "featured": [
+      "Le Rat Luciano"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Les Amis",
+    "featured": [
+      "Léa Castel"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=0klktiOAeMU"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Je viens de...",
+    "featured": [
+      "Rimkus"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=KL7ZrkDOpnA"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Combien Et Qui ?",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=pA8whfSu7Po"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "T-Max Music",
+    "featured": [
+      "Seth Gueko"
+    ],
+    "producer": [
+      "Hype Beatz"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=8JnFvnpfp3o"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Dos En Or",
+    "featured": null,
+    "producer": [
+      "Dj E-Rise"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=P1B9tWGaUGU"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Spartiate",
+    "featured": [
+      "Médine"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=LKZPxsfrAJs"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Dolce Vita",
+    "featured": [
+      "Hayce Lemsi"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=6W6Tw8HWLpQ"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Et Ouais Mon Pote",
+    "featured": [
+      "Mister You"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=6jamuhgubgw"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Un Arabe À Miami",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=D2cFccWQRp0"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Wild Boy (Remix)",
+    "featured": [
+      "Hayce Lemsi",
+      "Kalash l'Afro",
+      "Kamelenouvo",
+      "Le Rat Luciano",
+      "Niro",
+      "Still Fresh",
+      "Wanis"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Z_fcgt31LB8"
+  },
+  {
+    "artist": "Lacrim",
+    "title": "Toujours Le Même",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Rimkus",
+    "title": "Outro",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=tN4xe1Vs9bY"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "The Recipe Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=3Zldg2rMXz8"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Haters Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=gQx1xVDdOhM"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Blow The Whistle Freestyle",
+    "featured": [
+      "Laracious"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=4Jni-IX6Y1Q"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Uptown Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=wm1iH0PdZsw"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Assassination Outro",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Z7uFWtL3rvk"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Let The Beat Build Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Ayf7SR_rKyw"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Make Me Proud Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=uPtbxYe0Lkc"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "6 Foot 7 Foot Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=05oJsHxUgHA"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Let It Rock Freestyle",
+    "featured": [
+      "Laracious"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=kYROecFsmO8"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "I Wish Freestyle",
+    "featured": [
+      "Laracious"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=WoUTa61s5jI"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Young & Gettin It Freestyle",
+    "featured": [
+      "Laracious"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=jzBwLhzqGuQ"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Trust Issues Freestyle",
+    "featured": [
+      "Laracious"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ODViDhmMOwI"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Supafreak Freestyle",
+    "featured": [
+      "Laracious"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=UfGmagaCS_c"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Snapbacks & Tattoos Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=YeFZDAHUyG0"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "This Plane Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=V1er0RMWMSc"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "I Don't Like The Look Of It Break",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=V1er0RMWMSc"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Blow The Whistle \"Ladell Parks Version\"",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=4Jni-IX6Y1Q"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Freak A Leak Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=_M0lGD0v5AM"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Assassination Mixtape Break",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=LQ7LbOgD2Bg"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "So Many Girls Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Kv7HOTrNWB0"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Imma Boss Freestyle",
+    "featured": [
+      "Lil Woo",
+      "Trell"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Ambition \"Lil Woo Version\"",
+    "featured": [
+      "Lil Woo"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=zVgETMctETM"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "On My Level \"Lil Woo Version\"",
+    "featured": [
+      "Lil Woo"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=TO80g-6sWuM"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Deadline Outro",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=DTPUj5n4Qok"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Deadline Intro",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=YeDOi9pOpYI"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Deadline Break",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=79atYaJATEo"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Hate Sleeping Alone Freestyle",
+    "featured": [
+      "Lil Woo"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Lo-_xPcVk6A"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Show Money Freestyle",
+    "featured": [
+      "David Todd"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=6n4PB4O68-E"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Hold Up Freestyle",
+    "featured": [
+      "Lil Woo"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Gjqkfmw43D8"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Pretty Boy Swagg Freestyle",
+    "featured": [
+      "Lil Woo"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=P5AS-CF2ttc"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Imma Dogg Freestyle",
+    "featured": [
+      "Lil Woo"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=35f-_7GMi_I"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "I'm So Raw Freestyle",
+    "featured": [
+      "Lil Woo"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=1ZLO_Rr1fxU"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Fuckin' Problems Freestyle",
+    "featured": [
+      "Lil Woo"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ewJ0MCLn90w"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Cashin Out Freestyle",
+    "featured": [
+      "Lil Woo",
+      "Trell"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Coy9ewxbF7c"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Hate It Or Love It Freestyle",
+    "featured": [
+      "Lil Woo"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=JnSB1VVMwic"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Say Something Freestyle",
+    "featured": [
+      "Lil Woo",
+      "Trell"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=id0ZnDtMjCY"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "I Don't Like Freestyle",
+    "featured": [
+      "Lil Woo",
+      "Trell"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=gEF2t4_2690"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Birthday Freestyle",
+    "featured": [
+      "Lil Woo"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=NVHwSHaxVfI"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Ball Freestyle",
+    "featured": [
+      "Lil Woo"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=9_5ECB_q5nM"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Lord Knows Freestyle",
+    "featured": [
+      "Lil Woo"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=YZvo6x1DLsU"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Candy Paint Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=h-PObLF_A_8"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Smart Girl Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=XKIYPOU3o7w"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Worst Behavior Break",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=TEwgy0-fIcE"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Tusan Leather Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=t97O-lEYrrk"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "La La La Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=UeZnk6QD9kI"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Intro Break",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=q_qCRMeWYqg"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Get Lucky Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Ggtka24-R60"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Gas Pedal Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=A7kZti_20Bs"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Faithful Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=LrLaNseiASk"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "R.I.P Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=j9btwiHbXwg"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Headbandz Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Holy Grail Outro",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=sVBc7Kwpd-Q"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Fuck With Me You Know I Got It Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Zq4aG2KuNDI"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Now My Time Remix Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=U2yCcH9OeKU"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "My Cake Now Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=UX-Db0wd1xI"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Dream Money Can Buy Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=vMjXh_GHTcQ"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Downtown Music Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Mk6EjT7BW0Q"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Blue Milk Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ijAH5RCFgE0"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Berzerk Freestyle",
+    "featured": [
+      "Laracious"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ImukCLWjTvM"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Beautiful Pain Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=VBFZ0IY5fxg"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "The Motto Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=sonCmUWGjiQ"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "On My Level Freestyle",
+    "featured": [
+      "Jaclyn Niska"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=4p4w_JP0czs"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Show Me Your Genitals Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=18EXX8Mi-CY"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Boots & Simba",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Swimming Pools (Drank) Freestyle",
+    "featured": [
+      "Dee",
+      "Laracious"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Green Light Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Can't Get Enough Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=4GbGDVzPvhA"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Bout Me Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Party Rock Anthem Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Over My Dead Body Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Drank In My Cup Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Bitches Ain't Shit Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Never Serious",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=gy14em83hlc"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Now My Time Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Donk Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=wFz8UDPBsh0"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Stan Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=rQgfIsf4Yjc"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Never Serious Intro",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "That Tree Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Ambition Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Show Money Freestyle",
+    "featured": [
+      "David Todd"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=6n4PB4O68-E"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Rags 2 Trash Bags Outro",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=bUDTESdpRVo"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Rags 2 Trash Bags Intro",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=yHF9oiEde0g"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Rags 2 Trash Bags Mixtape Break",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=KMV9NsrladI"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Money To Blow Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=wTH_nsI6nNg"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "I Hit It First Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=F4VSsKFKdqc"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Poetic Justice Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Ix27MB-ETSE"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Public Service Announcement Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=g6uZ3Y4mUek"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Switch Lanes Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=GHHDB5ArU4w"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "By The Gun Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=AphgcppgiA0"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Hustlin Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=QRvEj490mRc"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Hate Being Sober Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=IRmEi7g7p14"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Don't Stress Enough",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=IddvPayjb6U"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "9 Piece Freestyle",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=6p5hYl5oowU"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "Haters Everywhere Freestyle",
+    "featured": [
+      "Laracious"
+    ],
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=6p5hYl5oowU"
+  },
+  {
+    "artist": "Ladell Parks",
+    "title": "I Don't Want Too",
+    "featured": null,
+    "producer": [
+      "LP Industries"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Dispute",
+    "title": "Sunday Morning, at a Funeral",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=mWS7zHsh9OE"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "HUDSONVILLE MI 1956",
+    "featured": null,
+    "producer": [
+      "Will Yip"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Dispute",
+    "title": "First Reactions After Falling Through the Ice",
+    "featured": null,
+    "producer": [
+      "Will Yip"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Dispute",
+    "title": "Woman (in mirror)",
+    "featured": null,
+    "producer": [
+      "Will Yip"
+    ],
+    "audioLink": "https://soundcloud.com/la-dispute/woman-in-mirror"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "SCENES FROM HIGHWAYS 1981-2009",
+    "featured": null,
+    "producer": [
+      "Will Yip"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Dispute",
+    "title": "For Mayor in Splitsville",
+    "featured": null,
+    "producer": [
+      "Will Yip"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Dispute",
+    "title": "35",
+    "featured": null,
+    "producer": [
+      "Will Yip"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Dispute",
+    "title": "Stay Happy There",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "La Dispute",
+    "title": "THE CHILD WE LOST 1963",
+    "featured": null,
+    "producer": [
+      "Will Yip"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Dispute",
+    "title": "Woman (reading)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/la-dispute/woman-reading"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "Extraordinary Dinner Party",
+    "featured": null,
+    "producer": [
+      "Will Yip"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Dispute",
+    "title": "Objects in Space",
+    "featured": null,
+    "producer": [
+      "Will Yip"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Dispute",
+    "title": "Such Small Hands",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/dostoewskaya/la-dispute-such-small-hands"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "The Last Lost Continent",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "La Dispute",
+    "title": "Nobody, Not Even the Rain",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "La Dispute",
+    "title": "A Word of Welcome and Warning",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "La Dispute",
+    "title": "Future Wars",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "La Dispute",
+    "title": "To Withstand the Force of Storms",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "La Dispute",
+    "title": "The Surgeon And The Scientist",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "La Dispute",
+    "title": "He Is Here, He Is Not Afraid",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "La Dispute",
+    "title": "See You In Vancouver",
+    "featured": null,
+    "producer": [
+      "Peter Degraw"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Dispute",
+    "title": "A Departure",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=VH8mYeJXHp8"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "Harder Harmonies",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=CQYDamOvop8"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "St. Paul Missionary Baptist Church Blues",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=qz2umuRhXK4"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "Edit Your Hometown",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=HaEHimN2owk"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "A Letter",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=5nURcsUg9So"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "Safer In The Forest/Love Song For Poor Michigan",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=UWHU027K8Gs"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "The Most Beautiful Bitter Fruit",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Wp4OklO1BxQ"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "A Poem",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ZetLFYwE8Rc"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "King Park",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ysqRwPfR5bs"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "Edward Benz, 27 Times",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=sMU9dPCGCpE"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "I See Everything",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=wXaXO-PaGII"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "A Broken Jar",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=K6NR1wnbxBw"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "All our bruised bodies and the whole heart shrinks",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=U3i3n8ZTDsc"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "You and I in Unison",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=7w3rlZDGmDY"
+  },
+  {
+    "artist": "Lady",
+    "title": "HD",
+    "featured": [
+      "Plies"
+    ],
+    "producer": [
+      "Black Bill Gates"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=y9OHdOIFkro"
+  },
+  {
+    "artist": "Lady",
+    "title": "Twerk",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=jPhYRtK0fBU"
+  },
+  {
+    "artist": "Lady",
+    "title": "Hands",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=LCnKi9eU2-o"
+  },
+  {
+    "artist": "Lady",
+    "title": "Pussy",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=SAGsIQDXEGI"
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 1)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 2)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 3)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 4)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 5)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 6)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 7)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 8)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 9)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 10)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 11)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 12)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 13)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 14)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 15)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 16)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 17)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 18)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 19)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady",
+    "title": "The Ladies Defence: (Chap. 20)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Aura",
+    "featured": null,
+    "producer": [
+      "Infected Mushroom",
+      "Lady Gaga",
+      "Zedd"
+    ],
+    "audioLink": "https://soundcloud.com/hausofmatheus/aura-extended"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Venus",
+    "featured": null,
+    "producer": [
+      "Lady Gaga"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=nP3ctBs3510"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "G.U.Y. (Girl Under You)",
+    "featured": null,
+    "producer": [
+      "Zedd"
+    ],
+    "audioLink": "https://soundcloud.com/yehurmyhooker/lady-gaga-g-u-y-seth-lee"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Sexxx Dreams",
+    "featured": null,
+    "producer": [
+      "DJ White Shadow"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=SagXJAm6QYc"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Jewels & Drugs",
+    "featured": [
+      "T.I.",
+      "Too Short",
+      "Twista"
+    ],
+    "producer": [
+      "DJ White Shadow"
+    ],
+    "audioLink": "https://soundcloud.com/carlostequila/lady-gaga-jewels-and-drugs"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "MANiCURE",
+    "featured": null,
+    "producer": [
+      "DJ White Shadow"
+    ],
+    "audioLink": "https://soundcloud.com/gagaexclusive/lady-gaga-manicure"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Do What U Want",
+    "featured": [
+      "R. Kelly"
+    ],
+    "producer": [
+      "DJ White Shadow",
+      "Lady Gaga"
+    ],
+    "audioLink": "https://soundcloud.com/djarsh-arsh"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "ARTPOP",
+    "featured": null,
+    "producer": [
+      "DJ White Shadow",
+      "Lady Gaga"
+    ],
+    "audioLink": "https://soundcloud.com/carlostequila/lady-gaga-artpop-live-at"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Swine",
+    "featured": null,
+    "producer": [
+      "DJ White Shadow",
+      "Zedd"
+    ],
+    "audioLink": "https://soundcloud.com/carlostequila/lady-gaga-swine-live-at-itunes"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Donatella",
+    "featured": null,
+    "producer": [
+      "Zedd"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=_mb2P23EelI"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Fashion!",
+    "featured": [
+      "will.i.am"
+    ],
+    "producer": [
+      "will.i.am"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=GnCcEuTbb5Y"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Mary Jane Holland",
+    "featured": null,
+    "producer": [
+      "Madeon"
+    ],
+    "audioLink": "https://soundcloud.com/zakgerminaj/lady-gaga-mary-jane-holland"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Dope",
+    "featured": null,
+    "producer": [
+      "Rick Rubin"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=1iSd_wTuA3U"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Gypsy",
+    "featured": null,
+    "producer": [
+      "Lady Gaga",
+      "Madeon"
+    ],
+    "audioLink": "https://soundcloud.com/bruno-profancik/gypsy-lady-gaga-live-at"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Applause",
+    "featured": null,
+    "producer": [
+      "DJ White Shadow"
+    ],
+    "audioLink": "https://soundcloud.com/interscope/lady-gaga-applause-official"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Do What U Want (Live on The Voice)",
+    "featured": [
+      "Christina Aguilera"
+    ],
+    "producer": [
+      "DJ White Shadow",
+      "Lady Gaga"
+    ],
+    "audioLink": "https://soundcloud.com/hausofmatheus/do-what-u-want-studio-version"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "ARTPOP Annotated Track List",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "ARTPOP Album Cover",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Chihuahua0",
+    "title": "ARTPOP REVIEW",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Tea",
+    "featured": null,
+    "producer": [
+      "Lady Gaga",
+      "Zedd"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Ratchet",
+    "featured": [
+      "DJ White Shadow"
+    ],
+    "producer": [
+      "DJ White Shadow",
+      "Lady Gaga",
+      "Zedd"
+    ],
+    "audioLink": "https://soundcloud.com/btwreborn/lady-gaga-ratchet-dj-white"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Marry The Night",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=O4IgYxHEAuk"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Born This Way",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=wV1FrqwZyKw"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Government Hooker",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=o8uMXyxvbKA"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Judas",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=nfLb-7vUYIg"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Americano",
+    "featured": null,
+    "producer": [
+      "CherryCherryBoomBoom Fernando Garibay",
+      "DJ White Shadow"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=fHGKG9dyTKI"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Scheiße",
+    "featured": null,
+    "producer": [
+      "RedOne"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Hair",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=h2448am4gIM"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Bloody Mary",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=nBhrZbbVSMg"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Bad Kids",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=lxhjHz9FYQE"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Highway Unicorn (Road to Love)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/hausofmatheus/highway-unicorn-road-to-love"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Heavy Metal Lover",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Electric Chapel",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/hausofmatheus/electric-chapel-extended-version"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "You and I",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=X9YMU0WeBwU"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "The Edge of Glory",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/hausofmatheus/the-edge-of-glory-extended-version"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Born This Way (Jost & Naaf Remix)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=QXmhWh-nvo4"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Black Jesus + Amen Fashion",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=gWL4u3Exiq8"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Fashion Of His Love",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "The Queen",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Fashion [Confessions Version]",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=LALMRC_xvlw"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Just Dance",
+    "featured": [
+      "Colby O'Donis"
+    ],
+    "producer": [
+      "RedOne"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=2Abk1jAONjw"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "LoveGame",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=1mB0tP1I-14"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Beautiful, Dirty, Rich",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Eh, Eh (There's Nothing Else I Can Say)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=mVEG793G3N4"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Poker Face",
+    "featured": null,
+    "producer": [
+      "RedOne"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=cOiEsMl5LJs"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "The Fame",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Money Honey",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=prxr43n0P2M"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Again Again",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=rXz3En9PbiU"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Boys boys boys",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Brown Eyes",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Summerboy",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "I Like It Rough",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Retro Dance Freak",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Paper Gangsta",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=oqMgUI7XQ3k"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Bad Romance",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=qrO4YZeyl0I"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Alejandro",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=HhyPlsqgmks"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Monster",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=iqjRX8kJeX8"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Speechless",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=_7HvURBhMGE"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Dance In The Dark",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=zjHcyjmMUyU"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Telephone",
+    "featured": [
+      "Beyoncé"
+    ],
+    "producer": [
+      "Rodney Jerkins"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=EVBsypHzF3U"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "So Happy I Could Die",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=r08xhL0jI1Q"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Teeth",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "White Christmas",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=lEh9QDVjNCc"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Orange Colored Sky",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=G7ozT9nPWps"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "You and I",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=X9YMU0WeBwU"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "The Edge of Glory",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/hausofmatheus/the-edge-of-glory-extended-version"
+  },
+  {
+    "artist": "Lafaye",
+    "title": "Clear my soul",
+    "featured": null,
+    "producer": [
+      "Ramaj Eroc"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lafaye",
+    "title": "Dreams",
+    "featured": [
+      "Phil Da Agony"
+    ],
+    "producer": [
+      "Ramaj Eroc"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Griffe 6K",
+    "title": "Cette Vie Là",
+    "featured": null,
+    "producer": [
+      "KVIK ProductionS",
+      "Zitrox Beatz"
+    ],
+    "audioLink": "https://soundcloud.com/kvikproductions/lagriffe6k-cetteviela"
+  },
+  {
+    "artist": "La Griffe 6K",
+    "title": "Oublier",
+    "featured": null,
+    "producer": [
+      "KVIK ProductionS",
+      "Lionel KIMB'S"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=3bz6xHBoOvA"
+  },
+  {
+    "artist": "La Griffe 6K",
+    "title": "Reine de moi",
+    "featured": null,
+    "producer": [
+      "GNG",
+      "KVIK ProductionS"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Griffe 6K",
+    "title": "Après la fin du monde",
+    "featured": null,
+    "producer": [
+      "KVIK ProductionS",
+      "MrK Productions"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Griffe",
+    "title": "KVIK Finition",
+    "featured": [
+      "Bull Wonders"
+    ],
+    "producer": [
+      "KVIK ProductionS",
+      "MrK Productions"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Griffe 6K",
+    "title": "Dakar",
+    "featured": null,
+    "producer": [
+      "KVIK ProductionS",
+      "MrK Productions"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Griffe 6K",
+    "title": "Génération 2.1",
+    "featured": [
+      "M2X"
+    ],
+    "producer": [
+      "KVIK ProductionS",
+      "MrK Productions"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Griffe 6K",
+    "title": "La légende",
+    "featured": null,
+    "producer": [
+      "KVIK ProductionS",
+      "MrK Productions"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Griffe 6K",
+    "title": "Dulcinée",
+    "featured": null,
+    "producer": [
+      "KVIK ProductionS",
+      "MrK Productions"
+    ],
+    "audioLink": "https://soundcloud.com/kvikproductions/dulcinee"
+  },
+  {
+    "artist": "La Griffe 6K",
+    "title": "A nos morts",
+    "featured": [
+      "YZ"
+    ],
+    "producer": [
+      "KVIK ProductionS"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=FkXuswTNcJM"
+  },
+  {
+    "artist": "La Griffe 6K",
+    "title": "Le 11 Septembre",
+    "featured": null,
+    "producer": [
+      "KVIK ProductionS"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lagwagon",
+    "title": "Violins",
+    "featured": null,
+    "producer": [
+      "Ryan Greene"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=uaKl2vBR4Sg"
+  },
+  {
+    "artist": "Lagwagon",
+    "title": "Alison's Disease",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Dh8qWi4eEDE"
+  },
+  {
+    "artist": "Lagwagon",
+    "title": "Know It All",
+    "featured": null,
+    "producer": [
+      "Fat Mike",
+      "Lagwagon"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=EKkBenF-u-I"
+  },
+  {
+    "artist": "Lakmann",
+    "title": "Ruhrpott Rydermusic",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lakmann",
+    "title": "Wofür mach ich das",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=e56k5abS2Ts"
+  },
+  {
+    "artist": "Lakmann",
+    "title": "Tabbis Song",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lakmann",
+    "title": "3 Nicht Allein",
+    "featured": [
+      "Flipstar",
+      "Lenny"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lakmann",
+    "title": "Zeichen Und Wunder",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lakmann",
+    "title": "Rückspultaste",
+    "featured": null,
+    "producer": [
+      "Brenna",
+      "DJ Schänz"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lakmann",
+    "title": "Blood n Bones",
+    "featured": [
+      "Ercandize"
+    ],
+    "producer": [
+      "Brenna",
+      "DJ Schänz"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lakmann",
+    "title": "Ready 2 Rumble",
+    "featured": null,
+    "producer": [
+      "Brenna",
+      "DJ Schänz"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lakmann",
+    "title": "Langweilman",
+    "featured": null,
+    "producer": [
+      "Brenna",
+      "DJ Schänz"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lakmann",
+    "title": "Viertelt nach 10",
+    "featured": null,
+    "producer": [
+      "Brenna",
+      "DJ Schänz"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Neno",
+    "title": "Augenränder",
+    "featured": null,
+    "producer": [
+      "DJ George Tunee",
+      "Neno"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=GTYqrkZxbvw"
+  },
+  {
+    "artist": "Os",
+    "title": "Wenn, wenn, wenn",
+    "featured": null,
+    "producer": [
+      "DJ George Tunee",
+      "Terence Chill"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=eXy75Zb-wpc"
+  },
+  {
+    "artist": "TomTom",
+    "title": "Metaphorischer Titel",
+    "featured": null,
+    "producer": [
+      "DJ George Tunee",
+      "Dr. Morbius"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=exDQ1LR15gg"
+  },
+  {
+    "artist": "Fritz Fresh",
+    "title": "Spielhölle",
+    "featured": null,
+    "producer": [
+      "Fritz Fresh"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=YUxCHwma6rU"
+  },
+  {
+    "artist": "Dike",
+    "title": "Glück Auf!",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=3cLzrMCfEJM"
+  },
+  {
+    "artist": "Lakmann",
+    "title": "Buchstabier meinen Namen",
+    "featured": null,
+    "producer": [
+      "Terence Chill"
+    ],
+    "audioLink": "https://soundcloud.com/rudi-kurt-blahovec/lakmann-buchstabier-meinen"
+  },
+  {
+    "artist": "Lakmann",
+    "title": "Drop the Bomb",
+    "featured": null,
+    "producer": [
+      "DJ Schänz"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=INXabhiQ19E"
+  },
+  {
+    "artist": "Lakutis",
+    "title": "I'm In The Forest",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ZWi7aqdcSV0"
+  },
+  {
+    "artist": "Lakutis",
+    "title": "Lakutis In The House",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=qFASFUh6eyM"
+  },
+  {
+    "artist": "Lakutis",
+    "title": "Swann Gangg",
+    "featured": [
+      "DVS"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=3_wuDQ3FTHs"
+  },
+  {
+    "artist": "Lakutis",
+    "title": "Death Shark",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=y-WU4l3XqaE"
+  },
+  {
+    "artist": "Lakutis",
+    "title": "Wifey",
+    "featured": [
+      "Das Racist"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=I4FiBM7qXUw"
+  },
+  {
+    "artist": "Lakutis",
+    "title": "I'm Better Than Everybody",
+    "featured": [
+      "Kool A.D."
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=yQOkmHqBTGI"
+  },
+  {
+    "artist": "Lakutis",
+    "title": "Pool Party",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=zCtPhBX49NA"
+  },
+  {
+    "artist": "Lakutis",
+    "title": "Animal",
+    "featured": null,
+    "producer": [
+      "Steel Tipped Dove"
+    ],
+    "audioLink": "https://soundcloud.com/greedheadmusic/02-lakutis-animal-prod-by"
+  },
+  {
+    "artist": "Lakutis",
+    "title": "Jesus Piece",
+    "featured": null,
+    "producer": [
+      "Steel Tipped Dove"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Gfoj-vSeVeI"
+  },
+  {
+    "artist": "Lakutis",
+    "title": "Too Ill for the Law",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=R1CyJzPQah8"
+  },
+  {
+    "artist": "Lakutis",
+    "title": "Mumra",
+    "featured": null,
+    "producer": [
+      "SPVCE"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lakutis",
+    "title": "Chinese Slippers",
+    "featured": null,
+    "producer": [
+      "Bill Ding"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lakutis",
+    "title": "Black Swann",
+    "featured": [
+      "DVS"
+    ],
+    "producer": [
+      "SicksentZ"
+    ],
+    "audioLink": "https://soundcloud.com/greedheadmusic/08-lakutis-black-swann-ft-dvs"
+  },
+  {
+    "artist": "Lakutis",
+    "title": "Skeleton",
+    "featured": null,
+    "producer": [
+      "Bill Ding"
+    ],
+    "audioLink": "https://soundcloud.com/greedheadmusic/11-lakutis-skeleton-prod-by"
+  },
+  {
+    "artist": "Lakutis",
+    "title": "Body Scream",
+    "featured": null,
+    "producer": [
+      "Hot Sugar"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lakutis",
+    "title": "Dope As Fuck",
+    "featured": null,
+    "producer": [
+      "Bill Ding"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "La Méthode",
+    "title": "Yes !",
+    "featured": null,
+    "producer": [
+      "Crow Sound"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=V2BOBOND6co"
+  },
+  {
+    "artist": "La Méthode",
+    "title": "Avant-gardistes",
+    "featured": null,
+    "producer": [
+      "DJ Mofak"
+    ],
+    "audioLink": "https://soundcloud.com/lamethode/avant-gardistes-prod-by-dj"
+  },
+  {
+    "artist": "La Méthode",
+    "title": "Give me a Dub Plate",
+    "featured": [
+      "Faïanatur"
+    ],
+    "producer": [
+      "Crow Sound",
+      "Labo Klandestino"
+    ],
+    "audioLink": "https://soundcloud.com/lamethode/give-me-a-dubplate-feat-fa"
+  },
+  {
+    "artist": "La Méthode",
+    "title": "Bad Mentality",
+    "featured": null,
+    "producer": [
+      "Pak' Dj'een"
+    ],
+    "audioLink": "https://soundcloud.com/lamethode/bad-mentality-prod-by-pak"
+  },
+  {
+    "artist": "La Méthode",
+    "title": "Goûte ça",
+    "featured": [
+      "Ksir Makoza"
+    ],
+    "producer": [
+      "Crow Sound"
+    ],
+    "audioLink": "https://soundcloud.com/lamethode/go-te-a-feat-ksir-makoza-prod"
+  },
+  {
+    "artist": "La Méthode",
+    "title": "Un jour... tu comprendras",
+    "featured": null,
+    "producer": [
+      "Crow Sound"
+    ],
+    "audioLink": "https://soundcloud.com/lamethode/un-jour-tu-comprendras-prod-by"
+  },
+  {
+    "artist": "La Méthode",
+    "title": "Ça tabasse",
+    "featured": [
+      "Grio Negga",
+      "Voicebless"
+    ],
+    "producer": [
+      "Crow Sound"
+    ],
+    "audioLink": "https://soundcloud.com/lamethode/a-tabasse-feat-grio-negga"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Born To Die",
+    "featured": null,
+    "producer": [
+      "Haynie",
+      "Justin Parker"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=eGR1iDuKabU"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Off To The Races",
+    "featured": null,
+    "producer": [
+      "Haynie",
+      "Patrik Berger"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ET1MhXiUDVg"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Blue Jeans",
+    "featured": null,
+    "producer": [
+      "Haynie"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=8t-I-Lqy06g"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Video Games",
+    "featured": null,
+    "producer": [
+      "Robopop"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=HO1OV5B_JDw"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Diet Mountain Dew",
+    "featured": null,
+    "producer": [
+      "Haynie",
+      "Jeff Bhasker"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=hMlUkaucwyw"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "National Anthem",
+    "featured": null,
+    "producer": [
+      "Haynie",
+      "Jeff Bhasker"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=60cvtxwlJr8"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Dark Paradise",
+    "featured": null,
+    "producer": [
+      "Haynie",
+      "Nowels"
+    ],
+    "audioLink": "https://soundcloud.com/hisham-galal/dark-paradise-lana-del-rey"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Radio",
+    "featured": null,
+    "producer": [
+      "Haynie"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=CFjqZpZZ5jI"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Carmen",
+    "featured": null,
+    "producer": [
+      "Haynie",
+      "Jeff Bhasker"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=L6K8Uq88BEQ"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Million Dollar Man",
+    "featured": null,
+    "producer": [
+      "Chris Braide",
+      "Haynie"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=YBfi0w6JDQU"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Summertime Sadness",
+    "featured": null,
+    "producer": [
+      "Haynie",
+      "Nowels"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=nVjsGKrE6E8"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "This Is What Makes Us Girls",
+    "featured": null,
+    "producer": [
+      "Al Shux",
+      "Emile"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=RVGvf7HCYd8"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Without You",
+    "featured": null,
+    "producer": [
+      "Haynie"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=LwcnoYlqPaQ"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Lolita",
+    "featured": null,
+    "producer": [
+      "Haynie"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=5BwmRfpn9vs"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Lucky Ones",
+    "featured": null,
+    "producer": [
+      "Haynie",
+      "Nowels"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=mA3QAyRSRng"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Kill Kill",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=mrziYF6bVAE"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Queen Of The Gas Station",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ogsfNVZ-vhI"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Oh Say Can You See",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=I_ZqEsWUUfA"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Gramma (Blue Ribbon Sparkler Trailer Heaven)",
+    "featured": null,
+    "producer": [
+      "David Kahne"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=-vopB48aKSo"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "For K (Part 2)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=VZD0aMqPTNo"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Jump",
+    "featured": null,
+    "producer": [
+      "Lana Del Rey"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=RZwhexF7puU"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Raise Me Up (Mississippi South)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ula_Ynu_DcY"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Pawn Shop Blues",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=56JBatEumGo"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Brite Lites",
+    "featured": null,
+    "producer": [
+      "David Kahne"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=VFjneHxAoG0"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Put Me In A Movie",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ks5VshUSslU"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Smarty",
+    "featured": null,
+    "producer": [
+      "David Kahne"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=VeC9vaE8qDQ"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Yayo",
+    "featured": null,
+    "producer": [
+      "Dan Heath",
+      "Haynie"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=jMD155nc61A"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Mermaid Motel",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Get Drunk",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=poMiHWb390Q"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Jimmy Gnecco",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=lNJ6SR3f4TY"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Ride",
+    "featured": null,
+    "producer": [
+      "Rick Rubin"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=nvb8wdBglpw"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "American",
+    "featured": null,
+    "producer": [
+      "Nowels"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=flSSdLr9qHk"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Cola",
+    "featured": null,
+    "producer": [
+      "Nowels"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=X34RO0zfA4Y"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Body Electric",
+    "featured": null,
+    "producer": [
+      "Dan Heath",
+      "Nowels"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Blue Velvet",
+    "featured": null,
+    "producer": [
+      "Haynie"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Gods & Monsters",
+    "featured": null,
+    "producer": [
+      "Haynie",
+      "Larcombe"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=FkgMbiVi_3E"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Yayo",
+    "featured": null,
+    "producer": [
+      "Dan Heath",
+      "Haynie"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=jMD155nc61A"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Bel Air",
+    "featured": null,
+    "producer": [
+      "Dan Heath"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=yq3yT8CkPzY"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Burning Desire",
+    "featured": null,
+    "producer": [
+      "Haynie"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=zx_dTSPzXlk"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Blizzard",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=GhFY7z766JQ"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "In Wendy",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ekGXEDh9W6g"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "More Mountains",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=W5QdEZeWecg"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "You, Mister",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=6BbmfIuYYO8"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "There's Nothing To Be Sorry About",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=qC1znjF2P-w"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "For K (Part 1)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=rZqRZ83lf6Y"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Next to Me",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=_wX2agbwOyg"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "A Star For Nick",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=RR6Faqt9qRs"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "My Momma",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=M-B9C6CjX0w"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Bad Disease",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Out With a Bang",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Dear Elliot",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Try Tonight",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "All You Need",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=UvuL-q6_hXI"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "I'm Indebted To You",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Pretty Baby",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=QVxwEucGeug"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Aviation",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=bQQGdvHppyc"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Find My Own Way",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Junky Pride",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=sVNq7HFvhNQ"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Birds Of A Feather",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Cruel World",
+    "featured": null,
+    "producer": [
+      "Dan Auerbach"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=l4ZfLPSN-8A"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Ultraviolence",
+    "featured": null,
+    "producer": [
+      "Dan Auerbach"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=EJSk2RySqKg"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Shades Of Cool",
+    "featured": null,
+    "producer": [
+      "Rick Nowels"
+    ],
+    "audioLink": "https://soundcloud.com/itsaphrodisi3/shades-of-cool-itunes-quality-unedited-and-not-cut-off-dl-in-desc"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Brooklyn Baby",
+    "featured": null,
+    "producer": [
+      "Dan Auerbach"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=T5xcnjAG8pE"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "West Coast",
+    "featured": null,
+    "producer": [
+      "Dan Auerbach"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=o3SqUUoJjW8"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Sad Girl",
+    "featured": null,
+    "producer": [
+      "Dan Auerbach",
+      "Rick Nowels"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Lg8sl_xejx8"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Pretty When You Cry",
+    "featured": null,
+    "producer": [
+      "Blake Stranathan",
+      "Lana Del Rey",
+      "Lee Foster"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=VszxREh190U"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Money Power Glory",
+    "featured": null,
+    "producer": [
+      "Greg Kurstin"
+    ],
+    "audioLink": "https://soundcloud.com/nicolas-casallas-garcia/money-power-glory-snippet"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Fucked My Way Up To The Top",
+    "featured": null,
+    "producer": [
+      "Dan Heath",
+      "Lana Del Rey"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=vVMnQ1ypjmY"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Old Money",
+    "featured": null,
+    "producer": [
+      "Dan Heath"
+    ],
+    "audioLink": "https://soundcloud.com/nicolas-casallas-garcia"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "The Other Woman",
+    "featured": null,
+    "producer": [
+      "Dan Auerbach"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=QTw9WcK0LNU"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Black Beauty",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=EXcE5uz9JQk"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Guns And Roses",
+    "featured": null,
+    "producer": [
+      "Lana Del Rey",
+      "Rick Nowels"
+    ],
+    "audioLink": "https://soundcloud.com/nicolas-casallas-garcia/guns-ans-roses-snippet"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Florida Kilos",
+    "featured": null,
+    "producer": [
+      "Dan Auerbach",
+      "Lana Del Rey"
+    ],
+    "audioLink": "https://soundcloud.com/lanalove77/lana-del-rey-florida-kilos"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Is This Happiness",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=WIvYpa2St8g"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Flipside",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Ultraviolence Tracklist and Album Art",
+    "featured": [
+      "Mat Maitland",
+      "Myan Soffia",
+      "Neil Krug"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Bij mij in de buurt",
+    "featured": [
+      "Baas B",
+      "DJ MBA",
+      "Rooie Fred",
+      "Tim Beumers"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=nLa6O4YBrU8"
+  },
+  {
+    "artist": "Soesi B",
+    "title": "Waar is Oost?",
+    "featured": [
+      "DJ MBA"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Kont 101",
+    "featured": [
+      "Baas B",
+      "Brutus",
+      "DJ MBA",
+      "Joanne"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=F9ug0MDB-rQ"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Het Land Van",
+    "featured": [
+      "Baas B"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Skit",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=7zBACq6ovC4"
+  },
+  {
+    "artist": "Baas B",
+    "title": "Stotter",
+    "featured": [
+      "Brutus"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=2h7P5W1UwUk"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Gedoogbeleid",
+    "featured": [
+      "Baas B",
+      "Brutus",
+      "Shyrock"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=K8nBUdZzxS8"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Dit Moet Een Zondag Zijn",
+    "featured": [
+      "Baas B"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=zZsvotVv7BQ"
+  },
+  {
+    "artist": "Baas B",
+    "title": "Topper",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Apd5ZhEiuNY"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Jonge Moeders",
+    "featured": [
+      "Baas B",
+      "Brutus"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=f7LAb_DQCiw"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Dikke Shit",
+    "featured": [
+      "Baas B",
+      "Brutus",
+      "Ninthe"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=RV0vicRwiZk"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Bezet(en)",
+    "featured": [
+      "Baas B",
+      "Michael Bryan"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ksAY0y5P0iY"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Eenzaam",
+    "featured": [
+      "Baas B",
+      "Brutus",
+      "DJ MBA"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=hRlq-bV43IA"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Waar Het Schip Strandt",
+    "featured": [
+      "Baas B",
+      "Brutus"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=yRdADcDZv24"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Testament",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=l9Wu9UgpTMM"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Doofpot",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=zWHDzDt617E"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Mee Naar Diemen-Zuid",
+    "featured": [
+      "Baas B"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Gdp-HhV66Fo"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Ja, Ja, Ja!",
+    "featured": [
+      "Baas B",
+      "Brace",
+      "Brutus"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=UeXsJOHJzJ0"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Ik Wacht Al Zo Lang",
+    "featured": [
+      "Baas B",
+      "Brutus",
+      "Tim"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=LlNXAoH-KEA"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Represent (Album versie)",
+    "featured": [
+      "Baas B",
+      "DJ Chief",
+      "Xzibit"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Y7jkHzoqe0o"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Juffrouw Cockie",
+    "featured": [
+      "Baas B",
+      "DJ Doek"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=043tTTJv96Y"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Moppie (Remix)",
+    "featured": [
+      "Baas B",
+      "Brace"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Fq928LT6cuU"
+  },
+  {
+    "artist": "Baas B",
+    "title": "Rappers Willen Komen",
+    "featured": [
+      "De Boys",
+      "Elo"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=j79AU1yfCIg"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Laatste Dag",
+    "featured": [
+      "Baas B",
+      "DJ Chief"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Kw2Y6qoMna0"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Strippenkaart",
+    "featured": [
+      "DJ Chief",
+      "DJ MBA"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=U9jX69IGuPA"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Voorbij",
+    "featured": [
+      "Baas B",
+      "Bomdigi"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Jt3n4Rpsw0g"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Moppie",
+    "featured": [
+      "Baas B",
+      "Brace"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ZZrLTefZVAQ"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Zinloos (Lange Versie)",
+    "featured": [
+      "Baas B",
+      "Ninthe"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=WOERov10GH0"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Supervisie (Video versie)",
+    "featured": [
+      "Baas B",
+      "DJ Chief",
+      "MC Sranang"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Uxf1oflTFOk"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Supervisie (Album versie)",
+    "featured": [
+      "Baas B",
+      "DJ Chief",
+      "MC Sranang"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ev4ccgEhW54"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Zinloos (Theo van Gogh Versie)",
+    "featured": [
+      "Baas B",
+      "Ninthe"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=NPWao4VkxMU"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Ver Van Je Bed-Show",
+    "featured": [
+      "Baas B",
+      "Ninthe"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=3y7fu_0escw"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Spreek",
+    "featured": [
+      "DJ Chief"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=685mlio2uWg"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Zinloos (Korte versie)",
+    "featured": [
+      "Baas B",
+      "Ninthe"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=lZZCC_Tm390"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Represent (Video versie)",
+    "featured": [
+      "Baas B",
+      "DJ Chief",
+      "Xzibit"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Y7jkHzoqe0o"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Zondag Vrij",
+    "featured": [
+      "Baas B",
+      "Jayh"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Lwk1adZ16mc"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Neem Me Niet Kwalijk",
+    "featured": [
+      "Baas B"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=jPRphZaDu40"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Amsterdam Huilt",
+    "featured": [
+      "Brutus",
+      "Marcus",
+      "Zwarte Sjaak"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=pfDX9PfPo6E"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Dankbaar",
+    "featured": [
+      "Baas B",
+      "Suzanna Lubrano"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=V_3B6HG59f0"
+  },
+  {
+    "artist": "Baas B",
+    "title": "Waar Ik Sta",
+    "featured": [
+      "Jayh"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Xv5zSNdfpPs"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Intro",
+    "featured": [
+      "Baas B"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=RSZEPbnnzSo"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Kamervragen",
+    "featured": [
+      "Baas B"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=RVSOxYBdI3k"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "22 Baco",
+    "featured": [
+      "Baas B"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=rhZWjvg289c"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "9 Van De 10",
+    "featured": [
+      "Baas B"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=jnTeE7uDH4M"
+  },
+  {
+    "artist": "Baas B",
+    "title": "SpeEeZz",
+    "featured": [
+      "Jayh"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=WcDsk8gvnF8"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Liefde",
+    "featured": [
+      "Baas B",
+      "Michael Bryan"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Qj25S0OfvrA"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Levenslessen",
+    "featured": [
+      "Baas B",
+      "Tim Beumers"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=5LpSRzobmaQ"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Geef Me Nog Een Kans",
+    "featured": [
+      "Baas B",
+      "Brace"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=RNU_KH_ZQeM"
+  },
+  {
+    "artist": "Lange Frans",
+    "title": "Venus en Mars",
+    "featured": [
+      "Baas B"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ocb8p5d48SY"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Drogi Panie",
+    "featured": null,
+    "producer": [
+      "Sławek Janowski"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Exb1GIA-AMQ"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Czarne kowboje",
+    "featured": null,
+    "producer": [
+      "Sławek Janowski"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=jyoyP8InuLA"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Bóg zapłać",
+    "featured": null,
+    "producer": [
+      "Sławek Janowski"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=VozPq8jzSug"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Do syna Józefa Cieślaka",
+    "featured": null,
+    "producer": [
+      "Sławek Janowski"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=SqxY0VV3r9I"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "mpaKOmpaBIEmpaTA",
+    "featured": null,
+    "producer": [
+      "Sławek Janowski"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=_uHzpGMHuds"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Hiszpan",
+    "featured": null,
+    "producer": [
+      "Sławek Janowski"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=OdJRkAe9jgo"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Zbawiciel Diesel",
+    "featured": null,
+    "producer": [
+      "Sławek Janowski"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=mI6kTb2VXRA"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Hydropiekłowstąpienie",
+    "featured": null,
+    "producer": [
+      "Sławek Janowski"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=cQJlS6QpcxI"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Paciorek",
+    "featured": null,
+    "producer": [
+      "Sławek Janowski"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=EJVobg1LTwM"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Chłopacy",
+    "featured": null,
+    "producer": [
+      "Sławek Janowski"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=OVPc-2-a58k"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Ty człowiek jesteś?",
+    "featured": null,
+    "producer": [
+      "Sławek Janowski"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Xtx9J3ARWM0"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Siedmiu nie zawsze wspaniałych",
+    "featured": null,
+    "producer": [
+      "Sławek Janowski"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ylheU1plhh8"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Astrolog",
+    "featured": null,
+    "producer": [
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=nlSSPb8HSBI"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Kniaź",
+    "featured": null,
+    "producer": [
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=o1DCIMdUtsY"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Klucznik (Rozdziobią nas kruki i wrony)",
+    "featured": null,
+    "producer": [
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=iJGqQtDoEA8"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Wiedźma",
+    "featured": null,
+    "producer": [
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=wuOteWqt2q8"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Junak",
+    "featured": null,
+    "producer": [
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=jPQ_39Z3PeU"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Lelum Polelum",
+    "featured": null,
+    "producer": [
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=GC4ox-0rCVI"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Mars - Anioł Choroby",
+    "featured": null,
+    "producer": [
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=BnST32BrDo0"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Nałożnica",
+    "featured": null,
+    "producer": [
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=mKsePnaO7cc"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Did Lirnik",
+    "featured": null,
+    "producer": [
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=1SgHXm1iL7A"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Topielce",
+    "featured": null,
+    "producer": [
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=6LbOKP4AQls"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Komtur",
+    "featured": null,
+    "producer": [
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=BQVwCdqmH7o"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Jestem Słowianinem",
+    "featured": null,
+    "producer": [
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=-L5iefl2QtA"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Wisielec",
+    "featured": null,
+    "producer": [
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=mtcBjt2KafY"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Kat",
+    "featured": null,
+    "producer": [
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=8INwwJ6sVxg"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "1939 / Przed Burzą",
+    "featured": null,
+    "producer": [
+      "Filip Różański",
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=1dl5hdtVH4c"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Godzina W",
+    "featured": null,
+    "producer": [
+      "Filip Różański",
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=q_d7DtcmhVE"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Barykada",
+    "featured": null,
+    "producer": [
+      "Filip Różański",
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=f1LGJIqROIA"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Zrzuty",
+    "featured": null,
+    "producer": [
+      "Filip Różański",
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=nGLMnmcSWdo"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Stare Miasto",
+    "featured": null,
+    "producer": [
+      "Filip Różański",
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=NmkirLlcYDA"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Przebicie do Śródmieścia",
+    "featured": null,
+    "producer": [
+      "Filip Różański",
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=E9PnPjp6iSc"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Czerniaków",
+    "featured": null,
+    "producer": [
+      "Filip Różański",
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=4cA2r4iqdQk"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Hitlerowcy",
+    "featured": null,
+    "producer": [
+      "Filip Różański",
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=DIzUSKKyxm8"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Kanały",
+    "featured": null,
+    "producer": [
+      "Filip Różański",
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=E317p9MbAtw"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Koniec",
+    "featured": null,
+    "producer": [
+      "Filip Różański",
+      "Lao Che"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=LKkS2PFdsGA"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "District Line, Wimbledon Branch, Westbound, at Putney Bridge",
+    "featured": null,
+    "producer": [
+      "Eddie Stevens"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=cbC0ePJWd0w"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "4 piosenki",
+    "featured": null,
+    "producer": [
+      "Eddie Stevens"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=UAjnoaHGBNk"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "KołysanEgo",
+    "featured": null,
+    "producer": [
+      "Eddie Stevens"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Jestem psem",
+    "featured": [
+      "DJ Eprom"
+    ],
+    "producer": [
+      "Eddie Stevens"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=4egKa-Kp_Xc"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Na końcu języka",
+    "featured": null,
+    "producer": [
+      "Eddie Stevens"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=_fxw-Ey7WeY"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Dym",
+    "featured": null,
+    "producer": [
+      "Eddie Stevens"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=sy_BaUwOGjI"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Już jutro",
+    "featured": null,
+    "producer": [
+      "Eddie Stevens"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=-r6sr8emnAM"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Zombi!",
+    "featured": null,
+    "producer": [
+      "Eddie Stevens"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=pXkrR4_Q-6Q"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Govindam",
+    "featured": null,
+    "producer": [
+      "Eddie Stevens"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=MKqxplKPSRY"
+  },
+  {
+    "artist": "Lao Che",
+    "title": "Idzie Wiatr",
+    "featured": null,
+    "producer": [
+      "Eddie Stevens"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=eodTj2d6gCM"
+  }
+]
