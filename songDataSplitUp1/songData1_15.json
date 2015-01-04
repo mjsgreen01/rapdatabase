@@ -1,0 +1,49 @@
+[
+  [
+    {
+      "artist": "Sempel Ovechkin",
+      "title": "Face The World (Remix)",
+      "featured": [
+        "Killa"
+      ],
+      "producer": [
+        "9th Wonder"
+      ],
+      "audioLink": "http://soundcloud.com/ultra-chronicmonstah/face-the-world-sempel-x-killa"
+    },
+    {
+      "artist": "Sempel Ovechkin",
+      "title": "Versace",
+      "featured": [
+        "RJ The Trip"
+      ],
+      "producer": [
+        "Zaytoven"
+      ],
+      "audioLink": "https://soundcloud.com/ultra-chronicmonstah/versace-sempel-x-rj-the-trip"
+    },
+    {
+      "artist": "Ultra-Chronic Monstah",
+      "title": "Change You",
+      "featured": [
+        "Sempel"
+      ],
+      "producer": [
+        "Spence Mills"
+      ],
+      "audioLink": "https://soundcloud.com/ultra-chronicmonstah/change-you-ucm-x-smp"
+    },
+    {
+      "artist": "10YGL",
+      "title": "Mercy",
+      "featured": [
+        "Ultra-Chronic Monstah"
+      ],
+      "producer": [
+        "RL Grime",
+        "Salva"
+      ],
+      "audioLink": "https://soundcloud.com/ultra-chronicmonstah/mercy-remix-ft-rl-grimes-salva"
+    }
+  ]
+]

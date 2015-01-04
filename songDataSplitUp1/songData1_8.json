@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "artist": "#100Trill(Grade Aplus & Mike Jaxx)",
+      "title": "Forever feat. ShowYouSuck",
+      "featured": [
+        "Grade Aplus",
+        "Mike Jaxx",
+        "ShowYouSuck"
+      ],
+      "producer": [
+        "Mike Jaxx"
+      ],
+      "audioLink": "https://soundcloud.com/100trill/forever-100trill-ft"
+    },
+    {
+      "artist": "#100Trill(Grade Aplus & Mike Jaxx)",
+      "title": "Sharkeisha",
+      "featured": [
+        "Grade Aplus",
+        "Mike Jaxx",
+        "Weasel Sims"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=LCHuQY6NsQM"
+    }
+  ]
+]

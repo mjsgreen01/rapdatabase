@@ -1,0 +1,29 @@
+[
+  [
+    {
+      "artist": "Aaron London",
+      "title": "T.O.P",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=tqGOx-trYXc"
+    },
+    {
+      "artist": "Aaron London",
+      "title": "Someone Like You",
+      "featured": [
+        "Michelle Andrade"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=bpJNn6wk5D0"
+    },
+    {
+      "artist": "Aaron London",
+      "title": "Rainbow",
+      "featured": [
+        "Chris Brown"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=yWdphO_YBOc"
+    }
+  ]
+]

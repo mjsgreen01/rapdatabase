@@ -1,0 +1,21 @@
+[
+  [
+    {
+      "artist": "Adrian Cool",
+      "title": "Michael Phelps (Diving High)",
+      "featured": [
+        "Bravo",
+        "Mac Eleven"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=kA1Pl6PRsdw"
+    },
+    {
+      "artist": "Adrian Cool",
+      "title": "Keep It Cool",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=Mi--ZCzeGC8"
+    }
+  ]
+]

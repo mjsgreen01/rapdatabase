@@ -1,0 +1,104 @@
+[
+  [
+    {
+      "artist": "AD",
+      "title": "Welcome Intro",
+      "featured": null,
+      "producer": [
+        "Larry Jayy"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=8flAml89eZc"
+    },
+    {
+      "artist": "AD",
+      "title": "Without It",
+      "featured": [
+        "Bad Lucc",
+        "Problem"
+      ],
+      "producer": [
+        "Larry Jayy"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=3cKIqKs9rXI"
+    },
+    {
+      "artist": "AD",
+      "title": "Around This Way",
+      "featured": [
+        "Dave East",
+        "Icewear Vezzo"
+      ],
+      "producer": [
+        "Larry Jayy"
+      ],
+      "audioLink": "https://soundcloud.com/djvip510/ad-around-this-way-feat-dave-east-icewear-vezzo"
+    },
+    {
+      "artist": "AD",
+      "title": "Nosey",
+      "featured": [
+        "Bizzy Crook",
+        "Rayven Justice"
+      ],
+      "producer": [
+        "Larry Jayy"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=PyyB04OGruQ"
+    },
+    {
+      "artist": "AD",
+      "title": "Wide Open",
+      "featured": [
+        "Paul Wall"
+      ],
+      "producer": [
+        "Showtyme"
+      ],
+      "audioLink": "https://soundcloud.com/sirshowtyme/ad-wide-open-feat-paul-wall-prod-showtyme"
+    }
+  ],
+  [
+    {
+      "artist": "AD",
+      "title": "Reminisce",
+      "featured": null,
+      "producer": [
+        "PJ"
+      ],
+      "audioLink": "http://soundcloud.com/a-d-music"
+    }
+  ],
+  [
+    {
+      "artist": "AD",
+      "title": "Trying",
+      "featured": null,
+      "producer": [
+        "DJ Skooly"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "AD",
+      "title": "The Truth Is Lies",
+      "featured": [
+        "Jack Cracker"
+      ],
+      "producer": [
+        "Myron Mayhem"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "AD",
+      "title": "People Wait Their Whole Lives",
+      "featured": [
+        "Jack Cracker"
+      ],
+      "producer": [
+        "AD"
+      ],
+      "audioLink": null
+    }
+  ]
+]

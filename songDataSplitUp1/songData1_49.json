@@ -1,0 +1,34 @@
+[
+  [
+    {
+      "artist": "1st Infantry",
+      "title": "The Midnight Creep",
+      "featured": [
+        "Havoc",
+        "Twin Gambino"
+      ],
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "1st Infantry",
+      "title": "Backwards",
+      "featured": [
+        "Mobb Deep"
+      ],
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "1st Infantry",
+      "title": "Serious (The New Message)",
+      "featured": [
+        "Prodigy"
+      ],
+      "producer": [
+        "The Alchemist"
+      ],
+      "audioLink": null
+    }
+  ]
+]

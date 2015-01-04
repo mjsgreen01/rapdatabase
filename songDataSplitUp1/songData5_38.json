@@ -1,0 +1,124 @@
+[
+  [
+    {
+      "artist": "90BRO",
+      "title": "End of The Road",
+      "featured": [
+        "Bruce Beats"
+      ],
+      "producer": [
+        "Bruce Beats"
+      ],
+      "audioLink": "https://soundcloud.com/bruce_beats/bruce-beats-90bro-end-of-the-road"
+    }
+  ],
+  [
+    {
+      "artist": "90BRO",
+      "title": "Upper Sleeve",
+      "featured": null,
+      "producer": [
+        "R. Yousuf"
+      ],
+      "audioLink": "https://soundcloud.com/90bro/filmnoir"
+    }
+  ],
+  [
+    {
+      "artist": "90BRO",
+      "title": "Way of the Gentleman",
+      "featured": null,
+      "producer": [
+        "Bruce Beats"
+      ],
+      "audioLink": "https://soundcloud.com/bruce_beats/way-of-the-gentleman-feat"
+    }
+  ],
+  [
+    {
+      "artist": "90BRO",
+      "title": "State of Mind",
+      "featured": null,
+      "producer": null,
+      "audioLink": "https://soundcloud.com/90bro/mindstate"
+    }
+  ],
+  [
+    {
+      "artist": "Tuckage",
+      "title": "From Time",
+      "featured": [
+        "90BRO",
+        "MC Halo"
+      ],
+      "producer": [
+        "Noah \"40\" Shebib"
+      ],
+      "audioLink": "https://soundcloud.com/90bro/in-gallico-conexus"
+    },
+    {
+      "artist": "90BRO",
+      "title": "Zeitgeist Revisited",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "90BRO",
+      "title": "Midnight in Paris",
+      "featured": null,
+      "producer": null,
+      "audioLink": "https://soundcloud.com/90bro/midnight-in-paris"
+    }
+  ],
+  [
+    {
+      "artist": "90BRO",
+      "title": "Death By No.",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=_Fz0_rZV_Q8"
+    }
+  ],
+  [
+    {
+      "artist": "90BRO",
+      "title": "Shook Ones",
+      "featured": [
+        "Bouba"
+      ],
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=Em0YFnLjs2U"
+    },
+    {
+      "artist": "90BRO",
+      "title": "Mandy Tory",
+      "featured": null,
+      "producer": null,
+      "audioLink": "https://soundcloud.com/90bro/mandytory"
+    },
+    {
+      "artist": "90BRO",
+      "title": "Apathy comes at a price",
+      "featured": null,
+      "producer": null,
+      "audioLink": "https://soundcloud.com/90bro/apathy-comes-at-a-price"
+    }
+  ],
+  [
+    {
+      "artist": "90BRO",
+      "title": "RAPTURE",
+      "featured": null,
+      "producer": null,
+      "audioLink": "https://soundcloud.com/90bro/rapture"
+    },
+    {
+      "artist": "90BRO",
+      "title": "No Escape",
+      "featured": null,
+      "producer": null,
+      "audioLink": "https://soundcloud.com/90bro/noescape"
+    }
+  ]
+]

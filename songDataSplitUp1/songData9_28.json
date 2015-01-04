@@ -1,0 +1,48 @@
+[
+  [
+    {
+      "artist": "Adventurer",
+      "title": "Two Wrongs Don't Make a Wife",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "Adventurer",
+      "title": "Pursuit of Happiness",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "Adventurer",
+      "title": "Living With a Ghost",
+      "featured": [
+        "Aaron Jerome"
+      ],
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "Adventurer",
+      "title": "Tetra Hydro Cannonball",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "Adventurer",
+      "title": "Mariana's Trenchcoat",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "Adventurer",
+      "title": "House",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    }
+  ]
+]

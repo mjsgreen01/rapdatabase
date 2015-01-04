@@ -1,0 +1,979 @@
+[
+  {
+    "artist": "Benefit",
+    "title": "Exact",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benefit",
+    "title": "Proceed With Caution",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=X6LBgZmrk7E"
+  },
+  {
+    "artist": "Benefit",
+    "title": "Supreme",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benefit",
+    "title": "Fairwell",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=lVhwLZAGo3c"
+  },
+  {
+    "artist": "Benefit",
+    "title": "If I Owned a Midget",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=l4PHiQleakc"
+  },
+  {
+    "artist": "Benefit",
+    "title": "Blind Following",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benefit",
+    "title": "Call of Revolt",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benefit",
+    "title": "Warp to World 6-9",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=P9d2S-WSYAI"
+  },
+  {
+    "artist": "Benefit",
+    "title": "My Story",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benefit",
+    "title": "Friends",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benefit",
+    "title": "My Enemy",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benefit",
+    "title": "Something Wicked This Way Comes",
+    "featured": [
+      "Blitz",
+      "Lawson",
+      "Rek"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=1OorF7A_BYs"
+  },
+  {
+    "artist": "Benefit",
+    "title": "Garbage Pail Kids",
+    "featured": null,
+    "producer": [
+      "Benefit"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Benefit",
+    "title": "The United Stage of America",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benefit",
+    "title": "Garbage Pail Kids",
+    "featured": null,
+    "producer": [
+      "Benefit"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Benefit",
+    "title": "Something Wicked This Way Comes",
+    "featured": [
+      "Blitz",
+      "Lawson",
+      "Rek"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=1OorF7A_BYs"
+  },
+  {
+    "artist": "Benefit",
+    "title": "Musical Freedom",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benny Banks",
+    "title": "Link Up TV: Behind Barz: Benny Banks Freestyle [TAKE2] (LYRICS)",
+    "featured": [
+      "Benny Banks"
+    ],
+    "producer": null,
+    "audioLink": "https://soundcloud.com/linkuptv/behind-barz-benny-v3"
+  },
+  {
+    "artist": "Benny Banks",
+    "title": "48 Freestyle #1",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/bennybanks/benny-banks-48-freestyle-1"
+  },
+  {
+    "artist": "Benny Banks",
+    "title": "Let Me Be",
+    "featured": [
+      "Elli Ingram"
+    ],
+    "producer": [
+      "Felix Joseph"
+    ],
+    "audioLink": "https://soundcloud.com/bennybanks/benny-banks-let-me-be-ft-elli?in=bennybanks/sets/patiently-waiting-vol-2"
+  },
+  {
+    "artist": "Benny Banks",
+    "title": "One For The Women",
+    "featured": null,
+    "producer": [
+      "Dan Dare"
+    ],
+    "audioLink": "https://soundcloud.com/bennybanks/benny-banks-one-for-the-women?in=bennybanks/sets/patiently-waiting-vol-2"
+  },
+  {
+    "artist": "Benny Banks",
+    "title": "Rockstar",
+    "featured": [
+      "Femii Thai"
+    ],
+    "producer": [
+      "Felix Joseph"
+    ],
+    "audioLink": "https://soundcloud.com/bennybanks/benny-banks-rockstar-ft-femii?in=bennybanks/sets/patiently-waiting-vol-2"
+  },
+  {
+    "artist": "Benny Banks",
+    "title": "Ride Or Die",
+    "featured": null,
+    "producer": [
+      "Westy"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=9nF3ad_afvw"
+  },
+  {
+    "artist": "Benzino",
+    "title": "Trying to Make it Through",
+    "featured": [
+      "2Pac",
+      "Freddie Foxxx/Bumpy Knuckles"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Wide Body",
+    "featured": [
+      "Faheim"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Look Into My Eyes",
+    "featured": [
+      "Troy Bell"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Who is Benzino?",
+    "featured": [
+      "Diddy"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "No Parts of Us",
+    "featured": [
+      "Bobby Brown",
+      "Prodigy"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Throw Them 3's (Boston Niggaz)",
+    "featured": [
+      "K.T.",
+      "Luv",
+      "O.T.",
+      "Prince",
+      "Smoke",
+      "Weirdo"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "The Jump Up",
+    "featured": [
+      "Cormega",
+      "Raekwon",
+      "Superb"
+    ],
+    "producer": [
+      "Hangmen 3"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "G-A-N-G-S-T-E-R",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Figadoh",
+    "featured": [
+      "Scarface",
+      "Snoop Dogg"
+    ],
+    "producer": [
+      "Teddy Riley"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Feel Your Pain",
+    "featured": [
+      "Outlawz"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Ghetto Child",
+    "featured": [
+      "Bobby Brown",
+      "Mr. Gzus"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Picture This",
+    "featured": [
+      "Foxy Brown"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Any Questions",
+    "featured": [
+      "Black Rob"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Nobody Liver",
+    "featured": [
+      "Pink"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Boottee",
+    "featured": [
+      "Mr. Gzus",
+      "Teddy Riley"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Bang Ta Dis",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Shine Like My Son",
+    "featured": [
+      "Case",
+      "Ray Ray"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "We Reppin Y'all",
+    "featured": [
+      "Made Men"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Boottee (Remix)",
+    "featured": [
+      "Fabolous",
+      "G-Dep"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Bang Ta Dis (Remix)",
+    "featured": [
+      "Bars",
+      "Hooks",
+      "Prodigy"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Niggas Don't Want It",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Go Hard",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Figadoh (Remix)",
+    "featured": [
+      "Busta Rhymes",
+      "M.O.P."
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Pull Your Skirt Up",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=6gQbCjTIIOw"
+  },
+  {
+    "artist": "Benzino",
+    "title": "Would You",
+    "featured": [
+      "Lisa Raye",
+      "Mario Winans"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Hidden Track (Untitled)",
+    "featured": [
+      "L.O."
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Call My Name",
+    "featured": [
+      "Jadakiss"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Redemption (Rosary)",
+    "featured": [
+      "Hussein Fatal"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino",
+    "title": "Rock the Party (Remix)",
+    "featured": [
+      "Lil Kim",
+      "Petey Pablo"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Benzino (Shev Shelio$$)",
+    "title": "Lentement",
+    "featured": null,
+    "producer": [
+      "Evidence"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=JKke9dI6G_k"
+  },
+  {
+    "artist": "Berner",
+    "title": "All in A Day",
+    "featured": [
+      "Vital",
+      "YG",
+      "Young Thug"
+    ],
+    "producer": [
+      "Cozmo",
+      "Maxwell Smart"
+    ],
+    "audioLink": "https://soundcloud.com/berner415/berner-ft-young-thug-x-yg-x-vital-all-in-a-day"
+  },
+  {
+    "artist": "Berner",
+    "title": "Another Day",
+    "featured": [
+      "The Jacka"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=7YgyYE1f3Lo"
+  },
+  {
+    "artist": "Berner",
+    "title": "Come On",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=BdX2EJ_QMYs"
+  },
+  {
+    "artist": "Berner",
+    "title": "Wax Room",
+    "featured": [
+      "Nipsey Hu$$le"
+    ],
+    "producer": null,
+    "audioLink": "https://soundcloud.com/thizzler/berner-wax-room-feat-nipsey"
+  },
+  {
+    "artist": "Berner",
+    "title": "Racin",
+    "featured": null,
+    "producer": [
+      "Cy Fyre"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ThGv4e4ulCc"
+  },
+  {
+    "artist": "Berner",
+    "title": "Night & Day",
+    "featured": [
+      "Problem",
+      "Wiz Khalifa"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Berner",
+    "title": "Me and You",
+    "featured": [
+      "Suga Free"
+    ],
+    "producer": [
+      "Stinje"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Berner & B-Real",
+    "title": "Faded",
+    "featured": [
+      "Snoop Dogg",
+      "Vital"
+    ],
+    "producer": [
+      "Berner",
+      "Maxwell Smart"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=lgE4J9OahAc"
+  },
+  {
+    "artist": "Berner & B-Real",
+    "title": "Smokers",
+    "featured": null,
+    "producer": [
+      "Harry Fraud"
+    ],
+    "audioLink": "https://soundcloud.com/thizzler/berner-x-b-real-smokers-prod-harry-fraud-thizzlercom"
+  },
+  {
+    "artist": "Berner",
+    "title": "Clear",
+    "featured": null,
+    "producer": [
+      "Cozmo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=EK7JE4bbW24"
+  },
+  {
+    "artist": "Berner",
+    "title": "Get On",
+    "featured": null,
+    "producer": [
+      "Cozmo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=X5FVSHPHj5s"
+  },
+  {
+    "artist": "Berner",
+    "title": "Point of View",
+    "featured": [
+      "Curren$y"
+    ],
+    "producer": [
+      "ROME"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=etyBbaCN2u4"
+  },
+  {
+    "artist": "Berner",
+    "title": "Certified Freak",
+    "featured": [
+      "Chevy Woods",
+      "Juicy J"
+    ],
+    "producer": [
+      "P-Lo"
+    ],
+    "audioLink": "https://soundcloud.com/empiredistribution/berner-certified-freak"
+  },
+  {
+    "artist": "Berner",
+    "title": "Sleep walking",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Berner",
+    "title": "Packs",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=PJIyEtodXss"
+  },
+  {
+    "artist": "Berner",
+    "title": "Bossman",
+    "featured": [
+      "IamSu!",
+      "P-Lo"
+    ],
+    "producer": [
+      "P-Lo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=7VoDhXIWBAM"
+  },
+  {
+    "artist": "Berner",
+    "title": "Shut Up",
+    "featured": [
+      "Chris Brown",
+      "Problem"
+    ],
+    "producer": [
+      "Dnyc3"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ScUZkX4gzfY"
+  },
+  {
+    "artist": "Berner",
+    "title": "Hard Headed",
+    "featured": null,
+    "producer": [
+      "Maki"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=gNbnaVUfE90"
+  },
+  {
+    "artist": "Big KRIT",
+    "title": "Yoko (Remix)",
+    "featured": [
+      "Berner",
+      "Chris Brown",
+      "Wiz Khalifa"
+    ],
+    "producer": [
+      "Big KRIT"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=h_3whouFTtk"
+  },
+  {
+    "artist": "Berry",
+    "title": "Let it go",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Berry",
+    "title": "I ain't playing around",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Berry",
+    "title": "Game on",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Berry",
+    "title": "Fuck ya all",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Berry",
+    "title": "Beat everything",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Berry",
+    "title": "Im going to be the best",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Berry",
+    "title": "They are down",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Berry",
+    "title": "Life is like a game",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Berry",
+    "title": "Hate me or love",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Berry",
+    "title": "Get Lost",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Berry",
+    "title": "Fight my way to the top",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Berry",
+    "title": "Keep it real",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Berry",
+    "title": "Lighters remix - Bad meets Evil",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Berry",
+    "title": "Lose yourself- short remix",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Boyfriend",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Crazy for You",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "The End",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Goodbye",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Summer Mood",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Our Deal",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=V37Wi2-nBNA"
+  },
+  {
+    "artist": "Best Coast",
+    "title": "I Want To",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "When the Sun Don't Shine",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Bratty B",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Honey",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Happy",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Each and Every Day",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "When I'm With You",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "This Lonely Morning",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=MNM8YUGDtGA"
+  },
+  {
+    "artist": "Best Coast",
+    "title": "I Wanna Know",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=3wdf-nvPCSE"
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Who Have I Become?",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ClS402whwPA"
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Fear of My Identity",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=UFg1adJDn7A"
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Fade Away",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Baby I'm Crying",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "I Don't Know How",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=3-c8WOprJjE"
+  },
+  {
+    "artist": "Best Coast",
+    "title": "The Only Place",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Why I Cry",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Last Year",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=LeI_7BcERDw"
+  },
+  {
+    "artist": "Best Coast",
+    "title": "My Life",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "No One Like You",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "How They Want Me To Be",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=U26ONLYk04E"
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Better Girl",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Do You Love Me Like You Used To",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Dreaming My Life Away",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Let's Go Home",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Best Coast",
+    "title": "Up All Night",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  }
+]

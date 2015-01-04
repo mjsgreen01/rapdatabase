@@ -1,0 +1,35 @@
+[
+  [
+    {
+      "artist": "8earcub",
+      "title": "My Mama Said...",
+      "featured": null,
+      "producer": [
+        "8earcub"
+      ],
+      "audioLink": "https://soundcloud.com/gerardocortez/my-mama-said"
+    },
+    {
+      "artist": "8earcub",
+      "title": "I Gotta Say (Intro)",
+      "featured": null,
+      "producer": [
+        "8earcub"
+      ],
+      "audioLink": null
+    }
+  ],
+  [
+    {
+      "artist": "8earcub",
+      "title": "Rap Game Speedy Gonzales",
+      "featured": [
+        "Grizz"
+      ],
+      "producer": [
+        "8earcub"
+      ],
+      "audioLink": "https://soundcloud.com/gerardocortez/fuckcopsmogaup-rap-game-speedy"
+    }
+  ]
+]

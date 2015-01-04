@@ -1,0 +1,3204 @@
+[
+  {
+    "artist": "KC",
+    "title": "Barbershop",
+    "featured": null,
+    "producer": [
+      "KC"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "KC",
+    "title": "The Baddest!",
+    "featured": [
+      "J Moe Frm da Bam"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=xqR3hW0IDpc"
+  },
+  {
+    "artist": "KC",
+    "title": "Flexin'",
+    "featured": null,
+    "producer": [
+      "The Bee"
+    ],
+    "audioLink": "https://soundcloud.com/itzjustkc"
+  },
+  {
+    "artist": "K Camp",
+    "title": "Cut Her Off (Feat. 2 Chainz & Jeo Jetson)",
+    "featured": [
+      "2 Chainz"
+    ],
+    "producer": [
+      "Will-A-Fool"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=IMK74t8Q6hU"
+  },
+  {
+    "artist": "K Camp",
+    "title": "All The Way Down",
+    "featured": null,
+    "producer": [
+      "Big Fruit"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=44a9l7NngL8"
+  },
+  {
+    "artist": "K Camp",
+    "title": "Damn Right",
+    "featured": null,
+    "producer": [
+      "Big Fruit"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Mwp4CZYO9DU"
+  },
+  {
+    "artist": "K Camp",
+    "title": "Turn Up For A Check",
+    "featured": null,
+    "producer": [
+      "DJ Drama"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=XuKKXKDpL6I"
+  },
+  {
+    "artist": "K Camp",
+    "title": "Turn Up the Night (Remix)",
+    "featured": [
+      "B.o.B"
+    ],
+    "producer": [
+      "Big Fruit",
+      "Bobby Kritical"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "K Camp",
+    "title": "Money Baby",
+    "featured": [
+      "Kwony Cash"
+    ],
+    "producer": [
+      "Big Fruit"
+    ],
+    "audioLink": "https://soundcloud.com/k-camp/k-camp-money-baby-feat-kwony"
+  },
+  {
+    "artist": "K Camp",
+    "title": "Money Baby (Clean Spotify Version)",
+    "featured": [
+      "Kwony Cash"
+    ],
+    "producer": [
+      "Big Fruit"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "K Camp",
+    "title": "Cut Her Off",
+    "featured": [
+      "2 Chainz"
+    ],
+    "producer": [
+      "Will-A-Fool"
+    ],
+    "audioLink": "https://soundcloud.com/k-camp/k-camp-cut-her-off-feat-2"
+  },
+  {
+    "artist": "K Camp",
+    "title": "Blessing",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=U0Sl-Dl6lFs"
+  },
+  {
+    "artist": "K Camp",
+    "title": "Think About It",
+    "featured": [
+      "CyHi The Prynce"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=F8ryCagOAHk"
+  },
+  {
+    "artist": "K Camp",
+    "title": "Off The Floor",
+    "featured": null,
+    "producer": [
+      "Big Fruit"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "K Camp",
+    "title": "Turn Up The Night",
+    "featured": null,
+    "producer": [
+      "Big Fruit",
+      "Bobby Kritical"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "K Camp",
+    "title": "Don't Blame Me",
+    "featured": null,
+    "producer": [
+      "Will-A-Fool"
+    ],
+    "audioLink": "https://soundcloud.com/k-camp/k-camp-dont-blame-me"
+  },
+  {
+    "artist": "K Camp",
+    "title": "No Manners",
+    "featured": [
+      "PeeWee Longway"
+    ],
+    "producer": [
+      "Bobby Kritical"
+    ],
+    "audioLink": "https://soundcloud.com/k-camp/k-camp-ft-peewee-longway-no-manners-1"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Intro (Banger rebellieren)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Anhörung",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/coolmjog/kc-rebell-anh-rung-explicit"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Banger rebellieren",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Kanax in Paris",
+    "featured": [
+      "Farid Bang"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=popNLDI_fBE"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Raprebellizzzy",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=EyZt_Nmw-nM"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Skit Freestyle",
+    "featured": null,
+    "producer": [
+      "Juhdee"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Weisst du noch",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Größenwahn",
+    "featured": [
+      "RAF Camora"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Sky is the limit",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Entscheidung",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=LrP0RmUukEA"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Alle Blicke auf uns",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Falsche Schlangen",
+    "featured": [
+      "Schwesta Ewa"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Es tut mir Leid",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=qHg6P8X6b8I"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Kopfkino",
+    "featured": [
+      "PA Sports",
+      "Vega"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=iQGTWC6L9fU"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Erst Hassten Sie",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "600Benz Remix",
+    "featured": [
+      "Farid Bang",
+      "Summer Cem"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=EPP10dRJBKY"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Bang Bang",
+    "featured": [
+      "Kurdo"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Intro (Derdo Derdo)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Gemeinsam",
+    "featured": [
+      "Marsin",
+      "PA Sports"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Dein Mann",
+    "featured": [
+      "Moe Phoenix"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Ih5dvi37uGU"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Gebrochene Flügel",
+    "featured": [
+      "Chakuza",
+      "Moe Phoenix"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=urCz-xpnt6I"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Kurde vom Volk",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Waffenarsenal",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=lGhKxId4Bps"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Sieh es endlich ein",
+    "featured": [
+      "Moe Phoenix"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=bzwTHXIZsdw"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "600er Benz",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Kurdistan",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=A8Ga7TEo11I"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Sie kennen uns nicht",
+    "featured": [
+      "Marsin",
+      "PA Sports"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=JLvcjxUVTRo"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Swagga Alarm",
+    "featured": [
+      "Money Boy"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=95dBxJV-T5U"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "KC Exclusive",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Vor-Bye (Pottweiler Remix)",
+    "featured": [
+      "Kee-Rush",
+      "Manuellsen",
+      "PA Sports"
+    ],
+    "producer": [
+      "Joshimixu"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=E4nsJgHmyjg"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "1, 2, 3",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Ich bin krank",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Ein ganz normaler Tag",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=FYNW_JM8JMM"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Weiße Fee",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Geschichten aus'm Block",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=fic26QxFgHs"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Bitte Spitte 5000 Reloaded",
+    "featured": [
+      "Farid Bang"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=AiZWb6CkRWk"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Amina Koyim",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=TTN9MR97JyQ"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Fick die Welt 2",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Meine Geschichte",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Besser wenn du gehst",
+    "featured": [
+      "Moe Phoenix"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Bounce",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=FM_rtIPPAgA"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Rotblaues Licht",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=285PWPeTzac"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Rosen",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=rcoQjYW8vEw"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Alles wird sich ändern",
+    "featured": [
+      "PA Sports"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Adler",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=HSOTAoFynRg"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Outro (Rebellismus)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Rebellution Intro",
+    "featured": null,
+    "producer": [
+      "Sean Ferrari"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=I9St7omTaaY"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Auge",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=AANlHvQAjLs"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Kanax in Moskau",
+    "featured": [
+      "Farid Bang"
+    ],
+    "producer": [
+      "Joshimixu"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=6vy4tz384oI"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Bist du da",
+    "featured": [
+      "Manuellsen"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Egoist",
+    "featured": [
+      "Kollegah"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=nY82TAYwSQ0"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Herzblut",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=64kvriWf04A"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Zu Spät",
+    "featured": [
+      "Juhdee"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=djc9u9A3chc"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Freestyle Skit Reloaded",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Hayvan",
+    "featured": [
+      "Summer Cem"
+    ],
+    "producer": [
+      "Cubeatz"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=omUuR45iU0g"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Rap Rebellution",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Geh doch",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Piff",
+    "featured": [
+      "Kurdo"
+    ],
+    "producer": null,
+    "audioLink": "https://soundcloud.com/erkan-mustafa-2/kc-rebell-piff-feat-kurdo"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Money Boy",
+    "featured": [
+      "Majoe"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=3-iApx5wf44"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Head in A Bed",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/berdan-kahyalar-1/kc-rebell-head-in-a-bed"
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Du Bist Niemand",
+    "featured": [
+      "PA Sports"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Rebell Army",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "Bounce 2",
+    "featured": [
+      "Majoe"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "True fuckin players",
+    "featured": [
+      "Farid Bang",
+      "Summer Cem"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KC Rebell",
+    "title": "OMG",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KDD",
+    "title": "Big Bang KDD",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ISKwZUIOBXg"
+  },
+  {
+    "artist": "KDD",
+    "title": "Intro",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=oajNrpmZ98k"
+  },
+  {
+    "artist": "KDD",
+    "title": "Résurrection",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=a0knXQsfV7g"
+  },
+  {
+    "artist": "KDD",
+    "title": "Nouveau combat",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=UyuUwYhS1zc"
+  },
+  {
+    "artist": "KDD",
+    "title": "Galaxy de glace",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=9-TqRfhLEhc"
+  },
+  {
+    "artist": "KDD",
+    "title": "Une princesse est morte",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=WC9hFbXDIG8"
+  },
+  {
+    "artist": "KDD",
+    "title": "Zone Rouge",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=5fVzVh0GKMI"
+  },
+  {
+    "artist": "KDD",
+    "title": "L'organisation",
+    "featured": [
+      "Don Choa",
+      "Le Rat Luciano"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KDD",
+    "title": "La rhala",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=zCYsIT_vXAI"
+  },
+  {
+    "artist": "KDD",
+    "title": "Aspect suspect",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=_BvSuWmKgJ4"
+  },
+  {
+    "artist": "KDD",
+    "title": "Quatre bises",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=UgxSdMRZcpg"
+  },
+  {
+    "artist": "KDD",
+    "title": "Masque de fer",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ti-qpga7I34"
+  },
+  {
+    "artist": "KDD",
+    "title": "Une femme tue un soldat",
+    "featured": [
+      "Driver",
+      "Joana Varela"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=I_Aq8_CA9d0"
+  },
+  {
+    "artist": "KDD",
+    "title": "Double Détente Symphonie",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=cU2iJmWJMts"
+  },
+  {
+    "artist": "KDD",
+    "title": "Un homme faible",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=D6oXTL1xhAw"
+  },
+  {
+    "artist": "KDD",
+    "title": "Orange M",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Al9v-mGcnEo"
+  },
+  {
+    "artist": "KDD",
+    "title": "Ma cause",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=tna188eKwGM"
+  },
+  {
+    "artist": "KDD",
+    "title": "Une couleur de plus au drapeau",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=vFjOD7G7Fvs"
+  },
+  {
+    "artist": "KDD",
+    "title": "Qui tu es ¿",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=aaLLs-QsUlU"
+  },
+  {
+    "artist": "KDD",
+    "title": "Opération Charbon",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ux7ijDvNzS0"
+  },
+  {
+    "artist": "KDD",
+    "title": "Qui sera le prochain ¿",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=w8jEeeAiHCM"
+  },
+  {
+    "artist": "KDD",
+    "title": "Artifice",
+    "featured": [
+      "113"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=JPtTxvW9Dk8"
+  },
+  {
+    "artist": "KDD",
+    "title": "Le geste",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=hvOvTtdY5II"
+  },
+  {
+    "artist": "KDD",
+    "title": "Si tu aimes ça",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=IuTmrAAnjS8"
+  },
+  {
+    "artist": "KDD",
+    "title": "JT (interlude)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "KDD",
+    "title": "Ghetto cocaïne",
+    "featured": [
+      "Don Choa"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=nsqPex2RAvQ"
+  },
+  {
+    "artist": "KDD",
+    "title": "Pousse les limites",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=WaBgjiSIaK8"
+  },
+  {
+    "artist": "KDD",
+    "title": "Vie de crev's",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=sEWokTeHeNw"
+  },
+  {
+    "artist": "KDD",
+    "title": "Jungle Fever",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=5a8oxmA2KDs"
+  },
+  {
+    "artist": "KDD",
+    "title": "9 mois",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=D0KGQhKa8AA"
+  },
+  {
+    "artist": "KDD",
+    "title": "Sans parrain ni mac",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=zUhcpqdxRgE"
+  },
+  {
+    "artist": "K-DEUCE",
+    "title": "Live It Up",
+    "featured": null,
+    "producer": [
+      "Jred Beatz"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "K-DEUCE",
+    "title": "Whoopti Whop",
+    "featured": [
+      "The Heavy"
+    ],
+    "producer": [
+      "Moe Doe Productions"
+    ],
+    "audioLink": "https://soundcloud.com/deucemagicc/whoopti-whop-kdeuce-ft-heavy"
+  },
+  {
+    "artist": "K-DEUCE",
+    "title": "Whoopti Whop",
+    "featured": [
+      "The Heavy"
+    ],
+    "producer": [
+      "Moe Doe Productions"
+    ],
+    "audioLink": "https://soundcloud.com/deucemagicc/whoopti-whop-kdeuce-ft-heavy"
+  },
+  {
+    "artist": "KDOH The Dope Rapper",
+    "title": "LOW LiFE",
+    "featured": null,
+    "producer": [
+      "Evan Turner"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "KDOH The Dope Rapper",
+    "title": "LOW LiFE",
+    "featured": null,
+    "producer": [
+      "Evan Turner"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "KDOH The Dope Rapper",
+    "title": "LOW LiFE",
+    "featured": null,
+    "producer": [
+      "Evan Turner"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "KDOH The Dope Rapper",
+    "title": "LOW LiFE",
+    "featured": null,
+    "producer": [
+      "Evan Turner"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "KDOH The Dope Rapper",
+    "title": "LOW LiFE",
+    "featured": null,
+    "producer": [
+      "Evan Turner"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "KDOH The Dope Rapper",
+    "title": "LOW LiFE",
+    "featured": null,
+    "producer": [
+      "Evan Turner"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keane",
+    "title": "Bedshaped",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=JugGmkvhsKQ"
+  },
+  {
+    "artist": "Keane",
+    "title": "She Has No Time",
+    "featured": null,
+    "producer": [
+      "Andy Green",
+      "James Sange",
+      "Keane"
+    ],
+    "audioLink": "https://soundcloud.com/brunozaccaria/keane-she-has-no-time"
+  },
+  {
+    "artist": "Keane",
+    "title": "Stop For A Minute",
+    "featured": [
+      "K'naan"
+    ],
+    "producer": [
+      "Keane"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keane",
+    "title": "Better Than This",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=BvUhQwJFAJs"
+  },
+  {
+    "artist": "Keane",
+    "title": "Perfect Symmetry",
+    "featured": null,
+    "producer": [
+      "Jon Brion",
+      "Keane",
+      "Stuart Price"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keane",
+    "title": "Is It Any Wonder?",
+    "featured": null,
+    "producer": [
+      "Andy Green"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keanu Jones",
+    "title": "Lala",
+    "featured": [
+      "Zakee"
+    ],
+    "producer": null,
+    "audioLink": "https://soundcloud.com/zakeereynolds/lala-keanu-jones-featuring"
+  },
+  {
+    "artist": "Keanu Jones",
+    "title": "XXL",
+    "featured": [
+      "Regular Walt",
+      "Zakee"
+    ],
+    "producer": null,
+    "audioLink": "https://soundcloud.com/zakeereynolds/xxl-keanu-jones-regular-walt"
+  },
+  {
+    "artist": "Keanu Jones",
+    "title": "FEMA",
+    "featured": [
+      "Dru-Lei",
+      "Zakee"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Xv_qp5kaUQ8"
+  },
+  {
+    "artist": "Keenan Coke",
+    "title": "Cream of The Planet Remix",
+    "featured": null,
+    "producer": [
+      "Ski Beatz"
+    ],
+    "audioLink": "http://soundcloud.com/keenancoke/cream-of-the-planet-remix"
+  },
+  {
+    "artist": "Keenan Coke",
+    "title": "Searchin",
+    "featured": null,
+    "producer": [
+      "Custom"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=UX4KM5k24eU"
+  },
+  {
+    "artist": "Keenan Coke",
+    "title": "Make Love To The Night",
+    "featured": null,
+    "producer": [
+      "Doc Da Mindbenda"
+    ],
+    "audioLink": "http://soundcloud.com/keenancoke/make-love-to-the-night"
+  },
+  {
+    "artist": "Keen'V",
+    "title": "Petite Emilie",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=9JaVW9u-zrE"
+  },
+  {
+    "artist": "Keen'V",
+    "title": "Conte de fée",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Keen'V",
+    "title": "Conte de fée",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Masters",
+    "title": "Desoto",
+    "featured": [
+      "BASHtone"
+    ],
+    "producer": null,
+    "audioLink": "https://soundcloud.com/keithmasters/desoto-with-bashtone"
+  },
+  {
+    "artist": "Keith Masters",
+    "title": "King Kong",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/keithmasters/king-kong"
+  },
+  {
+    "artist": "Keith Masters",
+    "title": "Game Day: Part II",
+    "featured": null,
+    "producer": [
+      "Curtis Marolt"
+    ],
+    "audioLink": "https://soundcloud.com/keithmasters/gamedaypart2-mp3"
+  },
+  {
+    "artist": "Keith Masters",
+    "title": "New Ghost City",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Masters",
+    "title": "This Is How It Happened...",
+    "featured": [
+      "Privilege"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Masters",
+    "title": "Very First Time",
+    "featured": [
+      "Sarah Leichtenberg"
+    ],
+    "producer": [
+      "Curtis Marolt"
+    ],
+    "audioLink": "http://soundcloud.com/keithmasters/very-first-time"
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Call My Name",
+    "featured": [
+      "\"Dr. Trevis\""
+    ],
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Manifique (Original Rules)",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Whut's Happenin'",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "The Rhyme",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Dangerous Ground",
+    "featured": [
+      "50 Grand"
+    ],
+    "producer": [
+      "The Ummah"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=CrnTDzTd0L4"
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Rhymin' Wit Kel",
+    "featured": [
+      "Kel-Vicious"
+    ],
+    "producer": [
+      "Erick Sermon",
+      "Sugarless"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "What A Feelin'",
+    "featured": null,
+    "producer": [
+      "Erick Sermon",
+      "Sugarless"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Hot To Def",
+    "featured": null,
+    "producer": [
+      "Erick Sermon",
+      "Sugarless"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Yeah",
+    "featured": [
+      "Busta Rhymes",
+      "Erick Sermon",
+      "Jamal",
+      "Redman"
+    ],
+    "producer": [
+      "Erick Sermon",
+      "Sugarless"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Love L.O.D.",
+    "featured": [
+      "Kel-Vicious",
+      "L.O.D. (50 Grand"
+    ],
+    "producer": [
+      "Erick Sermon",
+      "Rod \"KP\" Kirkpatrick"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "To My Mans",
+    "featured": [
+      "Dave Hollister"
+    ],
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "World Be Free",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "The Carnage",
+    "featured": [
+      "Joe Hooker"
+    ],
+    "producer": [
+      "Ruggedness"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=8_olUd7HSSk"
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Oh My Goodness",
+    "featured": null,
+    "producer": [
+      "Qur'an Goodman"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Yeah Yeah U Know It",
+    "featured": [
+      "Erick Sermon",
+      "Redman"
+    ],
+    "producer": [
+      "Just Blaze"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Candi Bar",
+    "featured": null,
+    "producer": [
+      "DJ Khalil"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=YJr2PhGgbKo"
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Christina",
+    "featured": null,
+    "producer": [
+      "Clark Kent"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Sucka Free",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Say Whaatt",
+    "featured": [
+      "Redman"
+    ],
+    "producer": [
+      "Jazze Pha"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Da Ba Dunk Song",
+    "featured": null,
+    "producer": [
+      "Trackmasters"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Swagger Back",
+    "featured": null,
+    "producer": [
+      "Omen"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "On Smash",
+    "featured": [
+      "Busta Rhymes",
+      "Kel-Vicious"
+    ],
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Say Goodnite",
+    "featured": null,
+    "producer": [
+      "Erick Sermon",
+      "Pete Rock"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Child of the Streets",
+    "featured": [
+      "Sonji Mickey"
+    ],
+    "producer": [
+      "Erick Sermon",
+      "Keith Murray"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Def Squad",
+    "title": "Full Cooperation",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Def Squad",
+    "title": "Def Squad Delite/Rapper's Delite",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "When I Rap",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Incredible",
+    "featured": [
+      "LL Cool J"
+    ],
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Some Shit",
+    "featured": [
+      "Canibus",
+      "Deja Vu"
+    ],
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Slap Somebody",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Secret Indictment",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Radio",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Shut the Fuck Up",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Media",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Life on the Street",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Ride Wit Us",
+    "featured": [
+      "Erick Sermon",
+      "Redman",
+      "Too Short"
+    ],
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "High as Hell",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Bad Day",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "My Life",
+    "featured": [
+      "Deja Vu"
+    ],
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "La, La, La",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=UmKrym620ZI"
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Sychosymatic",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Dip Dip Di",
+    "featured": null,
+    "producer": [
+      "Erick Sermon",
+      "Rod \"KP\" Kirkpatrick"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "The Most Beautifullest Thing In This World",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ASIuHV_hJS0"
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Herb is Pumpin",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=HViXC2BwMyI"
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Straight Loonie",
+    "featured": [
+      "Erick Sermon",
+      "Jamal"
+    ],
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Danger",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Get Lifted",
+    "featured": null,
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ZKVr4_5lI7w"
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "How's That?",
+    "featured": [
+      "Erick Sermon",
+      "Redman"
+    ],
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Take it to the Streets",
+    "featured": [
+      "50 Grand",
+      "Ron Jay"
+    ],
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Bom Bom Zee",
+    "featured": [
+      "Hurricane Gee",
+      "Paul Hightower"
+    ],
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Escapism",
+    "featured": [
+      "Redman"
+    ],
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "U Ain't Nobody",
+    "featured": [
+      "Erick Sermon",
+      "Redman"
+    ],
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Nobody Do it Better",
+    "featured": [
+      "Tyrese"
+    ],
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=3db-BoYA9fY"
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Hustle On",
+    "featured": null,
+    "producer": [
+      "Shuko"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "Whatmakeaniggathinkdat",
+    "featured": [
+      "Illegal",
+      "Lil Jamal"
+    ],
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Murray",
+    "title": "What it Is",
+    "featured": [
+      "50 Grand",
+      "Method Man"
+    ],
+    "producer": [
+      "Erick Sermon"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Sweat",
+    "title": "Things",
+    "featured": [
+      "Busta Rhymes",
+      "Mya",
+      "Rah Digga"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Sweat",
+    "title": "Why U Treat Me So Cold?",
+    "featured": [
+      "Lil Wayne"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Sweat",
+    "title": "Put Your Lovin' Through the Test",
+    "featured": [
+      "Roger Troutman"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=-sg5lPc-MuY"
+  },
+  {
+    "artist": "Keith Sweat",
+    "title": "Merry Go Round",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ohZ1w6zMHgg"
+  },
+  {
+    "artist": "Keith Sweat",
+    "title": "Why Me Baby",
+    "featured": [
+      "LL Cool J"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=9I8lr5U040E"
+  },
+  {
+    "artist": "Keith Sweat",
+    "title": "Twisted",
+    "featured": [
+      "Kut Klose",
+      "Pretty Russ"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ywr-Zjbw7JI"
+  },
+  {
+    "artist": "Keith Sweat",
+    "title": "Make It Last Forever",
+    "featured": null,
+    "producer": [
+      "Keith Sweat",
+      "Teddy Riley"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Sweat",
+    "title": "Nobody",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Sweat",
+    "title": "Come and Get With Me",
+    "featured": [
+      "Snoop Dogg"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Sweat",
+    "title": "Love Jones",
+    "featured": [
+      "Erick Sermon",
+      "Playa",
+      "Too Short"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "For You",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=C_6DNnlzDrM"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Days Go By",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=R42zFe0-t_k"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Better Life",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=RjlX1_Jq4EY"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Making Memories Of Us",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=qQ-15YIvH5Y"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "God's Been Good To Me",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=I3pPxDQmzp0"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "The Hard Way",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=HclRmEmkkvs"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "You're My Better Half",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=zcQJdJKiRO0"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "I Could Fly",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=3pr7oBChHCE"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Tonight I Wanna Cry",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Pcit-3x1p4Q"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "She's Gotta Be",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=khuIHK_qA0Y"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Nobody Drinks Alone",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=-21Bah2tpgM"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Country Comfort",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=3vbLkpc5faY"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Live To Love Another Day",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=G8KpgstbHZE"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "These Are The Days",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=I7KnekFemJk"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Kiss A Girl",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=XXi6N8b2h7s"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "If Ever I Could Love",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=9zcQdjd9KPk"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Sweet Thing",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=UxwLQmPHkT8"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Til Summer Comes Around",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=kh0ESB30eJA"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "My Heart Is Open",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=78HThhcU2r8"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Hit The Ground Runnin'",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=8JoSlCg5H_8"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Only You Can Love Me This Way",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=pmuqORloBJw"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Standing Right In Front Of You",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ghwZ7O18LpM"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Why's It Feel So Long",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=01rRDz9BPdE"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "I'm In",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=m1ZkVbC_yvo"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Thank You",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=mVE5ayhEIEk"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Somewhere In My Car",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=RPILrZTBedY"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Even The Stars Fall 4 U",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=n-OUmyVQvcw"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Cop Car",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=YHwpX-zpPdQ"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Shame",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=7CNnHvirPBc"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Good Thing",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=9ntZCB7l2uY"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "We Were Us",
+    "featured": [
+      "Miranda Lambert"
+    ],
+    "producer": [
+      "Keith Urban",
+      "Nathan Chapman"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=dlFEJ-Ctpjc"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Love's Poster Child",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=MrO7YoSsTEs"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "She's My 11",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=2Ozh9qnj8N0"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Come Back To Me",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=cwanePAsIX0"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Red Camaro",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=WT216GG3u_4"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Little Bit Of Everything",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=-GFPfBmUMBA"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Raise Em Up",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ZiYd1vl8dvY"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Heart Like Mine",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Hr8gG3Jo4lQ"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Put You In A Song",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=2JiYPyib5cA"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "You Gonna Fly",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=vHi59pMU3H4"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "All For You",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=2L49x9EFLvk"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Long Hot Summer",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=7dtfBxUTXRY"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Without You",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=p3TWpWf798s"
+  },
+  {
+    "artist": "Georgia Woods",
+    "title": "Georgia Woods",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=YkjT4o1hepw"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Right On Back To You",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=jIuIUG2596Q"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Shut Out The Lights",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=FfXTaF18xa0"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Big Promises",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "The Luxury Of Knowing",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=P5yQrJ9zvNc"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Winning",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Somebody Like You",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=9fy91mHAPpE"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Who Wouldn't Wanna Be Me",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=jOx4u1G8ZN4"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Whenever I Run",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=vNcLhxUwSQs"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "What About Me",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=PbXy_CNPcGE"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "You'll Think Of Me",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=B-oKxpQrRY4"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Jeans On",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=inp1TXj5678"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "You Look Good In My Shirt",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=wFj9ylA043A"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "You're Not Alone Tonight",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=lJXiSRHAmRg"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "You Won",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=32nJdrVvhHY"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Song For Dad",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=P0QGJTdl7-0"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Raining On Sunday",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=4jG7wNoES8c"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "You're Not My God",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=kRPimEbjey0"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Walkin' The Country",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=E4teyeAD_bU"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Homespun Love",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=NJ12ZrckK_k"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Just Some Love",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=EAwV_2CSs4g"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Some Days You Gotta Dance",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=TzdfjgLTcYU"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "My Last Name",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Desiree",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=kZ-cgOo7vfE"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Freedom's Finally Mine",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=gFjKTUbn84k"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Hank Don't Fail Me Now",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=HS2aXefswe4"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Tangled Up In Love",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=7MHrpo2mrXc"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Man Of The House",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=q1F94LwQ8z8"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Ghost In His Guitar",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=qiDx59YCBEQ"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Stuck In The Middle",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=EP7y7FLioaU"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "It's A Love Thing",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=D6fugMNMLtw"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Where The Blacktop Ends",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=3I56qzmllz8"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "But For The Grace Of God",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=9G6IF0OW_f4"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Your Everything",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Im7bAMmk5gI"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "I Wanna Be Your Man (Forever)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=UcQKYwblTS0"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "A Little Luck Of Our Own",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=GtQ1E_ZHsFw"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Your The Only One",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=nwdw4UEgbXY"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "If You Wanna Stay",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=8MgVNN7g_kk"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Don't Shut Me Out",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=IG0nqmrs9AI"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Out On My Own",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=l-T2Y61vSAI"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "I Thought You Knew",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=oQkXPaz9JMc"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Once In A Lifetime",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=12lHL2Nqruc"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Shine",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=CgK9eHOVfCE"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "I Told You So",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=6jVkznnUyow"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "I Can't Stop Loving You",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=NKgnraPFlz4"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Won't Let You Down",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=r6NNV5MxIjk"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Faster Car",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=lxVRJjlwwgE"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Stupid Boy",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=brrsX8JAKFI"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Used To The Pain",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=5S3ldxo0CB0"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Raise The Barn",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=VQiOTQO4FBk"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "God Made Woman",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=aA3eUN9gTmY"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Tu Compania",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=8qjk9a97QSM"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Everybody",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ADF75HDMqLs"
+  },
+  {
+    "artist": "Keith Urban",
+    "title": "Got It Right This Time",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=5yIygE3UklQ"
+  },
+  {
+    "artist": "Keizer",
+    "title": "Dieper dan je man",
+    "featured": [
+      "Negativ"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=tN8TwsE62lM"
+  },
+  {
+    "artist": "Keizer",
+    "title": "Hoe ze loopt",
+    "featured": [
+      "Gioo"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Keizer",
+    "title": "Keizer, Koning, Admiraal",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=FrDYMlJ8az4"
+  },
+  {
+    "artist": "Keizer",
+    "title": "Wie ben jij",
+    "featured": [
+      "Jebroer",
+      "Mr. Polska"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=jXDpjptE2TI"
+  },
+  {
+    "artist": "Keizer",
+    "title": "Nooit Vergeten",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Keizer",
+    "title": "Karma is een bitch",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Keizer",
+    "title": "#NietHaten",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=vsgZvFLENqo"
+  },
+  {
+    "artist": "Keizer",
+    "title": "Wat ga ik doen",
+    "featured": null,
+    "producer": [
+      "Krankjoram"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Xyv3RRk3eTM"
+  },
+  {
+    "artist": "Keizer",
+    "title": "Mama Sorry",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=W9UBoWsOEBQ"
+  },
+  {
+    "artist": "Kelis",
+    "title": "Acapella",
+    "featured": null,
+    "producer": [
+      "David Guetta",
+      "Frédéric Riesterer"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Kelis",
+    "title": "Brave",
+    "featured": null,
+    "producer": [
+      "Alle Benassi",
+      "Benny Benassi"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Cihl7uAcoe4"
+  },
+  {
+    "artist": "Kelis",
+    "title": "Breakfast",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=lgn1ge26OjM"
+  },
+  {
+    "artist": "Kelis",
+    "title": "Jerk Ribs",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kelis",
+    "title": "Let Forever Be",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kelis",
+    "title": "Floyd",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kelis",
+    "title": "Runnin'",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=SQILg1YHziA"
+  },
+  {
+    "artist": "Kelis",
+    "title": "Hooch",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kelis",
+    "title": "Cobbler",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kelis",
+    "title": "Bless the Telephone",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kelis",
+    "title": "Friday Fish Fry",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kelis",
+    "title": "Change",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kelis",
+    "title": "Rumble",
+    "featured": null,
+    "producer": [
+      "Sitek"
+    ],
+    "audioLink": "https://soundcloud.com/iamkelis/rumble"
+  },
+  {
+    "artist": "Kelis",
+    "title": "Biscuits N' Gravy",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kelis",
+    "title": "Dreamer",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kelis",
+    "title": "Good Stuff",
+    "featured": [
+      "Pusha T"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kelis",
+    "title": "Mafia",
+    "featured": [
+      "Markita"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kelis",
+    "title": "Caught Out There",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=N3JFwd1bk4Q"
+  },
+  {
+    "artist": "Kelis",
+    "title": "Ghetto Children",
+    "featured": [
+      "Marc Dorsey",
+      "N.E.R.D."
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kelis",
+    "title": "Roller Rink",
+    "featured": [
+      "N.E.R.D."
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kelis",
+    "title": "Bossy",
+    "featured": [
+      "Too Short"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=SSgp-IIgr4I"
+  },
+  {
+    "artist": "Kelis",
+    "title": "Lil Star",
+    "featured": [
+      "Cee-Lo Green"
+    ],
+    "producer": [
+      "Cee-Lo Green"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=TqLghoGLez4"
+  },
+  {
+    "artist": "Kelis",
+    "title": "Blindfold Me",
+    "featured": [
+      "Nas"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kelis",
+    "title": "Millionaire",
+    "featured": [
+      "Andre 3000"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=z5kHF4IKgWU"
+  },
+  {
+    "artist": "Kelis",
+    "title": "Trick Me",
+    "featured": null,
+    "producer": [
+      "Dallas Austin"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=zI339U6GS9s"
+  },
+  {
+    "artist": "Kelis",
+    "title": "In Public",
+    "featured": [
+      "Nas"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kelis",
+    "title": "I Don't Care Anymore",
+    "featured": [
+      "Pharrell Williams"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kelis",
+    "title": "Mr. U.F.O. Man",
+    "featured": [
+      "John Ostby"
+    ],
+    "producer": [
+      "The Neptunes"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=m7V6gtxvO8M"
+  },
+  {
+    "artist": "Kelis",
+    "title": "Star Wars",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Cfa85ify9cU"
+  },
+  {
+    "artist": "Kelis",
+    "title": "Daddy",
+    "featured": [
+      "No Malice",
+      "Pharrell Williams"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=eVnnSsQzJJo"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Where's Tammy Wynette",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/search/sounds?q=good%20man%20like%20me%20dierks%20bentley%20lyrics"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Unlock That Honky Tonk",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/search/sounds?q=good%20man%20like%20me%20dierks%20bentley%20lyrics"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Stop Cheatin' On Me",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/search/sounds?q=good%20man%20like%20me%20dierks%20bentley%20lyrics"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Long As I Never See You Again",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/search/sounds?q=good%20man%20like%20me%20dierks%20bentley%20lyrics"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Tough",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/search/sounds?q=tough%20kellie%20pickler"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Turn On The Radio And Dance",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/search/sounds?q=Turn%20On%20The%20Radio%20And%20Dance"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Mother's Day",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/search/sounds?q=mother%27s%20day%20kellie%20pickler"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Rockaway (The Rockin' Chair Song)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/search/sounds?q=Rockaway%20(The%20Rockin%27%20Chair%20Song)%20"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Little House On The Highway",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/search/sounds?q=kellie%20pickler%20little%20house%20on%20the%20highway"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "100 Proof",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/search/sounds?q=100%20proof%20kellie%20pickler"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "The Letter (To Daddy)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/brittany92590/letter-to-daddy-kellie-pickler"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Don't You Know You're Beautiful",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=fI2NyfV9N3g"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "I'm Your Woman",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Rocks Instead Of Rice",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Didn't You Know How Much I Loved You",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=1FSNFK1e5A4"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Lucky Girl",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "One Last Time",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Best Days Of Your Life",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=JLUvO8QUmXc"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Somebody To Love Me",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Makin' Me Fall In Love Again",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=QklF7jqoDaQ"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Going Out In Style",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Anything But Me",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Don't Close Your Eyes",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Happy",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Santa Baby",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=2tT0ln7oRdA"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "(Everybody's Waitin' For) The Man With The Bag",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=bl0mmagprPQ"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Red High Heels",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=-5Ri8GY57SI"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Gotta Keep Moving",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=QA9ERh1JmWA"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Things That Never Cross A Man's Mind",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=O7PbvBNA70E"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Didn't You Know How Much I Loved You",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=1FSNFK1e5A4"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "I Wonder",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Rb9mvkxE5Ww"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Small Town Girl",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=I-gieXOw4fI"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Wild Ponies",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=113GEWlD8Yo"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Girls Like Me",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=LEmlotCSVFs"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "I'm On My Way",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=1aaEctiYD4M"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "One Of The Guys",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=aCi6V0iBcVg"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "My Angel",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=aOwhJxuBtEI"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Little Bit Gypsy",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Vgq3PcveAH4"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Ring For Sale",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=6ojEmsWt8oc"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Buzzin'",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=AhQhFBXzB6g"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "The Woman I Am",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=77k-UvH2jh4"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Closer To Nowhere",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=LMZIz7u-2mc"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Selma Drye",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=85NzAnAOWtA"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "I Forgive You",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=rFC20P25mZ4"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Bonnie And Clyde",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Edjh_N_2fr8"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Where Did Your Love Go",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=bGkoJPPvLSQ"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "No Cure For Crazy",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=VwAmK3N3i9g"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Tough All Over",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=D8D6GSPHtV0"
+  },
+  {
+    "artist": "Kellie Pickler",
+    "title": "Someone Somewhere Tonight",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=nraJkBMDJD8"
+  }
+]

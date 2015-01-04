@@ -1,0 +1,31 @@
+[
+  [
+    {
+      "artist": "Aein",
+      "title": "Zende Baad",
+      "featured": null,
+      "producer": [
+        "Saeed Dehghan"
+      ],
+      "audioLink": "https://soundcloud.com/cherik/aein-zende-baad-prod-saeed"
+    },
+    {
+      "artist": "Aein",
+      "title": "Halal",
+      "featured": [
+        "Safir"
+      ],
+      "producer": [
+        "Sina Mahdavi"
+      ],
+      "audioLink": "https://soundcloud.com/cherik/aein-halal-ft-safir-prod-sina"
+    },
+    {
+      "artist": "Aein",
+      "title": "Jabr",
+      "featured": null,
+      "producer": null,
+      "audioLink": "https://soundcloud.com/cherik/aein-jabr-prod-domini?in=cherik/sets/navar-ep"
+    }
+  ]
+]

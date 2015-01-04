@@ -1,0 +1,40 @@
+[
+  [
+    {
+      "artist": "3 Shades of Blue",
+      "title": "Don't Let Me Drown",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=864o2Wh6yj0"
+    },
+    {
+      "artist": "3 Shades of Blue",
+      "title": "Fairytale",
+      "featured": null,
+      "producer": [
+        "3 Shades of Blue"
+      ],
+      "audioLink": null
+    }
+  ],
+  [
+    {
+      "artist": "3 Shades of Blue",
+      "title": "Surface",
+      "featured": null,
+      "producer": [
+        "3 Shades of Blue"
+      ],
+      "audioLink": null
+    }
+  ],
+  [
+    {
+      "artist": "3 Shades of Blue",
+      "title": "Try to Fly",
+      "featured": null,
+      "producer": null,
+      "audioLink": "https://soundcloud.com/3shadesofblue/try-to-fly"
+    }
+  ]
+]

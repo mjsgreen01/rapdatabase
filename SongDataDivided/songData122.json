@@ -1,0 +1,4845 @@
+[
+  {
+    "artist": "Luidji",
+    "title": "Intro",
+    "featured": null,
+    "producer": [
+      "Electric Light Orchestra"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=vAmS--sVM6A"
+  },
+  {
+    "artist": "Luidji",
+    "title": "Bluesky",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=qqr7JmY7SiI"
+  },
+  {
+    "artist": "Luidji",
+    "title": "CQLP",
+    "featured": [
+      "Dinos Punchlinovic"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=tMYzmstQzoY"
+  },
+  {
+    "artist": "Luidji",
+    "title": "Coolax",
+    "featured": null,
+    "producer": [
+      "Man's"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=rJJYMKP6d90"
+  },
+  {
+    "artist": "Luidji",
+    "title": "Insolent (Remix)",
+    "featured": [
+      "Beeby"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=wdYDBkV4gDY"
+  },
+  {
+    "artist": "Luidji",
+    "title": "Absynthe",
+    "featured": [
+      "Tuerie Balboa"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=az5H5s4jnY4"
+  },
+  {
+    "artist": "Luidji",
+    "title": "Mon Ex",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=b5OsR3Gk6xE"
+  },
+  {
+    "artist": "Luidji",
+    "title": "Nympho",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=qRxBrrvtUiU"
+  },
+  {
+    "artist": "Luidji",
+    "title": "Immaculé",
+    "featured": null,
+    "producer": [
+      "Pee Magnum"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=7r4t4BtgF48"
+  },
+  {
+    "artist": "Luidji",
+    "title": "Baton rouge",
+    "featured": null,
+    "producer": [
+      "Ogee Handz"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=OxLvRMUrBN8"
+  },
+  {
+    "artist": "Luidji",
+    "title": "Groupies",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=qM20xfS2PF8"
+  },
+  {
+    "artist": "Luidji",
+    "title": "Nuit Blanche",
+    "featured": null,
+    "producer": [
+      "Ogee Handz"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Pv5B9PYjnGk"
+  },
+  {
+    "artist": "Luidji",
+    "title": "Guerre Froide",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=3U7j40me874"
+  },
+  {
+    "artist": "Luidji",
+    "title": "Tango à terre",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=sGEHFbNDuh4"
+  },
+  {
+    "artist": "Luidji",
+    "title": "Route 999",
+    "featured": null,
+    "producer": [
+      "Cheetah"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Gn9WOIpAD1Y"
+  },
+  {
+    "artist": "Luidji",
+    "title": "Jad",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=yH34JRGIHRU"
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Automatic",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=xjsBx1GL4MM"
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Whisper",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Target",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Hands Tied",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Easy",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Do U",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Connected",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Call it Love",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Blue Jeans",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Bad To The Core",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Aye Okay",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "All For Love",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Automatic",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=xjsBx1GL4MM"
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Pucker Up",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Gonna Be That Guy",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Target",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Pretty Body",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Pick Up Line",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Valentine",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Scandal In A Miniskirt",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Waterfalls",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Boom Boom",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Unstoppable",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Strobelight",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Strangers Again",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Radar",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=PX8mEw4iS5o"
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Question Mark",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=fQvrn9UAqV4"
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Pull The Trigger",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Over The Top",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Lost In A Shiver",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Better Now",
+    "featured": [
+      "Sebastian"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Barefoot In December",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luigi Masi",
+    "title": "Armed With Love",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=p1qkizXxej0"
+  },
+  {
+    "artist": "Luke",
+    "title": "Fakin' Like Gangstas",
+    "featured": [
+      "JT Money"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=MSYrnuGa4Ic"
+  },
+  {
+    "artist": "Luke",
+    "title": "Freestyle Joint",
+    "featured": [
+      "Clayvosie",
+      "Debonaire",
+      "Fresh Kid Ice",
+      "JT Money"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luke",
+    "title": "Slippery When Wet",
+    "featured": [
+      "Armageddon",
+      "Big Punisher",
+      "Cuban Link"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luke",
+    "title": "Asshole Naked",
+    "featured": [
+      "Ice Cube"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luke Bonds",
+    "title": "Less Than A Zip",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/tonymillions/less-than-a-zip-prod-by-italic?in=tonymillions/sets/colorless-ep-tony-millions"
+  },
+  {
+    "artist": "Luke Bonds",
+    "title": "Corner Cab Catchin",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luke Bonds",
+    "title": "All Reasons",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunar C",
+    "title": "Public Service Announcement (Freestyle)",
+    "featured": null,
+    "producer": [
+      "Just Blaze"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=1TgRkCS2Fdg"
+  },
+  {
+    "artist": "Lunar C",
+    "title": "Far Left (Freestyle)",
+    "featured": null,
+    "producer": [
+      "The Alchemist"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=1TgRkCS2Fdg"
+  },
+  {
+    "artist": "Lunar C",
+    "title": "Dump in the Gut (Freestyle)",
+    "featured": null,
+    "producer": [
+      "M-Phazes"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=1TgRkCS2Fdg"
+  },
+  {
+    "artist": "Lunar C",
+    "title": "Bogeyed",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Don't Flop",
+    "title": "Lunar C vs Preditah",
+    "featured": [
+      "Lunar C",
+      "Preditah"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunar C",
+    "title": "Free Weed For Single Mothers",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunar C",
+    "title": "Good Times And Dead Brain Cells",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunar C",
+    "title": "Contradict",
+    "featured": null,
+    "producer": [
+      "Wize"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=i5KSNfCrWvI"
+  },
+  {
+    "artist": "Lunar C",
+    "title": "Can't Understand",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=CioJQiyVHuQ"
+  },
+  {
+    "artist": "Lunar C",
+    "title": "Going Dumb",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunar C",
+    "title": "Supercalifradge",
+    "featured": null,
+    "producer": [
+      "ExP"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=QSWUBmz35m8"
+  },
+  {
+    "artist": "Lunar C",
+    "title": "StillSkint",
+    "featured": [
+      "Bellisful"
+    ],
+    "producer": [
+      "ExP"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=np4mF82HmHo"
+  },
+  {
+    "artist": "Lunar C",
+    "title": "Smash Things Up",
+    "featured": null,
+    "producer": [
+      "Pete Cannon"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Ozko-J-qD7I"
+  },
+  {
+    "artist": "Lunar C",
+    "title": "Miley Einstein",
+    "featured": null,
+    "producer": [
+      "Hashfinger"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lunar C",
+    "title": "Pass It Round",
+    "featured": [
+      "Chief Wigs"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=TkBRz3Sr8-U"
+  },
+  {
+    "artist": "Lunar C",
+    "title": "WY Freestyle over Angel Haze \"New York\" instrumental",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=iE1URCB_57U"
+  },
+  {
+    "artist": "Lunar C",
+    "title": "Jesus Swag",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=aphKOxJ8770"
+  },
+  {
+    "artist": "Lunar C",
+    "title": "Radio 1 Freestyle (Explicit)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=aUF0YPrw5Po"
+  },
+  {
+    "artist": "Lunasicc",
+    "title": "Do You Wanna Get High",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunasicc",
+    "title": "Been So Long",
+    "featured": [
+      "Killa Tay",
+      "Marvaless"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunasicc",
+    "title": "24-7",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunasicc",
+    "title": "Can You Hang?",
+    "featured": [
+      "Agerman",
+      "Killa Tay"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunasicc",
+    "title": "Too Much On It",
+    "featured": [
+      "Ephriam Galloway",
+      "Mississippi"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunasicc",
+    "title": "Major Figgas",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunasicc",
+    "title": "Pay Style Flows",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunasicc",
+    "title": "Strictly Business",
+    "featured": [
+      "Killa Tay"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunasicc",
+    "title": "Top Dollar",
+    "featured": [
+      "Agerman",
+      "Killa Tay"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Intro",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=CNf7ilnEhzc"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Pas l'temps pour les regrets (Partie 1)",
+    "featured": null,
+    "producer": [
+      "Cris Prolific"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=cxSlDLQf32E"
+  },
+  {
+    "artist": "Booba",
+    "title": "Tony Coulibali",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=N4E9gVyLQVY"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Avertisseur (Partie 1)",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Fusion",
+    "featured": [
+      "Ärsenik"
+    ],
+    "producer": [
+      "Fred le magicien"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=-mzqGeERXWI"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "B.O. (Generaldo Tape)",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ycYMekXmvz4"
+  },
+  {
+    "artist": "Ali (Lunatic)",
+    "title": "Récolte ce que tu sèmes",
+    "featured": null,
+    "producer": [
+      "Fred le magicien"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=CJB_4R8X5RU"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Freestyle",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=uuJtfAgWRRE"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Avertisseur (Partie 2)",
+    "featured": null,
+    "producer": [
+      "45 Scientific"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=8g6o4jkO-EQ"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Le son qui met la pression (Live)",
+    "featured": null,
+    "producer": [
+      "Fred le magicien"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=jMLgY91VbYQ"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "J'perds mon temps (Partie 1)",
+    "featured": null,
+    "producer": [
+      "Fred le magicien"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=hLY3lE2Hxd4"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "B.O. (Banlieue Ouest)",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=oxAi-k7JVVk"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Civilisé (Partie 1)",
+    "featured": null,
+    "producer": [
+      "Cris Prolific"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lunatic",
+    "title": "L.U.N.A.T.I.C.",
+    "featured": null,
+    "producer": [
+      "Cris Prolific"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=QHZCinobrwU"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Têtes brûlées (Live)",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=6cwQyatbvmQ"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Le crime paie (Live)",
+    "featured": null,
+    "producer": [
+      "DJ Mars"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=9AV0CAPXxOk"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Si tu kiffes pas (Live)",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Ni Strass, Ni Paillette (Partie 2)",
+    "featured": null,
+    "producer": [
+      "Fred le magicien"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=voPw5ftCIos"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Civilisé",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=-3RKzsdMfkk"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "B.O. (Banlieue Ouest)",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=oxAi-k7JVVk"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Intro (Cut Killer Show)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=XwN3uFn4ZaM"
+  },
+  {
+    "artist": "Method Man",
+    "title": "You're All I Need",
+    "featured": [
+      "Mary J. Blige"
+    ],
+    "producer": [
+      "RZA"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=xEfkdnx1zUs"
+  },
+  {
+    "artist": "Mobb Deep",
+    "title": "Survival of the Fittest",
+    "featured": null,
+    "producer": [
+      "Havoc"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=i9ZykEJuFrI"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Lunatic chez Cut Killer",
+    "featured": null,
+    "producer": [
+      "Milkbone"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=XMr9wYTjhlU)"
+  },
+  {
+    "artist": "The Notorious B.I.G.",
+    "title": "Who Shot Ya?",
+    "featured": null,
+    "producer": [
+      "Nashiem Myrick"
+    ],
+    "audioLink": "https://soundcloud.com/djstickz/djstickz-biggie-smalls-who-shot-ya"
+  },
+  {
+    "artist": "Ali (Lunatic)",
+    "title": "Bouge comme un diablotin",
+    "featured": [
+      "Lunatic"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=GBisuVIibZs"
+  },
+  {
+    "artist": "The Notorious B.I.G.",
+    "title": "One More Chance / Stay With Me (Remix)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=132OAFRqoFI"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Attack sur la 7k",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=OfsWWUVbW2g)"
+  },
+  {
+    "artist": "Sunz of Man",
+    "title": "Soldiers of Darkness",
+    "featured": [
+      "9th Prince",
+      "Killa Sin"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=XosyFsLq-cw"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Check le micro",
+    "featured": [
+      "Driver"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=t2F4epM_Whw)"
+  },
+  {
+    "artist": "Dr. Dre",
+    "title": "Keep Their Heads Ringin'",
+    "featured": null,
+    "producer": [
+      "Dr. Dre",
+      "Sam Sneed"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ISbnf9qCmhI"
+  },
+  {
+    "artist": "Grand Puba",
+    "title": "I Like It (I Wanna Be Where You Are)",
+    "featured": null,
+    "producer": [
+      "Mark Sparks"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Naughty By Nature",
+    "title": "Connections",
+    "featured": [
+      "Cruddy Click",
+      "Kandi Kain",
+      "The Roaddawgs"
+    ],
+    "producer": [
+      "Naughty By Nature"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Le crime paie",
+    "featured": null,
+    "producer": [
+      "DJ Mars"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Uyx_JsRzEEk"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Le crime paie",
+    "featured": null,
+    "producer": [
+      "DJ Mars"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Uyx_JsRzEEk"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Les vrais savent",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=fwi6-4vNReA"
+  },
+  {
+    "artist": "Oxmo Puccino",
+    "title": "Pucc' Fiction",
+    "featured": [
+      "Booba"
+    ],
+    "producer": [
+      "Cut Killer"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=YAl3lckALe8"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Civilisé",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=-3RKzsdMfkk"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "La meuf",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=inBIoWxhcjM"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Nique le halla",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=l1a-neWtGpg"
+  },
+  {
+    "artist": "La Brigade",
+    "title": "16 Rimes",
+    "featured": [
+      "Lunatic"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=e27HQHKazuU"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Introduction",
+    "featured": null,
+    "producer": [
+      "Clément Dumoulin"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Xs6h4sXGm2Q"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Pas l'temps pour les regrets",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=RSsIVuTmnto"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Groupe sanguin",
+    "featured": null,
+    "producer": [
+      "Craig J"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=eQqLC6f2h0M"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "L'effort de paix",
+    "featured": [
+      "Sir Doum's"
+    ],
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Hn1sXa7Ki9s"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "La lettre",
+    "featured": null,
+    "producer": [
+      "Chris"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=sIZVCJMSnEs"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Si tu kiffes pas",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=la3W7P3fnRI"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Têtes brûlées",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=_A9vSrWlC0A)"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "92I",
+    "featured": [
+      "Malekal Morte"
+    ],
+    "producer": [
+      "Fred le magicien"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ddTCqoa8xJo"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "H.L.M 3",
+    "featured": null,
+    "producer": [
+      "Marc Jouanneau"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=fR9eYP4Ysmg"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Le son qui met la pression",
+    "featured": null,
+    "producer": [
+      "Fred le magicien"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=cM6B4epOzHE"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Avertisseurs",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=MyT4sl2dcmo)"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Le silence n'est pas un oubli",
+    "featured": [
+      "Jockey"
+    ],
+    "producer": [
+      "Marc Jouanneau"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=a8mhBG-r9Xc"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Mauvais Oeil",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=YGlZgfyKvXY)"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Civilisé",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=-3RKzsdMfkk"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "B.O. (Banlieue Ouest)",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=oxAi-k7JVVk"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Sang d'encre",
+    "featured": [
+      "Ärsenik"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=VxmXrD3M29w"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Lunintro",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=cwQ8T2L2Wmg"
+  },
+  {
+    "artist": "Booba",
+    "title": "Cash Flow",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=MvFYG69yPmU"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "L.U.N.A.T.I.C.",
+    "featured": null,
+    "producer": [
+      "Cris Prolific"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=QHZCinobrwU"
+  },
+  {
+    "artist": "Les Sages Poètes de la Rue",
+    "title": "Fumigène",
+    "featured": [
+      "Booba"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=bqfiZj74HoM)"
+  },
+  {
+    "artist": "Lunch Money Gang",
+    "title": "Rugraps",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=XGMzkL32izo"
+  },
+  {
+    "artist": "Lunch Money Gang",
+    "title": "Do What I Do",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=GJ6FgDZwbLc"
+  },
+  {
+    "artist": "Lunch Money Gang",
+    "title": "M.I.L.F.",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=xwHGipkmnhk"
+  },
+  {
+    "artist": "Lunch Money Gang",
+    "title": "WCB",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=lYY6TDC3KDs"
+  },
+  {
+    "artist": "Lunch Money Gang",
+    "title": "Life Goes On",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=-Xnp0NmQzJc"
+  },
+  {
+    "artist": "Lunch Money Gang",
+    "title": "2 L's",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=BWf_OF_Fc3w"
+  },
+  {
+    "artist": "Lunch Money Gang",
+    "title": "Soul Food",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=4xBHOBr3PSE"
+  },
+  {
+    "artist": "Lunch Money Gang",
+    "title": "Classic",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=-R7rrYqkOJ8"
+  },
+  {
+    "artist": "Lunch Money Gang",
+    "title": "Chillmatic",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Ekjm8ki2CRc"
+  },
+  {
+    "artist": "Lunch Money Gang",
+    "title": "Dreamcast",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=9qocldtFMWo"
+  },
+  {
+    "artist": "Lunch Money Gang",
+    "title": "Me Against The World",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=7rR85C5JRgg"
+  },
+  {
+    "artist": "Lunch Money Gang",
+    "title": "Summer Bummer",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=SK7kz_WwPN0"
+  },
+  {
+    "artist": "Lunikar",
+    "title": "Bizarre",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunikar",
+    "title": "Ma Team",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunikar",
+    "title": "Comme Eux",
+    "featured": null,
+    "producer": [
+      "ILLNGHT"
+    ],
+    "audioLink": "https://soundcloud.com/lunikar/lunikar-comme-eux"
+  },
+  {
+    "artist": "Lunikar",
+    "title": "Bon feeling",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunikar",
+    "title": "Mudafucka",
+    "featured": null,
+    "producer": [
+      "Twenty9"
+    ],
+    "audioLink": "https://soundcloud.com/lunikar/mudafucka-prod-by-twenty9"
+  },
+  {
+    "artist": "Lunikar",
+    "title": "Successeur, Sizzle",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunikar",
+    "title": "Room 33",
+    "featured": null,
+    "producer": [
+      "Marcus"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lunikar",
+    "title": "Luv & Barrier",
+    "featured": null,
+    "producer": [
+      "Lunikar"
+    ],
+    "audioLink": "https://soundcloud.com/lunikar/luv-barrier"
+  },
+  {
+    "artist": "Lunikar",
+    "title": "Temps modernes",
+    "featured": null,
+    "producer": [
+      "Marcus"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Yd7O2PaFQcE"
+  },
+  {
+    "artist": "Lunikar",
+    "title": "L'heure du jugement",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=pSDE2_mxX3E"
+  },
+  {
+    "artist": "Lunikar",
+    "title": "Jamais Perdant",
+    "featured": [
+      "Pesoa"
+    ],
+    "producer": [
+      "Lunikar"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=bB-oIIv4qM4"
+  },
+  {
+    "artist": "Lunikar",
+    "title": "Hautes Sphères",
+    "featured": null,
+    "producer": [
+      "Lunikar"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=xUzMg8MV3nQ"
+  },
+  {
+    "artist": "Luniz",
+    "title": "Dirty Raps",
+    "featured": [
+      "Dru Down"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Scope",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Highest Niggaz in the Industry",
+    "featured": [
+      "B-Legit",
+      "E-40"
+    ],
+    "producer": [
+      "Mike Dean",
+      "Tone Capone"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Funkin Over Nuthin",
+    "featured": [
+      "Harm",
+      "Too Short"
+    ],
+    "producer": [
+      "Mike Dean",
+      "Tone Capone"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "In My Nature",
+    "featured": [
+      "8Ball",
+      "MJG"
+    ],
+    "producer": [
+      "Smoke One Productions"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Jus Mee & U",
+    "featured": [
+      "Raphael Saadiq"
+    ],
+    "producer": [
+      "DJ Quik",
+      "Gone",
+      "Raphael Saadiq"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=XIG6Qu69abI"
+  },
+  {
+    "artist": "Luniz",
+    "title": "My Baby Mamma",
+    "featured": null,
+    "producer": [
+      "Tone Capone"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Is it Kool?",
+    "featured": null,
+    "producer": [
+      "Bosko"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Sad Millionaire",
+    "featured": [
+      "Brownstone"
+    ],
+    "producer": [
+      "Tone Capone"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Killaz on the Payroll",
+    "featured": [
+      "Madd Maxx",
+      "Phats Bossalini",
+      "Poppa LQ"
+    ],
+    "producer": [
+      "Mike Dean",
+      "Tone Capone"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Phillies",
+    "featured": [
+      "Poppa LQ"
+    ],
+    "producer": [
+      "Bosko"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Mobb Shit",
+    "featured": [
+      "3X Krazy",
+      "Cydal",
+      "Swoop G"
+    ],
+    "producer": [
+      "Bosko"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Y Do Thugs Die?",
+    "featured": null,
+    "producer": [
+      "QDIII"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Hypnotize",
+    "featured": [
+      "Redman"
+    ],
+    "producer": [
+      "Redman"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Handcuff Your Hoes",
+    "featured": null,
+    "producer": [
+      "Mike Dean",
+      "Tone Capone"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "20 Blunts A Day",
+    "featured": [
+      "2 Live Crew",
+      "Christion"
+    ],
+    "producer": [
+      "Mike Dean",
+      "Tone Capone"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "11 o'clock News (Bonus Track)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Put The Lead On Ya",
+    "featured": [
+      "Dru Down"
+    ],
+    "producer": [
+      "Tone Capone"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "I Got 5 On It",
+    "featured": [
+      "Michael Marshall"
+    ],
+    "producer": [
+      "Tone Capone"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=v6tqn7uhYKk"
+  },
+  {
+    "artist": "Luniz",
+    "title": "Broke Ho's",
+    "featured": null,
+    "producer": [
+      "Shock G"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Pimps, Playas & Hustlas",
+    "featured": [
+      "Dru Down",
+      "Richie Rich"
+    ],
+    "producer": [
+      "N.O. Joe"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Playa Hata",
+    "featured": [
+      "Teddy"
+    ],
+    "producer": [
+      "CMT",
+      "E-A-Ski"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Broke Niggaz",
+    "featured": [
+      "Eclipse",
+      "Knuckle Head"
+    ],
+    "producer": [
+      "DJ Fuze"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Operation Stackola",
+    "featured": null,
+    "producer": [
+      "N.O. Joe"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "5150",
+    "featured": [
+      "Shock G"
+    ],
+    "producer": [
+      "Shock G"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "900 Blame a Nigga",
+    "featured": null,
+    "producer": [
+      "DJ Fuze",
+      "Garrick Husband",
+      "Shock G"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Yellow Brick Road",
+    "featured": null,
+    "producer": [
+      "N.O. Joe"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "So Much Drama",
+    "featured": [
+      "Nik Nack"
+    ],
+    "producer": [
+      "Terry T"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "She's Just a Freak",
+    "featured": null,
+    "producer": [
+      "Gino Blackwell"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "Plead Guilty",
+    "featured": null,
+    "producer": [
+      "DJ Daryl"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luniz",
+    "title": "I Got 5 On It (Reprise)",
+    "featured": [
+      "Mike Marshall"
+    ],
+    "producer": [
+      "Tone Capone"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Zc9sQfZHRiM"
+  },
+  {
+    "artist": "Luniz",
+    "title": "Oakland Raiders",
+    "featured": null,
+    "producer": [
+      "Mark Murray"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=7LbH5o4dmHA"
+  },
+  {
+    "artist": "Luniz",
+    "title": "Survey of Drugs",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Intro",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=CNf7ilnEhzc"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Pas l'temps pour les regrets (Partie 1)",
+    "featured": null,
+    "producer": [
+      "Cris Prolific"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=cxSlDLQf32E"
+  },
+  {
+    "artist": "Booba",
+    "title": "Tony Coulibali",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=N4E9gVyLQVY"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Avertisseur (Partie 1)",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Fusion",
+    "featured": [
+      "Ärsenik"
+    ],
+    "producer": [
+      "Fred le magicien"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=-mzqGeERXWI"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "B.O. (Generaldo Tape)",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ycYMekXmvz4"
+  },
+  {
+    "artist": "Ali (Lunatic)",
+    "title": "Récolte ce que tu sèmes",
+    "featured": null,
+    "producer": [
+      "Fred le magicien"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=CJB_4R8X5RU"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Freestyle",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=uuJtfAgWRRE"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Avertisseur (Partie 2)",
+    "featured": null,
+    "producer": [
+      "45 Scientific"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=8g6o4jkO-EQ"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Le son qui met la pression (Live)",
+    "featured": null,
+    "producer": [
+      "Fred le magicien"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=jMLgY91VbYQ"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "J'perds mon temps (Partie 1)",
+    "featured": null,
+    "producer": [
+      "Fred le magicien"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=hLY3lE2Hxd4"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "B.O. (Banlieue Ouest)",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=oxAi-k7JVVk"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Civilisé (Partie 1)",
+    "featured": null,
+    "producer": [
+      "Cris Prolific"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lunatic",
+    "title": "L.U.N.A.T.I.C.",
+    "featured": null,
+    "producer": [
+      "Cris Prolific"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=QHZCinobrwU"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Têtes brûlées (Live)",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=6cwQyatbvmQ"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Le crime paie (Live)",
+    "featured": null,
+    "producer": [
+      "DJ Mars"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=9AV0CAPXxOk"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Si tu kiffes pas (Live)",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Ni Strass, Ni Paillette (Partie 2)",
+    "featured": null,
+    "producer": [
+      "Fred le magicien"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=voPw5ftCIos"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Civilisé",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=-3RKzsdMfkk"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "B.O. (Banlieue Ouest)",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=oxAi-k7JVVk"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Intro (Cut Killer Show)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=XwN3uFn4ZaM"
+  },
+  {
+    "artist": "Method Man",
+    "title": "You're All I Need",
+    "featured": [
+      "Mary J. Blige"
+    ],
+    "producer": [
+      "RZA"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=xEfkdnx1zUs"
+  },
+  {
+    "artist": "Mobb Deep",
+    "title": "Survival of the Fittest",
+    "featured": null,
+    "producer": [
+      "Havoc"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=i9ZykEJuFrI"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Lunatic chez Cut Killer",
+    "featured": null,
+    "producer": [
+      "Milkbone"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=XMr9wYTjhlU)"
+  },
+  {
+    "artist": "The Notorious B.I.G.",
+    "title": "Who Shot Ya?",
+    "featured": null,
+    "producer": [
+      "Nashiem Myrick"
+    ],
+    "audioLink": "https://soundcloud.com/djstickz/djstickz-biggie-smalls-who-shot-ya"
+  },
+  {
+    "artist": "Ali (Lunatic)",
+    "title": "Bouge comme un diablotin",
+    "featured": [
+      "Lunatic"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=GBisuVIibZs"
+  },
+  {
+    "artist": "The Notorious B.I.G.",
+    "title": "One More Chance / Stay With Me (Remix)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=132OAFRqoFI"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Attack sur la 7k",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=OfsWWUVbW2g)"
+  },
+  {
+    "artist": "Sunz of Man",
+    "title": "Soldiers of Darkness",
+    "featured": [
+      "9th Prince",
+      "Killa Sin"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=XosyFsLq-cw"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Check le micro",
+    "featured": [
+      "Driver"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=t2F4epM_Whw)"
+  },
+  {
+    "artist": "Dr. Dre",
+    "title": "Keep Their Heads Ringin'",
+    "featured": null,
+    "producer": [
+      "Dr. Dre",
+      "Sam Sneed"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ISbnf9qCmhI"
+  },
+  {
+    "artist": "Grand Puba",
+    "title": "I Like It (I Wanna Be Where You Are)",
+    "featured": null,
+    "producer": [
+      "Mark Sparks"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Naughty By Nature",
+    "title": "Connections",
+    "featured": [
+      "Cruddy Click",
+      "Kandi Kain",
+      "The Roaddawgs"
+    ],
+    "producer": [
+      "Naughty By Nature"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Le crime paie",
+    "featured": null,
+    "producer": [
+      "DJ Mars"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Uyx_JsRzEEk"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Le crime paie",
+    "featured": null,
+    "producer": [
+      "DJ Mars"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Uyx_JsRzEEk"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Les vrais savent",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=fwi6-4vNReA"
+  },
+  {
+    "artist": "Oxmo Puccino",
+    "title": "Pucc' Fiction",
+    "featured": [
+      "Booba"
+    ],
+    "producer": [
+      "Cut Killer"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=YAl3lckALe8"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Civilisé",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=-3RKzsdMfkk"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "La meuf",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=inBIoWxhcjM"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Nique le halla",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=l1a-neWtGpg"
+  },
+  {
+    "artist": "La Brigade",
+    "title": "16 Rimes",
+    "featured": [
+      "Lunatic"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=e27HQHKazuU"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Introduction",
+    "featured": null,
+    "producer": [
+      "Clément Dumoulin"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Xs6h4sXGm2Q"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Pas l'temps pour les regrets",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=RSsIVuTmnto"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Groupe sanguin",
+    "featured": null,
+    "producer": [
+      "Craig J"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=eQqLC6f2h0M"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "L'effort de paix",
+    "featured": [
+      "Sir Doum's"
+    ],
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Hn1sXa7Ki9s"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "La lettre",
+    "featured": null,
+    "producer": [
+      "Chris"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=sIZVCJMSnEs"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Si tu kiffes pas",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=la3W7P3fnRI"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Têtes brûlées",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=_A9vSrWlC0A)"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "92I",
+    "featured": [
+      "Malekal Morte"
+    ],
+    "producer": [
+      "Fred le magicien"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ddTCqoa8xJo"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "H.L.M 3",
+    "featured": null,
+    "producer": [
+      "Marc Jouanneau"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=fR9eYP4Ysmg"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Le son qui met la pression",
+    "featured": null,
+    "producer": [
+      "Fred le magicien"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=cM6B4epOzHE"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Avertisseurs",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=MyT4sl2dcmo)"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Le silence n'est pas un oubli",
+    "featured": [
+      "Jockey"
+    ],
+    "producer": [
+      "Marc Jouanneau"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=a8mhBG-r9Xc"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Mauvais Oeil",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=YGlZgfyKvXY)"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Civilisé",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=-3RKzsdMfkk"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "B.O. (Banlieue Ouest)",
+    "featured": null,
+    "producer": [
+      "Géraldo"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=oxAi-k7JVVk"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Sang d'encre",
+    "featured": [
+      "Ärsenik"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=VxmXrD3M29w"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "Lunintro",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=cwQ8T2L2Wmg"
+  },
+  {
+    "artist": "Booba",
+    "title": "Cash Flow",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=MvFYG69yPmU"
+  },
+  {
+    "artist": "Lunatic",
+    "title": "L.U.N.A.T.I.C.",
+    "featured": null,
+    "producer": [
+      "Cris Prolific"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=QHZCinobrwU"
+  },
+  {
+    "artist": "Les Sages Poètes de la Rue",
+    "title": "Fumigène",
+    "featured": [
+      "Booba"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=bqfiZj74HoM)"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Say Something",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=X8z943cK5c8"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Popular Demand",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=B7wCjqvyCfk"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "So Ghetto",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=WVUxOeIhMXc"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Lasers Manifesto",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=BZtAQQh-yYA"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Yoga Flame",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=VvU5AQxNLfA"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "The One",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=gpzDtCSVBqk"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Thank You",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=KgsJ3a-v6wM"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "National Anthem",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=S2wI8yjNPcA"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Angels (Remix)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Tj5tfyxFC6w"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Turnt Up",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=If0x3XK5KbE"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Life",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=PX99btEg0h4"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Love Letter to the Beat",
+    "featured": [
+      "Alicia Keys"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Y7lIwzsHH-s"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Airplanes",
+    "featured": [
+      "Hayley Williams"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=L-6eKAVV0MI"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Army Girl",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=g1zF_f7965Y"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Who Are You Now",
+    "featured": [
+      "B.o.B"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=aF42p5wvzf4"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Nothin' On You",
+    "featured": [
+      "Bruno Mars"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=CKqdr6vKICE"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Stereo Sun",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=DVGxrunFcxs"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Go To Sleep",
+    "featured": null,
+    "producer": [
+      "1500 or Nothin'"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=EYYY2yzPggA"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "What U Want",
+    "featured": [
+      "Kenna"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=0OIznCDVMm8"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Fire",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=HKAG2Psrgvs"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "We Can Do It Now",
+    "featured": [
+      "Common",
+      "Jennifer Hudson"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=FRwDOvOBgds"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "SLR (Super Lupe Rap)",
+    "featured": null,
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=vaDZyO-w9pQ"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Resurrection",
+    "featured": [
+      "Kenna"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=iwoUF6IMGDE"
+  },
+  {
+    "artist": "All City Chess Club",
+    "title": "We Beamin' (Remix)",
+    "featured": [
+      "Asher Roth",
+      "Blu",
+      "B.o.B",
+      "Charles Hamilton",
+      "Chuck Inglish",
+      "Diggy Simmons",
+      "Dosage",
+      "Lupe Fiasco",
+      "Mikey Rocks"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=85UWLXdPK3Y"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Solar Midnite",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=n31XQPUyv2g"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "I Don't Feel So Good",
+    "featured": [
+      "Gorillaz",
+      "Matthew Santos"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=sIjKmRyKLF8"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "FNF Army Invades",
+    "featured": null,
+    "producer": [
+      "Gorillaz"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "A Bathing Harry",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=3-0e1QNOzeg"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Make Sure U Getta Shirt",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=wkJX4F97SHU"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Heat Under the Baby Seat",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=XIFgACa7Kdc"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Happy Industries",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=W9t_8lGDWWA"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Much More",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=jRB-hGgP0Mg?fs=1"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Mean & Vicious",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=r_5zB4YbGvQ"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Didn't U Know",
+    "featured": [
+      "Shayla G"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=fylscwpiyAk"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Don't Get it Twisted",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=IFSZISezmaM"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Fast Money",
+    "featured": [
+      "Guitar Wayne"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=CKi1JYD9GDU"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Lupe The Killer",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=5QvxoJuDRkY"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Handcuffs",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=MqXq8R4wnYQ"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Jedi Mind Tricks",
+    "featured": null,
+    "producer": [
+      "Stoupe The Enemy of Mankind"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=L0SuQrUcytU"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Glory",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/awm2kxx/glory-lupe-fiasco"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "I'm Coming (Freestyle)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=BTrLI2bEIxU"
+  },
+  {
+    "artist": "Gemini",
+    "title": "Freestyle",
+    "featured": null,
+    "producer": [
+      "Prolyfic"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=qYa4YHMVFng"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Switch (Science Project)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=qx5lXgqFewM"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Conflict Diamonds",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=i3Z4K_WWeBA"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Clean",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=kfBzzuMfpvE"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Outty 5000",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=U8wQIMHw8eA"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Twilight Zone",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=bkOA31IPszE"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "The Pen and The Needlz",
+    "featured": null,
+    "producer": [
+      "Needlz"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=UNkYiMLs_sU"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Knockin' At The Door",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=DkuXqny2bhI"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Champ Is Here (Freestyle)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=J5SdW8-msO4"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Failure",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=JyLLmByA6Y0"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Boss Playa",
+    "featured": [
+      "Bishop G",
+      "GemStones"
+    ],
+    "producer": null,
+    "audioLink": "https://soundcloud.com/awm2kxx/boss-playa"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "WGCI Freestyle",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=KA_jBc1_AKw"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Hater Hop",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/awm2kxx/hater-hop"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Ooh",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Slow Down",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=abRChXM3tCQ"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Welcome Back Chilly",
+    "featured": null,
+    "producer": null,
+    "audioLink": "https://soundcloud.com/awm2kxx/welcome-back-chilly"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Introduction",
+    "featured": [
+      "Howard Zinn"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=dAKlnpihh-0"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Lupe Back",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=GeTMeaI-J1w"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Friend of the People",
+    "featured": [
+      "Dosage"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=QfHEl8IJ9es"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Double Burger with Cheese",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=0w6_2YFxeO8"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Joaquin Phoenix",
+    "featured": [
+      "Travis Barker"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=J7cNVFVy2Vw"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "WWJD He'd Probably LOL Like WTF!!!",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=xvDwRj42LxA"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Lightwork",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=YMSvSGCXHJA"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Life Death And Love From San Francisco",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=OE9T-8dHfSY"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "SLR (Super Lupe Rap)",
+    "featured": null,
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=vaDZyO-w9pQ"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "SNDCLSH In Vegas",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=dpYI6JU0S2s"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Super Cold",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=z4X7iVeHZSA"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "The End of the World",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Omr7RC627AI"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Proper",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=F4Pxd2PvFW8"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Letting Go",
+    "featured": [
+      "Sarah Green"
+    ],
+    "producer": [
+      "King David"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=WWGLYEBYmyI"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Words I Never Said",
+    "featured": [
+      "Skylar Grey"
+    ],
+    "producer": [
+      "Alex Da Kid"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=22l1sf5JZD0"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Till I Get There",
+    "featured": null,
+    "producer": [
+      "Needlz"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=qFmLUBfU9I8"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "I Don't Wanna Care Right Now",
+    "featured": [
+      "MDMA"
+    ],
+    "producer": [
+      "The Audibles"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=-0ZYZPA_hUw"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Out Of My Head",
+    "featured": [
+      "Trey Songz"
+    ],
+    "producer": [
+      "Miykal Snoddy"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=x3NaVE73lpc"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "The Show Goes On",
+    "featured": null,
+    "producer": [
+      "Kane Beatz"
+    ],
+    "audioLink": "https://soundcloud.com/steviegpro/the-show-goes-on-lupe-fiasco-2010"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Beautiful Lasers (2 Ways)",
+    "featured": [
+      "MDMA"
+    ],
+    "producer": [
+      "King David"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=_NHkv0S1NEA"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Coming Up",
+    "featured": [
+      "MDMA"
+    ],
+    "producer": [
+      "King David"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=LdQPaKOWFPw"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "State Run Radio",
+    "featured": [
+      "Matt Mahaffey"
+    ],
+    "producer": [
+      "King David"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=2QKYUtemTs0"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Break The Chain",
+    "featured": [
+      "Eric Turner",
+      "Sway UK"
+    ],
+    "producer": [
+      "ISHi"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=EkJ2gQVSDxA"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "All Black Everything",
+    "featured": null,
+    "producer": [
+      "The Buchanans"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=71McnVwWPwU"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Never Forget You",
+    "featured": [
+      "John Legend"
+    ],
+    "producer": [
+      "Jerry \"Wonda\" Duplessis",
+      "Syience"
+    ],
+    "audioLink": "https://soundcloud.com/atlanticrecords/lupe-fiasco-never-forget-you"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "I'm Beamin'",
+    "featured": null,
+    "producer": [
+      "The Neptunes"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Ge4BEdyZ8bM"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Shining Down",
+    "featured": [
+      "Matthew Santos"
+    ],
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=mjTncuE7YTI"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Haile Selassie",
+    "featured": [
+      "Nikki Jean"
+    ],
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "https://soundcloud.com/lupesoundcloud/lupe-fiasco-haile-selassie-ft-nikki-jean-produced-by-soundtrakk"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Mazinger",
+    "featured": [
+      "PJ"
+    ],
+    "producer": [
+      "S-X"
+    ],
+    "audioLink": "https://soundcloud.com/lupefiasco/lupe-fiasco-mazinger-ft-pj-produced-by-sx"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Pu$$y (RNT)",
+    "featured": [
+      "Billy Blue"
+    ],
+    "producer": [
+      "MoeZ'art"
+    ],
+    "audioLink": "https://soundcloud.com/lupesoundcloud/puy-feat-billy-blue-prod-by-moezart?utm_source=soundcloud&utm_campaign=mshare&utm_medium=twitter&utm_content=http://soundcloud.com/lupesoundcloud/puy-feat-billy-blue-prod-by-moezart"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Lilies",
+    "featured": [
+      "Sirah"
+    ],
+    "producer": [
+      "The Buchanans"
+    ],
+    "audioLink": "https://soundcloud.com/lupesoundcloud/lupe-fiasco-lilies-ft-sirah"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Intro",
+    "featured": [
+      "Ayesha Jaco"
+    ],
+    "producer": [
+      "Chris&Drop"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=zD1U1-2Ubb8"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Real",
+    "featured": [
+      "Sarah Green"
+    ],
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=edsbvOIGOt8"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Just Might Be OK",
+    "featured": [
+      "Gemini"
+    ],
+    "producer": [
+      "Prolyfic"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=DrePDWn-JqI"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Kick Push",
+    "featured": null,
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Gl83mI69nX4"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "I Gotcha",
+    "featured": [
+      "Pharrell Williams"
+    ],
+    "producer": [
+      "The Neptunes"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=64EwEc96Y24"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "The Instrumental",
+    "featured": [
+      "Jonah Matranga"
+    ],
+    "producer": [
+      "Mike Shinoda"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=502AJXEGPNw"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "He Say She Say",
+    "featured": [
+      "Gemini",
+      "Sarah Green"
+    ],
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=byV0GUg7w4U"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Sunshine",
+    "featured": null,
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=q5Dz73rB2aU"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Daydreamin'",
+    "featured": [
+      "Jill Scott"
+    ],
+    "producer": [
+      "Craig Kallman"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=0GQjYPWDcmg"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "The Cool",
+    "featured": null,
+    "producer": [
+      "Kanye West"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=pjCiKk-wHys"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Hurt Me Soul",
+    "featured": null,
+    "producer": [
+      "Needlz"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=EI6iZJOntY8"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Pressure",
+    "featured": [
+      "Jay Z"
+    ],
+    "producer": [
+      "Prolyfic"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=eUTvAJiXwFM"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "American Terrorist",
+    "featured": [
+      "Matthew Santos"
+    ],
+    "producer": [
+      "Prolyfic"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Ra1fBQuFHEc"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "The Emperor's Soundtrack",
+    "featured": null,
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=6t_Y6-qYp3c"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Kick Push II",
+    "featured": null,
+    "producer": [
+      "Brandon Howard"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=JlLy_qxVZOU"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Theme Music to A Drive By",
+    "featured": null,
+    "producer": [
+      "Prolyfic"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=KgG3yN_6SuA"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Tilted",
+    "featured": null,
+    "producer": [
+      "Needlz"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=pdxHonla4nI"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Carrera Lu",
+    "featured": [
+      "Prolyfic"
+    ],
+    "producer": [
+      "Prolyfic"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=0n3FH4HIrxU"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "What It Do",
+    "featured": null,
+    "producer": [
+      "Brandon Howard"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=UkgPp-ajbTo"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Lupe Fiasco's Food & Liquor Album Art",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Ayesha Says (Intro)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=R2P_pr6UaIQ"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Strange Fruition",
+    "featured": [
+      "Casey Benjamin"
+    ],
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=iKeK2tVOEfU"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "ITAL (Roses)",
+    "featured": null,
+    "producer": [
+      "1500 or Nothin'"
+    ],
+    "audioLink": "https://soundcloud.com/gabriel-dineros/lupe-fiasco-ital-roses"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Around My Way",
+    "featured": null,
+    "producer": [
+      "B-Sides",
+      "Simonsayz"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=S77zUWqawag"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Audubon Ballroom",
+    "featured": null,
+    "producer": [
+      "Bullit",
+      "Famties"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=JoNRLRv3xvk"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Bitch Bad",
+    "featured": null,
+    "producer": [
+      "The Audibles",
+      "Jason Boyd"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=C3m3t_PxiUI"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Lamborghini Angels",
+    "featured": null,
+    "producer": [
+      "Mr. Inkredible"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=JoNRLRv3xvk"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Put Em Up",
+    "featured": null,
+    "producer": [
+      "1500 or Nothin'",
+      "Julian Bunetta"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Jaa7xxfqcSU"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Heart Donor",
+    "featured": [
+      "Pooh Bear"
+    ],
+    "producer": [
+      "Jason Boyd",
+      "The Runners"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=e4hijDswOD8"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "How Dare You",
+    "featured": [
+      "Bilal"
+    ],
+    "producer": [
+      "Severe"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Rh_38pcmWvw"
+  },
+  {
+    "artist": "Guy Sebastian",
+    "title": "Battle Scars",
+    "featured": [
+      "Lupe Fiasco"
+    ],
+    "producer": [
+      "Guy Sebastian",
+      "Pro-Jay"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=_mPd_SDAryQ"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Brave Heart",
+    "featured": [
+      "Poo Bear"
+    ],
+    "producer": [
+      "Jason Boyd",
+      "The Runners"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=YyJK89TsVX4"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Form Follows Function",
+    "featured": null,
+    "producer": [
+      "Infamous"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=9Vz-8WA6_wk"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Cold War",
+    "featured": [
+      "Jane $$$"
+    ],
+    "producer": [
+      "1500 or Nothin'"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=zvdWCqHwrvM"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Unforgivable Youth",
+    "featured": [
+      "Jason Evigian"
+    ],
+    "producer": [
+      "King David"
+    ],
+    "audioLink": "https://soundcloud.com/dope-boy90/untitled"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Hood Now (Outro)",
+    "featured": null,
+    "producer": [
+      "1500 or Nothin'"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=j9Hbj_ImDqU"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Go To Sleep",
+    "featured": null,
+    "producer": [
+      "1500 or Nothin'"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=EYYY2yzPggA"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "\"Food & Liquor II: The Great American Rap Album, Pt. 1\" - Album Art",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "RGPolska Tłumaczenia",
+    "title": "Lupe Fiasco - Lamborghini Angels (Polish version)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=JoNRLRv3xvk"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Baba Says Cool For Thought",
+    "featured": null,
+    "producer": [
+      "Ayesha Jaco"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=8w07wrZ7Kcs"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Free Chilly",
+    "featured": [
+      "Gemini",
+      "Sarah Green"
+    ],
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=B6WiwhBnBME"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Go Go Gadget Flow",
+    "featured": null,
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=B59E-Blb5HM"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "The Coolest",
+    "featured": null,
+    "producer": [
+      "Chris&Drop"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ll9c1S3d_v4"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Superstar",
+    "featured": [
+      "Matthew Santos"
+    ],
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=hVkBlsgthLg"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Paris, Tokyo",
+    "featured": null,
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=pp2uqGLNm5k"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Hi-Definition",
+    "featured": [
+      "Pooh Bear",
+      "Snoop Dogg"
+    ],
+    "producer": [
+      "Al Shux"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=L2qhyKtZ2II"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Gold Watch",
+    "featured": null,
+    "producer": [
+      "Chris&Drop"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=77QsbRuslKw"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Hip-Hop Saved My Life",
+    "featured": null,
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=vPiKKfcjI-4"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Intruder Alert",
+    "featured": null,
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=35qXlrcgBUM"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Streets on Fire",
+    "featured": [
+      "Matthew Santos"
+    ],
+    "producer": [
+      "Chris&Drop"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=UF7rBcFolAc"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Little Weapon",
+    "featured": [
+      "Bishop G",
+      "Nikki Jean"
+    ],
+    "producer": [
+      "Patrick Stump"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=UktEpUM-iMM"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Gotta Eat",
+    "featured": null,
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=qKgWADleFCM"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Dumb it Down",
+    "featured": [
+      "Gemini"
+    ],
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=q1Et1siZhTk"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Hello/Goodbye (Uncool)",
+    "featured": [
+      "UNKLE"
+    ],
+    "producer": [
+      "Chris Goss",
+      "Lupe Fiasco",
+      "UNKLE"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=KlWToku6TXs"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "The Die",
+    "featured": [
+      "GemStones"
+    ],
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=UA93qIdqDyI"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Put You On Game",
+    "featured": null,
+    "producer": [
+      "Simonsayz"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=jpKSYVekhvs"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Fighters",
+    "featured": [
+      "Matthew Santos"
+    ],
+    "producer": [
+      "Le Messie"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=jrOoX6xGntc"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Go Baby",
+    "featured": null,
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=9MsxPO5KppQ"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Blackout (Circuit City Bonus Track)",
+    "featured": null,
+    "producer": [
+      "Soundtrakk"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=dGmh-rwCOq4"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Dead Presidents Freestyle",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=FcI6QxwcT9w"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "You, Me, Him, Her (Freestyle)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=5sDaSawrVMA"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Sittin' Sideways (Remix)",
+    "featured": [
+      "Jay Z"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=LFSCUsi516M"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Pills",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=wRw6kpe5hvU"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Pepsi MAX NFL Audible - Packers vs. Bears",
+    "featured": [
+      "Nick Javas"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=_8ZofnWZk6I"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Philosophy Sunday (Free Speech)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Get Throwed",
+    "featured": [
+      "Killa Kyleon",
+      "Twista"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=cCFBrGlm-og"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "City Wings (Lupe's Verse)",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=5sof0jtNKNQ"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Teriyaki Joe: Neo-Harlem Detective (Chapter One: Grits)",
+    "featured": null,
+    "producer": [
+      "Twitter"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Teriyaki Joe: Neo-Harlem Detective (Chapter Two: Coffee)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Teriyaki Joe: Neo-Harlem Detective (Chapter Three: Gravy)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Teriyaki Joe: Neo-Harlem Detective (Chapter Four: Pie)",
+    "featured": null,
+    "producer": [
+      "Twitter"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Teriyaki Joe: Neo-Harlem Detective (Chapter Five: Gumbo)",
+    "featured": null,
+    "producer": [
+      "Twitter"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Teriyaki Joe: Neo-Harlem Detective (Chapter Six: Dressing)",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Chopper",
+    "featured": [
+      "Big KRIT",
+      "Rick Ross"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Deliver",
+    "featured": [
+      "Ty Dolla $ign"
+    ],
+    "producer": [
+      "Marcus Stephens",
+      "MoeZ'art"
+    ],
+    "audioLink": "https://soundcloud.com/lupefiasco/lupe-fiasco-deliver"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Madonna",
+    "featured": [
+      "Nikki Jean"
+    ],
+    "producer": [
+      "DJ Dahi"
+    ],
+    "audioLink": "https://soundcloud.com/lupefiasco/madonna-and-other-mothers-in-the-hood-feat-nikki-jean"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Tetsuo & Youth Tracklist and Album Cover",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Solar Midnite",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=n31XQPUyv2g"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "title": "Hey Lupe",
+    "featured": null,
+    "producer": [
+      "DJ Absolut"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=x7zFUYnXPCY"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Nervous Breakthrough",
+    "featured": null,
+    "producer": [
+      "25 Ton",
+      "Alex Young",
+      "Gabrielle Glaser",
+      "Jill Cunniff",
+      "Mickey Petralia",
+      "Tony Mangurian",
+      "Tony Visconti",
+      "T. Rex"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=F8Ky14_OWsc"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Ladyfingers",
+    "featured": null,
+    "producer": [
+      "25 Ton",
+      "Alex Young",
+      "Gabrielle Glaser",
+      "Jill Cunniff",
+      "Mickey Petralia",
+      "Tony Mangurian",
+      "Tony Visconti",
+      "T. Rex"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=uX5qtSzcZ0A"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Christine",
+    "featured": null,
+    "producer": [
+      "25 Ton",
+      "Alex Young",
+      "Gabrielle Glaser",
+      "Jill Cunniff",
+      "Mickey Petralia",
+      "Tony Mangurian",
+      "Tony Visconti",
+      "T. Rex"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=UHiBOcE26vk"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Alien Lover",
+    "featured": null,
+    "producer": [
+      "25 Ton",
+      "Alex Young",
+      "Gabrielle Glaser",
+      "Jill Cunniff",
+      "Mickey Petralia",
+      "Tony Mangurian",
+      "Tony Visconti",
+      "T. Rex"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=d-tPk63jKM8"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Summer Daze",
+    "featured": null,
+    "producer": [
+      "25 Ton",
+      "Alex Young",
+      "Gabrielle Glaser",
+      "Jill Cunniff",
+      "Mickey Petralia",
+      "Tony Mangurian",
+      "Tony Visconti",
+      "T. Rex"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=PT1EDFboEHg"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Sexy Hypnotist",
+    "featured": null,
+    "producer": [
+      "25 Ton",
+      "Alex Young",
+      "Gabrielle Glaser",
+      "Jill Cunniff",
+      "Mickey Petralia",
+      "Tony Mangurian",
+      "Tony Visconti",
+      "T. Rex"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Friends",
+    "featured": null,
+    "producer": [
+      "25 Ton",
+      "Alex Young",
+      "Gabrielle Glaser",
+      "Jill Cunniff",
+      "Mickey Petralia",
+      "Tony Mangurian",
+      "Tony Visconti",
+      "T. Rex"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Devotion",
+    "featured": null,
+    "producer": [
+      "25 Ton",
+      "Alex Young",
+      "Gabrielle Glaser",
+      "Jill Cunniff",
+      "Mickey Petralia",
+      "Tony Mangurian",
+      "Tony Visconti",
+      "T. Rex"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=NbEUUJruDNI"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Fantastic Fabulous",
+    "featured": [
+      "Deborah Harry"
+    ],
+    "producer": [
+      "25 Ton",
+      "Alex Young",
+      "Gabrielle Glaser",
+      "Jill Cunniff",
+      "Mickey Petralia",
+      "Tony Mangurian",
+      "Tony Visconti",
+      "T. Rex"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=zyTkDVr9S3k"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Gypsy",
+    "featured": null,
+    "producer": [
+      "25 Ton",
+      "Alex Young",
+      "Gabrielle Glaser",
+      "Jill Cunniff",
+      "Mickey Petralia",
+      "Tony Mangurian",
+      "Tony Visconti",
+      "T. Rex"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=KYIcZ7MgZk4"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Beloved",
+    "featured": null,
+    "producer": [
+      "25 Ton",
+      "Alex Young",
+      "Gabrielle Glaser",
+      "Jill Cunniff",
+      "Mickey Petralia",
+      "Tony Mangurian",
+      "Tony Visconti",
+      "T. Rex"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=YgkivBpKlOk"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Country's A Callin'",
+    "featured": null,
+    "producer": [
+      "25 Ton",
+      "Alex Young",
+      "Gabrielle Glaser",
+      "Jill Cunniff",
+      "Mickey Petralia",
+      "Tony Mangurian",
+      "Tony Visconti",
+      "T. Rex"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=U5zBVyV3nmk"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Space Diva",
+    "featured": null,
+    "producer": [
+      "25 Ton",
+      "Alex Young",
+      "Gabrielle Glaser",
+      "Jill Cunniff",
+      "Mickey Petralia",
+      "Tony Mangurian",
+      "Tony Visconti",
+      "T. Rex"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=SE3zwmT0V4c"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Fly",
+    "featured": null,
+    "producer": [
+      "25 Ton",
+      "Alex Young",
+      "Gabrielle Glaser",
+      "Jill Cunniff",
+      "Mickey Petralia",
+      "Tony Mangurian",
+      "Tony Visconti",
+      "T. Rex"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=1HFG9JdQ1Lo"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Lover's Moon",
+    "featured": null,
+    "producer": [
+      "25 Ton",
+      "Alex Young",
+      "Gabrielle Glaser",
+      "Jill Cunniff",
+      "Mickey Petralia",
+      "Tony Mangurian",
+      "Tony Visconti",
+      "T. Rex"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Y4L5oRgGzNI"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Naked Eye",
+    "featured": null,
+    "producer": [
+      "Daniel Lanois"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=0NhqN0KcWAE"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Don't Look Back",
+    "featured": null,
+    "producer": [
+      "Daniel Lanois"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=g3tuSNMO-u4"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Mood Swing",
+    "featured": null,
+    "producer": [
+      "Daniel Lanois"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=Tt24jgIHKpg"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Under Your Skin",
+    "featured": null,
+    "producer": [
+      "Daniel Lanois"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=bKoppkVsNGM"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Electric",
+    "featured": null,
+    "producer": [
+      "Daniel Lanois"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=-2Nn3tRa05Y"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Take A Ride",
+    "featured": null,
+    "producer": [
+      "Daniel Lanois"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=ECcXDattHqk"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Water Your Garden",
+    "featured": null,
+    "producer": [
+      "Daniel Lanois"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=62Vnm_Nh8m8"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Soothe Yourself",
+    "featured": null,
+    "producer": [
+      "Daniel Lanois"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=0RuTr_q_cBo"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Why Do I Lie",
+    "featured": null,
+    "producer": [
+      "Daniel Lanois"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=BysqeyKiDlA"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "One Thing",
+    "featured": null,
+    "producer": [
+      "Daniel Lanois"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=K9jC934tqQ8"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Faith",
+    "featured": null,
+    "producer": [
+      "Daniel Lanois"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=btJiL-kvhME"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Stardust",
+    "featured": null,
+    "producer": [
+      "Daniel Lanois"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=XNPsRyWyLGw"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Let Yourself Get Down",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=M481wPvwmVg"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Life Of Leisure",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=jWc1BWx528Q"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Daughters Of The Kaos",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=rLv8EjfmbBg"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Keep On Rockin' It",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=iltpjod8P7g"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "She Be Wantin It More",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ttdxtm1gDuE"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Satellite",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=8L4OlMtKMcQ"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Citysong",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=IjN2mQ6IYQY"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Deep Shag",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ebXQSPLJ2d4"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Angel",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Z0AgmZySDsI"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Strongman",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=uL-LstUyl7E"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Energy Sucker",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=dTy88DwgQEg"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Here",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=-rSb74tPok8"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Surprise",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Find Your Mind",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Rock Freak",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=x4QapNoayb4"
+  },
+  {
+    "artist": "Luscious Jackson",
+    "title": "Rollin'",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=fw6wZFN2UxI"
+  },
+  {
+    "artist": "Luther Vandross",
+    "title": "If I Didn't Know Better",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Izd0UY88fpQ"
+  },
+  {
+    "artist": "Luther Vandross",
+    "title": "Think About You",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=_7tAFOCYH90"
+  },
+  {
+    "artist": "Luther Vandross",
+    "title": "If it Ain't One Thing",
+    "featured": [
+      "Foxy Brown"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luther Vandross",
+    "title": "Buy Me A Rose",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luther Vandross",
+    "title": "Lovely Day",
+    "featured": [
+      "Busta Rhymes"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luther Vandross",
+    "title": "Dance With My Father",
+    "featured": null,
+    "producer": [
+      "Luther Vandross"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=JLuP-4ZEhOE"
+  },
+  {
+    "artist": "Luther Vandross",
+    "title": "She Saw You",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luther Vandross",
+    "title": "Hit it Again",
+    "featured": [
+      "Queen Latifah"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luther Vandross",
+    "title": "They Said You Needed Me",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=3aCCR3e_VwM"
+  },
+  {
+    "artist": "Luther Vandross",
+    "title": "Nights in Harlem (Darkchild Remix)",
+    "featured": [
+      "MC Guru"
+    ],
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Luther Vandross",
+    "title": "Never Too Much",
+    "featured": null,
+    "producer": [
+      "Luther Vandross"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=pNj9bXKGOiI"
+  },
+  {
+    "artist": "Luther Vandross",
+    "title": "A House Is Not A Home",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Gu2JBMNBbKo"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Niezalogowany",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=WoEmS4VU5QI"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Od zera",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=rtnopSn438s"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Autystyczny",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=-hqbkY1-iLQ"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Jestem głupcem",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=WHYBH1WwN_s"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Trafiony zatopiony",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=aL25tUAKDeM"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "7 razy",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=xPA8yHczfE4"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "W ciemności",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=6IPNS4RpPWU"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "3000 świń",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Za wolność",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=E9G92mVo9U0"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Ostatni",
+    "featured": null,
+    "producer": [
+      "Jakub Biegaj",
+      "Luxtorpeda"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=7ArPIzZe9H8"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "J.U.Z.U.T.N.U.K.U.",
+    "featured": null,
+    "producer": [
+      "Jakub Biegaj",
+      "Luxtorpeda"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=txvPsGvw7aI"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Cały Cyrk",
+    "featured": null,
+    "producer": [
+      "Jakub Biegaj",
+      "Luxtorpeda"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=TpNc6uh0jbk"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Hipokrytes",
+    "featured": null,
+    "producer": [
+      "Jakub Biegaj",
+      "Luxtorpeda"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=npIgG8YnG4w"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Mambałaga",
+    "featured": null,
+    "producer": [
+      "Jakub Biegaj",
+      "Luxtorpeda"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=f29-sXZwl7I"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Pusta studnia",
+    "featured": null,
+    "producer": [
+      "Jakub Biegaj",
+      "Luxtorpeda"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=HyAB_XOCYu4"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Samotna",
+    "featured": null,
+    "producer": [
+      "Jakub Biegaj",
+      "Luxtorpeda"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=bFlp1TiKst4"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Nieobecny Nieznajomy",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=2QFMLaLU5do"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "J'eu les poids",
+    "featured": null,
+    "producer": [
+      "Jakub Biegaj",
+      "Luxtorpeda"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=qVzSDL2q7AI"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Od może do może",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=c-QTSyhpS5U"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Smoła",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=XXC5ILLwkFE"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Persona Non Grata",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=TX1wQXioZuU"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Jestem zwycięzcą?",
+    "featured": null,
+    "producer": [
+      "Jakub Biegaj",
+      "Luxtorpeda"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=vYMHFvaSrG4"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Pies Darwina",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=lDYnb_4MMmA"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Serotonina",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=1xuMcgBwMmw"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Amnestia",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=VeNbudZvqtE"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Wilki dwa",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=pHyu1yH1kgs"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Tu i teraz",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=sxShHSBrTh4"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Mowa Trawa",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=BfmZoFEsyQ0"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Gimli",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=8Ca0qLZIlkY"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Raus",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=_8RPnuc69FY"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Tajne znaki",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=xuHok-tpRoc"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Fanatycy",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=WvX0bCkBaAY"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Robaki",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Hymn",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=jbjbfUlX2Vc"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Gdzie Ty jesteś?",
+    "featured": [
+      "Deep"
+    ],
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=uWWKM3ZyUfM"
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "3000 świń",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Luxtorpeda",
+    "title": "Komboje",
+    "featured": null,
+    "producer": [
+      "Luxtorpeda",
+      "Robert \"Litza\" Friedrich"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lykke Li",
+    "title": "Come Near",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=LNmL4w6NWbU"
+  },
+  {
+    "artist": "Lykke Li",
+    "title": "Love Out of Lust",
+    "featured": null,
+    "producer": [
+      "Björn Yttling"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=i00_qTtyxWM"
+  },
+  {
+    "artist": "Lykke Li",
+    "title": "Unrequited Love",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lykke Li",
+    "title": "Sadness Is A Blessing",
+    "featured": null,
+    "producer": [
+      "Björn Yttling",
+      "Lykke Li",
+      "Rick Nowels"
+    ],
+    "audioLink": null
+  },
+  {
+    "artist": "Lykke Li",
+    "title": "I Know Places",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=K3P2o5gryfs"
+  },
+  {
+    "artist": "Lykke Li",
+    "title": "Get Some",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=-TTPGAy5H_E"
+  },
+  {
+    "artist": "Lykke Li",
+    "title": "Youth Knows No Pain",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lykke Li",
+    "title": "Rich Kids Blues",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lykke Li",
+    "title": "Dance, Dance, Dance",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=modXbqbsAvs"
+  },
+  {
+    "artist": "Lykke Li",
+    "title": "Let it Fall",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lykke Li",
+    "title": "Tonight",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lykke Li",
+    "title": "Little Bit",
+    "featured": null,
+    "producer": [
+      "Björn Yttling",
+      "Lasse Mårtén"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=SwAgFb-WfLA"
+  },
+  {
+    "artist": "Lykke Li",
+    "title": "Everybody But Me",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=RQJpg8QZA3o"
+  },
+  {
+    "artist": "Lykke Li",
+    "title": "Time Flies",
+    "featured": null,
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=ia9ZYlAGrUA"
+  },
+  {
+    "artist": "Lykke Li",
+    "title": "Melodies & Desires",
+    "featured": null,
+    "producer": null,
+    "audioLink": null
+  },
+  {
+    "artist": "Lyle Lovett",
+    "title": "Fat Babies",
+    "featured": null,
+    "producer": [
+      "Billy Williams",
+      "Lyle Lovett"
+    ],
+    "audioLink": "http://www.youtube.com/watch?v=uu5LzE6U4bM"
+  },
+  {
+    "artist": "Lyle Lovett",
+    "title": "If I Had a Boat",
+    "featured": [
+      "Lyle Lovett"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=4evzpIVnMVs"
+  },
+  {
+    "artist": "Lyle Lovett",
+    "title": "Christmas Morning",
+    "featured": [
+      "Lyle Lovett"
+    ],
+    "producer": null,
+    "audioLink": "http://www.youtube.com/watch?v=Ww7gdF81X8M"
+  },
+  {
+    "artist": "Lyle Lovett",
+    "title": "Walk Hard (All-Star Version)",
+    "featured": [
+      "Ghostface Killah",
+      "Jackson Browne",
+      "Jewel"
+    ],
+    "producer": null,
+    "audioLink": null
+  }
+]

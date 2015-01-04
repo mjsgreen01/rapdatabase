@@ -1,0 +1,33 @@
+[
+  [
+    {
+      "artist": "420Chainz",
+      "title": "TJ-400",
+      "featured": [
+        "Starphish"
+      ],
+      "producer": [
+        "Illumernatty"
+      ],
+      "audioLink": null
+    },
+    {
+      "artist": "420Chainz",
+      "title": "Wednesday Night",
+      "featured": null,
+      "producer": [
+        "Illumernatty"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=JD9Oh4wIut8"
+    },
+    {
+      "artist": "420Chainz",
+      "title": "Fuck Nick Bean",
+      "featured": null,
+      "producer": [
+        "Illumernatty"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=HkCSmTvdRP8"
+    }
+  ]
+]

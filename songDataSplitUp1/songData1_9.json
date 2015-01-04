@@ -1,0 +1,93 @@
+[
+  [
+    {
+      "artist": "10cc",
+      "title": "Johnny Don't Do It",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "10cc",
+      "title": "Rubber Bullets",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=-7ktZyll7Lg"
+    }
+  ],
+  [
+    {
+      "artist": "10cc",
+      "title": "Dreadlock Holiday",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=PbdCvzF4qqw"
+    }
+  ],
+  [
+    {
+      "artist": "10cc",
+      "title": "Good Morning Judge",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=tml6qpFy2UE"
+    },
+    {
+      "artist": "10cc",
+      "title": "The Things We Do For Love",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=uFkMGrESZUo"
+    }
+  ],
+  [
+    {
+      "artist": "10cc",
+      "title": "I'm Mandy, Fly Me",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=Wv8N6zSzL7k"
+    },
+    {
+      "artist": "10cc",
+      "title": "Art for Art's Sake",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=pCgcsBYC0jk"
+    }
+  ],
+  [
+    {
+      "artist": "10cc",
+      "title": "I'm Not In Love",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=OtBHfxU2wmc"
+    }
+  ],
+  [
+    {
+      "artist": "10cc",
+      "title": "The Wall Street Shuffle",
+      "featured": null,
+      "producer": [
+        "10cc"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=wiElUpQ_xAY"
+    },
+    {
+      "artist": "10cc",
+      "title": "The Worst Band in the World",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=AEmppVbF1wM"
+    },
+    {
+      "artist": "10cc",
+      "title": "Oh Effendi",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=8TqDdcfZkNs"
+    }
+  ]
+]

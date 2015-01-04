@@ -1,0 +1,71 @@
+[
+  [
+    {
+      "artist": "2 Skinnee J's",
+      "title": "World Barbecue",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=Miue0hMDj6Y"
+    }
+  ],
+  [
+    {
+      "artist": "2 Skinnee J's",
+      "title": "One Summer",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "2 Skinnee J's",
+      "title": "Friends Don't Let Friends Listen to Rap Metal",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=N9qNX8I5wSU"
+    }
+  ],
+  [
+    {
+      "artist": "2 Skinnee J's",
+      "title": "Wild Kingdom",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "2 Skinnee J's",
+      "title": "718",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "2 Skinnee J's",
+      "title": "You're A Champion",
+      "featured": null,
+      "producer": [
+        "A. Mays",
+        "Andy Action",
+        "Eddie Eyeball",
+        "Stevie Spice"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=xUELaLwCBpA"
+    }
+  ],
+  [
+    {
+      "artist": "2 Skinnee J's",
+      "title": "Girl With The World In Her Eyes",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    },
+    {
+      "artist": "2 Skinnee J's",
+      "title": "Loud Neighbors",
+      "featured": null,
+      "producer": null,
+      "audioLink": null
+    }
+  ]
+]

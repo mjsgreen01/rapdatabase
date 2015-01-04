@@ -1,0 +1,122 @@
+[
+  [
+    {
+      "artist": "7L",
+      "title": "Run This",
+      "featured": [
+        "Celph Titled",
+        "Esoteric"
+      ],
+      "producer": [
+        "7L"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=34getbxXZWk"
+    },
+    {
+      "artist": "7L",
+      "title": "12th Chamber",
+      "featured": [
+        "Esoteric",
+        "Inspectah Deck"
+      ],
+      "producer": [
+        "7L"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=TnzArZe2gJA"
+    },
+    {
+      "artist": "7L",
+      "title": "For My Enemies",
+      "featured": [
+        "Esoteric"
+      ],
+      "producer": [
+        "Esoteric"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=yiI2I49coQ4"
+    },
+    {
+      "artist": "7L",
+      "title": "Drawbar 1-2",
+      "featured": [
+        "The Alchemist",
+        "Esoteric",
+        "Evidence"
+      ],
+      "producer": [
+        "DC the Midi Alien"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=asMCztshG7Y"
+    },
+    {
+      "artist": "7L",
+      "title": "No Shots",
+      "featured": [
+        "Esoteric"
+      ],
+      "producer": [
+        "7L",
+        "Esoteric"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=UZSZaqchBOc"
+    },
+    {
+      "artist": "7L",
+      "title": "New Rapper",
+      "featured": [
+        "Esoteric"
+      ],
+      "producer": [
+        "Esoteric"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=sDO6cwXfC-A"
+    }
+  ],
+  [
+    {
+      "artist": "7L & Esoteric",
+      "title": "Rise Of The Rebel",
+      "featured": null,
+      "producer": [
+        "7L",
+        "Apathy",
+        "DC the Midi Alien",
+        "J-Zone"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=Uuqf2zN_Lc4"
+    },
+    {
+      "artist": "7L & Esoteric",
+      "title": "Touchy Subject",
+      "featured": [
+        "Uno the Prophet"
+      ],
+      "producer": [
+        "7L"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=WGpKw8R45O4"
+    },
+    {
+      "artist": "7L",
+      "title": "Graphic Violence",
+      "featured": [
+        "Esoteric"
+      ],
+      "producer": [
+        "7L"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=wiOin5n9BW4"
+    },
+    {
+      "artist": "7L",
+      "title": "Loud and Clear",
+      "featured": [
+        "Esoteric"
+      ],
+      "producer": [
+        "7L"
+      ],
+      "audioLink": null
+    }
+  ]
+]

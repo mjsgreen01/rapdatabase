@@ -1,0 +1,64 @@
+[
+  [
+    {
+      "artist": "3OH!3",
+      "title": "Do Or Die",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=mphYTYKoOvA"
+    }
+  ],
+  [
+    {
+      "artist": "3OH!3",
+      "title": "I'm Not The One",
+      "featured": null,
+      "producer": [
+        "Greg Kurstin"
+      ],
+      "audioLink": "https://soundcloud.com/foreverhungry-1/im-not-the-one-3oh-3"
+    },
+    {
+      "artist": "3OH!3",
+      "title": "R.I.P",
+      "featured": null,
+      "producer": [
+        "3OH!3",
+        "Benny Blanco",
+        "Dr. Luke",
+        "Greg Kurstin",
+        "Matt Squire"
+      ],
+      "audioLink": "http://www.youtube.com/watch?v=4e4qsTr22XQ"
+    },
+    {
+      "artist": "3OH!3",
+      "title": "My first kiss",
+      "featured": [
+        "Kesha"
+      ],
+      "producer": null,
+      "audioLink": null
+    }
+  ],
+  [
+    {
+      "artist": "3OH!3",
+      "title": "Richman",
+      "featured": null,
+      "producer": null,
+      "audioLink": "http://www.youtube.com/watch?v=LbZrHqcBtog"
+    }
+  ],
+  [
+    {
+      "artist": "3OH!3",
+      "title": "Starstrukk",
+      "featured": [
+        "Katy Perry"
+      ],
+      "producer": null,
+      "audioLink": null
+    }
+  ]
+]

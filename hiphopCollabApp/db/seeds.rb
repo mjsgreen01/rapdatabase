@@ -41,12 +41,11 @@ def import_file(file_name)
 	
 end
 
-(1..9).each do |i|
-	(0..59).each do |j|
-		begin
-			import_file("#{Rails.root}/db/data/songData#{i}_#{j}.json")
-		rescue Exception => e
-			Rails.logger.error(e)
-		end	
-	end
+(1..214).each do |i|
+	begin
+		import_file("#{Rails.root}/db/data/songData#{i}.json")
+	rescue Exception => e
+		Rails.logger.error(e)
+		puts "error at file #{i}"
+	end	
 end
